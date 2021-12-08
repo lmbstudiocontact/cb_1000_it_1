@@ -1,0 +1,38 @@
+{
+  "english": "our",
+  "phat_am": "auə",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "của chúng ta",
+          "definition": "belonging to us",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "This is our house.",
+              "world_new": [
+                "house"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "ours",
+    "ourselves"
+  ],
+  "list_browse": [
+    "otherwise",
+    "otter",
+    "ought",
+    "ounce",
+    "our",
+    "ours",
+    "ourselves",
+    "oust",
+    "out"
+  ]
+}

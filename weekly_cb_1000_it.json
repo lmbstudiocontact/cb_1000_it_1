@@ -1,0 +1,94 @@
+{
+  "english": "weekly",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "hàng tuần",
+          "definition": "happening, published etc once a week",
+          "world_new": [
+            "happening",
+            "once",
+            "week"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a weekly magazine.",
+              "world_new": [
+                "magazine"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "adverb",
+      "list_definition": [
+        {
+          "mean_english": "tuần một lần",
+          "definition": "once a week",
+          "world_new": [
+            "once",
+            "week"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The newspaper is published weekly.",
+              "world_new": [
+                "newspaper"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "tuần san",
+          "definition": "a publication coming out once a week",
+          "world_new": [
+            "publication",
+            "once",
+            "week"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Is this newspaper a weekly or a daily?",
+              "world_new": [
+                "newspaper",
+                "daily"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The declines in average gross weekly real earnings were usually small when compared to the continuing increases in money earnings.",
+    "There are other types of papers, the provincials and weeklies, which are of special value.",
+    "As a supplement to these weekly earnings, the family received 12 stuivers poor relief.",
+    "Weekly costs of $2,935, $314, and $1,782 for the induction phase, remission phase, and relapse phase, respectively, were estimated.",
+    "Recently relevant articles have appeared in the serious weeklies and daily press.",
+    "The males showed a preference for a permanent method, followed closely by a weekly pill and 3-monthly injection.",
+    "They were then tested at two-weekly and sixweekly intervals for retention of the new vocabulary items.",
+    "I think its only justification was that it produced some rather amusing and searing lampoons in the weeklies."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "weedkiller",
+    "week",
+    "weekday",
+    "weekend",
+    "weekly",
+    "weep",
+    "weigh",
+    "weigh anchor",
+    "weigh in"
+  ]
+}

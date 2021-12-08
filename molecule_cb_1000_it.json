@@ -1,0 +1,48 @@
+{
+  "english": "molecule",
+  "phat_am": "ˈmolikjuːl",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "phân tử",
+          "definition": "the group of atoms that is the smallest unit into which a substance can be divided without losing its basic nature or identity.",
+          "world_new": [
+            "group",
+            "unit",
+            "substance",
+            "its",
+            "basic",
+            "nature",
+            "identity"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "All of these adhesion molecules have been proposed as vaccine targets.",
+    "During morphogenesis.positional information is conveyed to neiboring cells by signaling molecules.",
+    "These molecules, which are described in detail below, often exhibit differing functions in multiple developmental contexts, so preventing functional generalizations.",
+    "Peptides have also been implicated as signalling molecules in host-pathogen interactions.",
+    "Table 1) that determines how close two molecules or surfaces can get.",
+    "In addition, the dielectric constant in the pore region should be set to 1 where the water molecules are represented explicitly (but see discussion below).",
+    "It permits simulation of the coupled dynamics of valence electrons and ionic cores in a molecule or a material.",
+    "The energy taken up by the sorbent is transferred to the adsorbed substances, both water and acid molecules."
+  ],
+  "list_see_also": [
+    "molecular"
+  ],
+  "list_browse": [
+    "molar",
+    "molasses",
+    "mole",
+    "molecular",
+    "molecule",
+    "molehill",
+    "molest",
+    "molester",
+    "mollification"
+  ]
+}

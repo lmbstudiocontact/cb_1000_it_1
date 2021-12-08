@@ -1,0 +1,149 @@
+{
+  "english": "one",
+  "phat_am": "wan",
+  "list_english": [
+    {
+      "type_word": "number",
+      "list_definition": [
+        {
+          "mean_english": "số 1",
+          "definition": "the number or figure 1",
+          "world_new": [
+            "number",
+            "figure"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "One and one is two (1 + 1 = 2)."
+            }
+          ]
+        },
+        {
+          "mean_english": "1 tuổi",
+          "definition": "the age of 1",
+          "world_new": [
+            "age"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Babies start to talk at one.",
+              "world_new": [
+                "start",
+                "talk"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "pronoun",
+      "list_definition": [
+        {
+          "mean_english": "duy nhất",
+          "definition": "a single person or thing",
+          "world_new": [
+            "single",
+            "person"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She’s the one I like the best",
+              "world_new": [
+                "I",
+                "best"
+              ]
+            },
+            {
+              "ex_of_definition": "I’ll buy the red one.",
+              "world_new": [
+                "buy",
+                "red"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "bất kỳ ai",
+          "definition": "anyone; any person",
+          "world_new": [
+            "person"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "One can see the city from here.",
+              "world_new": [
+                "see",
+                "city"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "cùng chung",
+          "definition": "of the same opinion etc",
+          "world_new": [
+            "opinion"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We are one in our love of freedom.",
+              "world_new": [
+                "our",
+                "love",
+                "freedom"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "prefix",
+      "list_definition": [
+        {
+          "mean_english": "có một vật",
+          "definition": "having one (of something)",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a one-legged man."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "one-",
+    "oneself",
+    "one-night stand",
+    "one-off",
+    "one-parent family",
+    "one-sided",
+    "one-way",
+    "one-year-old",
+    "all one",
+    "be one up on (a person)",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "list_browse": [
+    "once and for all",
+    "once in a blue moon",
+    "once in a while",
+    "oncoming",
+    "one",
+    "one and all",
+    "one another",
+    "one by one",
+    "one day"
+  ]
+}

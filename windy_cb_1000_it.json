@@ -1,0 +1,51 @@
+{
+  "english": "windy",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "có gió",
+          "world_new": [],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a windy hill-top"
+            },
+            {
+              "ex_of_definition": "a windy day",
+              "world_new": [
+                "day"
+              ]
+            },
+            {
+              "ex_of_definition": "It’s windy today."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The story for the opposite-world condition was that it was very windy and the windmill was blown very hard, and eventually, everything else in the town was blown upside down.",
+    "The video becomes increasingly windy and distant, evoking the onset of winter.",
+    "Was bitterly windy this afternoon about 3 o'clock.",
+    "Within the growing season, some days are hot, windy, and dry.",
+    "Nothing but solitary, windy and deserted beaches greeted them.",
+    "The western section is also sunny, elevated and very windy, consequently evaporation is rapid.",
+    "In the upper canopy, higher irradiance and windy conditions create a drier environment, limiting the type and amount of decomposers and, therefore, the decay rates.",
+    "It was a terrible night, snowing and windy."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "windsurfer",
+    "windsurfing",
+    "windswept",
+    "windward",
+    "windy",
+    "wine",
+    "wing",
+    "wing commander",
+    "winged"
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "english": "slug",
+  "phat_am": "slaɡ",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "con sên",
+          "definition": "a kind of animal like a snail.",
+          "world_new": [
+            "kind",
+            "animal",
+            "snail"
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "viên đạn nhỏ",
+          "definition": "a piece of metal, especially an irregularly shaped lump used as a bullet.",
+          "world_new": [
+            "piece",
+            "metal",
+            "irregularly",
+            "shaped",
+            "lump",
+            "bullet"
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "đánh mạnh",
+          "definition": "to strike (a person) heavily usually causing unconsciousness",
+          "world_new": [
+            "strike",
+            "heavily",
+            "unconsciousness"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The man had been slugged on the back of the neck with a heavy object.",
+              "world_new": [
+                "neck",
+                "heavy",
+                "object"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "sluggish",
+    "sluggishly",
+    "sluggishness"
+  ],
+  "list_browse": [
+    "slow motion",
+    "slowly",
+    "slowness",
+    "sludge",
+    "slug",
+    "sluggish",
+    "sluggishly",
+    "sluggishness",
+    "sluice"
+  ]
+}

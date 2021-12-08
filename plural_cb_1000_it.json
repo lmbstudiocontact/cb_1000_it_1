@@ -1,0 +1,55 @@
+{
+  "english": "plural",
+  "phat_am": "ˈpluərəl",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "số nhiều",
+          "definition": "(in) the form of a word which expresses more than one",
+          "world_new": [
+            "form"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "‘Mice’ is the plural of ‘mouse’"
+            },
+            {
+              "ex_of_definition": "a plural noun/verb"
+            },
+            {
+              "ex_of_definition": "Is the verb in the singular or the plural?",
+              "world_new": [
+                "verb",
+                "singular"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "For the plural nature of value, in many settings at least, deprives it of the capacity to be determinative of choice.",
+    "Traditionally, everyone agrees that irregular plural nouns like feet have to be listed in the lexicon.",
+    "These emigrant letters are no exception to the rule that existential there is a strong context for use of plural verbal -s.",
+    "Collections are 'typically inanimate', they occur 'readily in the plural, but when singular cannot contract plural concord with the verb'.",
+    "Thus, the formation of regular plurals is an instance of ordinary combinatoriality.",
+    "The genitive case has three different markers, each restricted to a different subset of nouns, in both the singular and the plural.",
+    "It is possible that plural articles and clitics are later developmental attainments than their singular equivalents.",
+    "Of course, where there is agreement in number, there is no simple correlation of verb forms with singular and plural number."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "plunderer",
+    "plunge",
+    "plunger",
+    "pluperfect",
+    "plural",
+    "plus",
+    "plush",
+    "Pluto",
+    "plutonium"
+  ]
+}

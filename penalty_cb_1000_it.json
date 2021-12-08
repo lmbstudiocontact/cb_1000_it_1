@@ -1,0 +1,71 @@
+{
+  "english": "penalty",
+  "phat_am": "ˈpenlti",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "hình phạt/ tiền phạt",
+          "definition": "a punishment for doing wrong, breaking a contract etc",
+          "world_new": [
+            "punishment",
+            "wrong",
+            "contract"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "They did wrong and they will have to pay the penalty",
+              "world_new": [
+                "wrong",
+                "pay"
+              ]
+            },
+            {
+              "ex_of_definition": "The death penalty has been abolished in this country.",
+              "world_new": [
+                "death",
+                "country"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "cú phạt đền",
+          "definition": "in sport etc, a disadvantage etc that must be suffered for breaking the rules etc",
+          "world_new": [
+            "sport",
+            "disadvantage"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The referee awarded the team a penalty",
+              "world_new": [
+                "referee",
+                "team"
+              ]
+            },
+            {
+              "ex_of_definition": "(also adjective) a penalty kick",
+              "world_new": [
+                "kick"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "pen-knife",
+    "pen-name",
+    "penal",
+    "penalize",
+    "penalty",
+    "penance",
+    "pencil",
+    "pencil case",
+    "pencil sharpener"
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "english": "mortar",
+  "phat_am": "ˈmoːtə",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "vữa",
+          "definition": "a mixture of cement, sand and water, used in building eg to hold bricks in place.",
+          "world_new": [
+            "mixture",
+            "cement",
+            "sand",
+            "water",
+            "building",
+            "hold",
+            "place"
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "súng cối",
+          "definition": "a type of short gun for firing shells upwards, in close-range attacks.",
+          "world_new": [
+            "type",
+            "short",
+            "gun"
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cối giã",
+          "definition": "a dish in which to grind substances, especially with a pestle",
+          "world_new": [
+            "dish",
+            "grind",
+            "pestle"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a pestle and mortar.",
+              "world_new": [
+                "pestle"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "mortal",
+    "mortal sin",
+    "mortality",
+    "mortally",
+    "mortar",
+    "mortar-board",
+    "mortgage",
+    "mortician",
+    "mortification"
+  ]
+}

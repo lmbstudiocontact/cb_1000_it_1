@@ -1,0 +1,148 @@
+{
+  "english": "stay",
+  "phat_am": "stei",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "ở lại, lưu lại",
+          "definition": "to remain (in a place) for a time, eg while travelling, or as a guest etc",
+          "world_new": [
+            "remain",
+            "time",
+            "guest"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We stayed three nights at that hotel / with a friend / in Paris",
+              "world_new": [
+                "hotel",
+                "friend"
+              ]
+            },
+            {
+              "ex_of_definition": "Aunt Mary is coming to stay (for a fortnight)"
+            },
+            {
+              "ex_of_definition": "Would you like to stay for supper?",
+              "world_new": [
+                "supper"
+              ]
+            },
+            {
+              "ex_of_definition": "Stay and watch that television programme.",
+              "world_new": [
+                "watch",
+                "television",
+                "programme"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "ở trong trạng thái, điều kiện, vị trí nào đó",
+          "definition": "to remain (in a particular position, place, state or condition)",
+          "world_new": [
+            "remain",
+            "particular",
+            "position",
+            "place",
+            "state"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The doctor told her to stay in bed",
+              "world_new": [
+                "doctor",
+                "bed"
+              ]
+            },
+            {
+              "ex_of_definition": "He never stays long in any job",
+              "world_new": [
+                "long",
+                "job"
+              ]
+            },
+            {
+              "ex_of_definition": "Stay away from the office till your cold is better",
+              "world_new": [
+                "office",
+                "your",
+                "cold",
+                "better"
+              ]
+            },
+            {
+              "ex_of_definition": "Why won’t these socks stay up?"
+            },
+            {
+              "ex_of_definition": "Stay where you are – don’t move!",
+              "world_new": [
+                "move"
+              ]
+            },
+            {
+              "ex_of_definition": "In 1900, people didn’t realize that motor cars were here to stay.",
+              "world_new": [
+                "people",
+                "realize",
+                "motor"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự lưu lại",
+          "definition": "a period of staying (in a place etc)",
+          "world_new": [
+            "period",
+            "place"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We had an overnight stay / a two days’ stay in London.",
+              "world_new": [
+                "overnight"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Their objective was to explain variation in the duration of hospital stays across hospitals and among doctors within hospitals.",
+    "Even so, the freshness and value of each new occasion stays intact.",
+    "By staying within the safe environmental limits, much of the biodiversity would be conserved, while income per capita rose.",
+    "Little is known about the cost of hospital-acquired illness during hospital stays or after discharge.",
+    "In many situations, dropouts are not the same patient population as those who stayed within the trial.",
+    "A difference was demonstrated, attributable to differences in numbers of hospital stays.",
+    "She took the bird outside and set it onto its feet, the right way up, where it stayed shaking.",
+    "The song is constructed out of many interlocking parts, none of which presents a full-blown melody that stays in the foreground."
+  ],
+  "list_see_also": [
+    "stay behind",
+    "stay in",
+    "stay out",
+    "stay put",
+    "stay up"
+  ],
+  "list_browse": [
+    "staunch",
+    "staunchly",
+    "staunchness",
+    "stave",
+    "stay",
+    "stay behind",
+    "stay in",
+    "stay out",
+    "stay put"
+  ]
+}

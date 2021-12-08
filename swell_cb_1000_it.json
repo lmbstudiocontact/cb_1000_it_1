@@ -1,0 +1,122 @@
+{
+  "english": "swell",
+  "phat_am": "swel",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "phồng lên, to lên, căng ra",
+          "definition": "to make or become larger, greater or thicker",
+          "world_new": [
+            "become"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The insect-bite made her finger swell",
+              "world_new": [
+                "finger"
+              ]
+            },
+            {
+              "ex_of_definition": "The continual rain had swollen the river",
+              "world_new": [
+                "continual",
+                "rain",
+                "swollen",
+                "river"
+              ]
+            },
+            {
+              "ex_of_definition": "I invited her to join us on the excursion in order to swell the numbers.",
+              "world_new": [
+                "I",
+                "join",
+                "excursion",
+                "order"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sóng biển động, sóng cồn",
+          "definition": "a rolling condition of the sea, usually after a storm",
+          "world_new": [
+            "rolling",
+            "condition",
+            "sea",
+            "storm"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The sea looked fairly calm but there was a heavy swell.",
+              "world_new": [
+                "sea",
+                "fairly",
+                "calm",
+                "heavy"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "tốt, hợp thời trang",
+          "definition": "used as a term of approval",
+          "world_new": [
+            "term",
+            "approval"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a swell idea",
+              "world_new": [
+                "idea"
+              ]
+            },
+            {
+              "ex_of_definition": "That’s swell!"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The measurement software can determine area, perimeter, width, length and eccentricity as descriptors of changes in seed size during swelling.",
+    "Thus, in the beginning, the two pointed ends of the ligament contract to form two swells in an effort to equalize the pressure distribution.",
+    "Venous or pulmonary blood clots are often suspected in cases of leg swelling or sudden respiratory distress, but diagnosis is complicated.",
+    "After a while the procession returned and the crowd had swelled.",
+    "The ranks of producers have swelled in recent years with the advent of small, computer-based studios.",
+    "Another chorale emerges low in the strings and swells into a gloriously rich passage of immediate emotional appeal.",
+    "Far from plate boundaries, we encounter examples of isostasy at intracratonic basins, mid-plate hotspot swells and seamount chains.",
+    "Company agonized much less about swelling land-revenue demands in other territories than in its own."
+  ],
+  "list_see_also": [
+    "swelling",
+    "swollen",
+    "swollen-headed",
+    "swell out",
+    "swell up"
+  ],
+  "list_browse": [
+    "sweetener",
+    "sweetheart",
+    "sweetly",
+    "sweetness",
+    "swell",
+    "swell out",
+    "swell up",
+    "swelling",
+    "swelter"
+  ]
+}

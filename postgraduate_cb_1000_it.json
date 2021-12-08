@@ -1,0 +1,61 @@
+{
+  "english": "postgraduate",
+  "phat_am": "pəusˈɡrӕdjuət",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "sau đại học",
+          "definition": "(of studies etc) done etc after a (first) university degree",
+          "world_new": [
+            "university",
+            "degree"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a postgraduate degree.",
+              "world_new": [
+                "degree"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sinh viên cao học",
+          "definition": "a student doing post-graduate studies.",
+          "world_new": [
+            "student"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "What comes over loud and clear in the report on postgraduates is that there is an appalling dearth of statistics.",
+    "They include postgraduates and are for students on all years of their course.",
+    "The future of the fee support scheme, which has been available to help a limited number of individual postgraduates, is under review.",
+    "Secondly, there will be a bigger proportion of undergraduates and a smaller proportion of postgraduates.",
+    "The idea of loans for postgraduates certainly needs further thought.",
+    "I have made the point that such courses will apply only to postgraduates.",
+    "We are squeezing the amount of help to postgraduates.",
+    "They will remove postgraduates from entitlement to housing benefit, without offering them loans in replacement."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "poste restante",
+    "poster",
+    "posterior",
+    "posterity",
+    "postgraduate",
+    "posthumous",
+    "posthumously",
+    "postman",
+    "postmark"
+  ]
+}

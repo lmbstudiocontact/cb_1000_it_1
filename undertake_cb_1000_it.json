@@ -1,0 +1,72 @@
+{
+  "english": "undertake",
+  "phat_am": "andəˈteik",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "đảm nhận",
+          "definition": "to accept (a duty, task, responsibility etc)",
+          "world_new": [
+            "accept",
+            "duty",
+            "task",
+            "responsibility"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He undertook the job willingly.",
+              "world_new": [
+                "job",
+                "willingly"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "cam kết",
+          "definition": "to promise (eg to do something)",
+          "world_new": [
+            "promise"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He has undertaken to have the work finished by the end of the month.",
+              "world_new": [
+                "work",
+                "finished",
+                "month"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Thus, we undertook to examine the effect of various approaches to allocating cost when multiple diagnoses are listed for hospitalizations.",
+    "The task was formidable but has been undertaken successfully.",
+    "Adequately identifying and effectively measuring all relevant consumptive and non-consumptive values of varying stockholders is a non-trivial and complex matter, but it must be undertaken.",
+    "In closing, however, let me provide a reminder of the character of the exercise we have undertaken.",
+    "All observations and experiments, except those dealing with phenological synchronization with the host, were undertaken in the laboratory.",
+    "The complete solution of these fundamental equations requires a numerical investigation of considerable complexity which has not been undertaken.",
+    "Several graptolite studies have been undertaken in the area.",
+    "Given that such an exercise is not costless, it is only worth undertaking if the benefit from doing so outweighs the costs."
+  ],
+  "list_see_also": [
+    "undertaker",
+    "undertaking"
+  ],
+  "list_browse": [
+    "understanding",
+    "understate",
+    "understatement",
+    "understudy",
+    "undertake",
+    "undertaker",
+    "undertaking",
+    "underwater",
+    "underwear"
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "english": "wed",
+  "phat_am": "wed",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "cưới",
+          "definition": "to marry",
+          "world_new": [
+            "marry"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "They are planning to wed next July.",
+              "world_new": [
+                "planning",
+                "July"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "written abbreviation",
+      "list_definition": [
+        {
+          "mean_english": "thứ tư",
+          "definition": "short for Wednesday.",
+          "world_new": [
+            "short"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "I wed this broad recognition with the tools of poetic-semiotic analysis in my approach to parallelism.",
+    "Imperial political culture remained wedded to the belief in the sanctity of corporate rights and responsibilities.",
+    "They are also wedded to a traditional understanding of social class, rather than recent developments in sociological analysis and educational studies.",
+    "Of course, those who are wedded to either the consociational or the incentives-based approach may still not be convinced.",
+    "Similarly, the genuine friend's trait of character may be conceived as being wedded to action.",
+    "In particular, it is wedded to an historical perspective, in which attention is paid to specific sequences and contexts.",
+    "The question is, therefore, whether social-cognitive psychologists are wedded, not to the investigation of \"problems,\" but to reliance on a valence matching heuristic.",
+    "The volume ends on a scene of novelistically typical wedded bliss."
+  ],
+  "list_see_also": [
+    "wedding"
+  ],
+  "list_browse": [
+    "webbed",
+    "webbing",
+    "webcam",
+    "website",
+    "wed",
+    "wedding",
+    "wedge",
+    "wedlock",
+    "Wednesday"
+  ]
+}

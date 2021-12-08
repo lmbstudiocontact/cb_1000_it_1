@@ -1,0 +1,52 @@
+{
+  "english": "times",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun plural",
+      "list_definition": [
+        {
+          "mean_english": "giai đoạn, thời đại",
+          "definition": "a period; an era",
+          "world_new": [
+            "era"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We live in difficult times.",
+              "world_new": [
+                "live",
+                "difficult"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "nhân lên",
+          "definition": "in mathematics, used to mean multiplied by",
+          "world_new": [
+            "mathematics",
+            "mean"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Four times two is eight."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "timelessness",
+    "timeliness",
+    "timely",
+    "timer",
+    "times",
+    "timetable",
+    "timid",
+    "timidity",
+    "timidly"
+  ]
+}

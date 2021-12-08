@@ -1,0 +1,97 @@
+{
+  "english": "total",
+  "phat_am": "ˈtəutəl",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "tổng số",
+          "definition": "whole; complete",
+          "world_new": [
+            "complete"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "What is the total cost of the holiday?",
+              "world_new": [
+                "cost",
+                "holiday"
+              ]
+            },
+            {
+              "ex_of_definition": "The car was a total wreck.",
+              "world_new": [
+                "car",
+                "wreck"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự tổng cộng lại",
+          "definition": "the whole amount, ie of various sums added together",
+          "world_new": [
+            "whole",
+            "amount",
+            "various",
+            "added"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The total came to / was $10."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "tổng cộng là",
+          "definition": "to add up or amount to",
+          "world_new": [
+            "add",
+            "amount"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The doctor’s fees totalled $200."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Decline in soil organic carbon and total nitrogen in relation to tillage, stubble management and rotation.",
+    "Frustration remained a predictor of internalizing, externalizing, and total symptoms (data available on request).",
+    "Frustration remained a predictor of internalizing, externalizing, and total symptoms.",
+    "The surprising behaviour of the surfaces of constant total pressure occurs entirely in the boundary layer.",
+    "A total of 92 % of eligible infants were recruited.",
+    "Rice and wheat account for nearly 75% of the total food grains produced.",
+    "In addition, we removed items with negative item- total correlations.",
+    "The dashed line is the theoretical total nuclei assuming all neurons survive and astroglia start at zero."
+  ],
+  "list_see_also": [
+    "totally",
+    "total up"
+  ],
+  "list_browse": [
+    "Tory",
+    "toss",
+    "toss up",
+    "tot",
+    "total",
+    "total up",
+    "totally",
+    "tote",
+    "totem"
+  ]
+}

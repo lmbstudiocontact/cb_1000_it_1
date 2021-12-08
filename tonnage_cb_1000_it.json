@@ -1,0 +1,43 @@
+{
+  "english": "tonnage",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "khả năng chuyên chở của tàu thuyền",
+          "definition": "the space available on a ship, measured in tons.",
+          "world_new": [
+            "space",
+            "available",
+            "ship",
+            "tons"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "In the case of shipping it was possible to arrive at a certain standardization of the data, in particular with reference to tonnage.",
+    "Jean did in fact have to cancel the next day's flight, for lack of adequate tonnage.",
+    "In the former, the typical variables are population sizes (or, alternatively, tonnage) of different species; in the latter, they are indices of various services.",
+    "Denazification generated such a vast tonnage of paper as to threaten unmanageability.",
+    "We know of no published value for the percentage of the total tonnage that is from seedless cultivars.",
+    "The figures do not represent the ships' tonnage, but their actual load, including almost empty or overloaded ships.",
+    "It has a gross tonnage of 2000 tonnes.",
+    "During 1970-90, the world's fishing fleet grew at twice the rate of the global catch, doubling in both ships' numbers and tonnage."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "tongue",
+    "tongue twister",
+    "tonic",
+    "tonight",
+    "tonnage",
+    "tons",
+    "tonsil",
+    "tonsillitis",
+    "too"
+  ]
+}

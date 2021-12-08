@@ -1,0 +1,126 @@
+{
+  "english": "this",
+  "phat_am": "ðis",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "dùng chỉ người, vật ở gần",
+          "definition": "used to indicate a person, thing etc nearby or close in time",
+          "world_new": [
+            "indicate",
+            "person",
+            "nearby",
+            "close",
+            "time"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "This book is better than that (one)",
+              "world_new": [
+                "book",
+                "better"
+              ]
+            },
+            {
+              "ex_of_definition": "I prefer these trousers.",
+              "world_new": [
+                "I",
+                "prefer",
+                "trousers"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "dùng cho nhân vật trong truyện",
+          "definition": "used in stories to indicate a person, thing etc that one is describing or about to describe",
+          "world_new": [
+            "indicate",
+            "person",
+            "describe"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Then this man arrived."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "pronoun",
+      "list_definition": [
+        {
+          "mean_english": "dùng cho người vật ở gần",
+          "definition": "used for a thing etc or a person nearby or close in time",
+          "world_new": [
+            "person",
+            "nearby",
+            "close",
+            "time"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Read this – you’ll like it"
+            },
+            {
+              "ex_of_definition": "This is my friend Clive Andrews.",
+              "world_new": [
+                "my",
+                "friend"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "adverb",
+      "list_definition": [
+        {
+          "mean_english": "với mức độ này, đến như thế này",
+          "definition": "so; to this degree",
+          "world_new": [
+            "degree"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I didn’t think it would be this easy.",
+              "world_new": [
+                "I",
+                "think",
+                "easy"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "In order to overcome this obstacle we had to change the way we did business.",
+    "However, this variable is significant only if we exclude the level of democracy.",
+    "In this work, we analyzed both real and completely synthetic data with many algorithms to assess cluster accuracy and stability.",
+    "In this situation, voters face a standard inference problem of predicting the unobservable type (whether competent or not) of the incumbent from the observable policy.",
+    "Other elements of spatial diffusion, however, also emerge in this research.",
+    "There is no commercially available centromeric probe for chromosome 13 to enable additional support for this interpretation.",
+    "Now let us state the trace and trace lifting theorems in this context.",
+    "Rather, this research design may be more like the 'end of the beginning'."
+  ],
+  "list_see_also": [
+    "like this"
+  ],
+  "list_browse": [
+    "thirties",
+    "thirtieth",
+    "thirty",
+    "thirty-year-old",
+    "this",
+    "this instant",
+    "thistle",
+    "tho’",
+    "thong"
+  ]
+}

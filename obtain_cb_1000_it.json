@@ -1,0 +1,54 @@
+{
+  "english": "obtain",
+  "phat_am": "əbˈtein",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "đạt được",
+          "definition": "to get; to become the possessor of",
+          "world_new": [
+            "become",
+            "possessor"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He obtained a large sum of money by selling the house.",
+              "world_new": [
+                "large",
+                "sum",
+                "money",
+                "house"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "There is one overall score obtained by summing the \"yes\" responses.",
+    "Second, merozoites obtained early in culture (30-90 min) had the highest invasiveness.",
+    "Through repetitive training, the controller obtains knowledge about the system and the tracking length is elongated gradually.",
+    "Results obtained for many proteins have serendipitously revealed a new dimension of protein structure.",
+    "When family members joined the interviews, the same explanations were given and the same consent obtained.",
+    "In liquids, this value can be obtained in both experiment and computer simulation by using the radial distribution function g(r).",
+    "Where appropriate, data obtained with these techniques are also discussed in the following sections.",
+    "Shaping parameters were obtained using the concept of modalfiltered impulse response."
+  ],
+  "list_see_also": [
+    "obtainable"
+  ],
+  "list_browse": [
+    "obstinately",
+    "obstruct",
+    "obstruction",
+    "obstructive",
+    "obtain",
+    "obtainable",
+    "obtrusive",
+    "obtrusively",
+    "obtrusiveness"
+  ]
+}

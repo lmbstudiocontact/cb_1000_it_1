@@ -1,0 +1,73 @@
+{
+  "english": "require",
+  "phat_am": "rəˈkwaiə",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "cần đến",
+          "definition": "to need",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Is there anything else you require?",
+              "world_new": [
+                "else"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "yêu cầu",
+          "definition": "to ask, force or order to do something",
+          "world_new": [
+            "ask",
+            "force",
+            "order"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "You are required by law to send your children to school",
+              "world_new": [
+                "law",
+                "send",
+                "your",
+                "school"
+              ]
+            },
+            {
+              "ex_of_definition": "I will do everything that is required of me.",
+              "world_new": [
+                "I"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Large quantities of grass (and grain) are required before they are useful.",
+    "At each end point of the path, a configuration is required.",
+    "The highest element requires only one assembly operation.",
+    "An estimate of the relative transmissibility of wild-type and variant is thus required.",
+    "The model requires a recall function to distinguish a whole shape from a portion of an object.",
+    "But its birth required a leap of the imagination.",
+    "These assumptions are weaker than those required to prove (3.11).",
+    "Because no reading was required, we were able to test children as young as five years of age."
+  ],
+  "list_see_also": [
+    "requirement"
+  ],
+  "list_browse": [
+    "reputation",
+    "reputed",
+    "request",
+    "requiem",
+    "require",
+    "requirement",
+    "rescue",
+    "rescuer",
+    "research"
+  ]
+}

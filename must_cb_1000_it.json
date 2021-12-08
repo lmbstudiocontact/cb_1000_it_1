@@ -1,0 +1,120 @@
+{
+  "english": "must",
+  "phat_am": "mast",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "phải",
+          "definition": "used with another verb to express need",
+          "world_new": [
+            "verb",
+            "express"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We must go to the shops to get milk.",
+              "world_new": [
+                "milk"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "cần",
+          "definition": "used, usually with another verb, to suggest a probability",
+          "world_new": [
+            "verb",
+            "suggest",
+            "probability"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "They must be finding it very difficult to live in such a small house.",
+              "world_new": [
+                "difficult",
+                "live",
+                "small",
+                "house"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "cần thiết",
+          "definition": "used, usually with another verb, to express duty, an order, rule etc",
+          "world_new": [
+            "verb",
+            "express",
+            "duty",
+            "order",
+            "rule"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "You must come home before midnight",
+              "world_new": [
+                "home",
+                "midnight"
+              ]
+            },
+            {
+              "ex_of_definition": "All competitors must be under 15 years of age.",
+              "world_new": [
+                "age"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "chắc hẳn",
+          "definition": "something necessary, essential, or not to be missed",
+          "world_new": [
+            "necessary",
+            "essential"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "This new tent is a must for the serious camper.",
+              "world_new": [
+                "tent",
+                "serious",
+                "camper"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "I am sure that this is one of the \"musts\" if we are to get out of the problem that we find ourselves in at the present time.",
+    "By (f.sf) f : sf and sf : f must also be empty.",
+    "There must be an increased availability and access to drug treatment that is sensitive to pregnant and post-partum women in an urban society.",
+    "Education, or the formation of ' human capital ', does come out as the only clear factor that must be enhanced.",
+    "We must therefore turn to a paraconsistent notion of entailment.",
+    "You mustn't let something that is all right for you look.",
+    "To maintain or recapture a world position in shipbuilding three musts are involved.",
+    "Moving away from the \"musts\" to the mechanics, the preservation and development of the countryside need a healthily sized rural population."
+  ],
+  "list_see_also": [
+    "must have"
+  ],
+  "list_browse": [
+    "musketeer",
+    "Muslim",
+    "muslin",
+    "mussel",
+    "must",
+    "must have",
+    "mustard",
+    "muster",
+    "musty"
+  ]
+}

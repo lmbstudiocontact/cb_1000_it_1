@@ -1,0 +1,61 @@
+{
+  "english": "thank",
+  "phat_am": "θӕŋk",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "cảm ơn",
+          "definition": "to express appreciation or gratitude to (someone) for a favour, service, gift etc",
+          "world_new": [
+            "express",
+            "appreciation",
+            "gratitude",
+            "favour",
+            "service",
+            "gift"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He thanked me for the present",
+              "world_new": [
+                "present"
+              ]
+            },
+            {
+              "ex_of_definition": "She thanked him for inviting her.",
+              "world_new": [
+                "inviting"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "thankful",
+    "thankfully",
+    "thankfulness",
+    "thankless",
+    "thanklessly",
+    "thanklessness",
+    "thanks",
+    "Thanksgiving",
+    "thanksgiving",
+    "thanks to",
+    ""
+  ],
+  "list_browse": [
+    "textbook",
+    "textile",
+    "texture",
+    "than",
+    "thank",
+    "thank goodness",
+    "thank heavens",
+    "thank one’s lucky stars",
+    "thank you"
+  ]
+}

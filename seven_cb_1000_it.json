@@ -1,0 +1,59 @@
+{
+  "english": "seven",
+  "phat_am": "ˈsevn",
+  "list_english": [
+    {
+      "type_word": "number",
+      "list_definition": [
+        {
+          "mean_english": "số bảy",
+          "definition": "the number or figure 7.",
+          "world_new": [
+            "number",
+            "figure"
+          ]
+        },
+        {
+          "mean_english": "bảy tuổi",
+          "definition": "the age of 7.",
+          "world_new": [
+            "age"
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "prefix",
+      "list_definition": [
+        {
+          "mean_english": "thuộc số bảy",
+          "definition": "having seven (of something)",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a seven-sided figure.",
+              "world_new": [
+                "figure"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "seven-",
+    "seventh",
+    "seven-year-old"
+  ],
+  "list_browse": [
+    "settle on",
+    "settle up",
+    "settlement",
+    "settler",
+    "seven",
+    "seven-year-old",
+    "seventeen",
+    "seventeen-year-old",
+    "seventeenth"
+  ]
+}

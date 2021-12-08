@@ -1,0 +1,175 @@
+{
+  "english": "regard",
+  "phat_am": "rəˈɡaːd",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "coi như",
+          "definition": "(with as) to consider to be",
+          "world_new": [
+            "consider"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I regard his conduct as totally unacceptable.",
+              "world_new": [
+                "I",
+                "conduct",
+                "totally",
+                "unacceptable"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "coi trọng",
+          "definition": "to think of as being very good, important etc; to respect",
+          "world_new": [
+            "think",
+            "important",
+            "respect"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He is very highly regarded by his friends.",
+              "world_new": [
+                "highly"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "nhận xét ai",
+          "definition": "to think of (with a particular emotion or feeling)",
+          "world_new": [
+            "think",
+            "particular",
+            "emotion"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I regard him with horror",
+              "world_new": [
+                "I",
+                "horror"
+              ]
+            },
+            {
+              "ex_of_definition": "He regards his wife’s behaviour/behavior with amusement.",
+              "world_new": [
+                "regards",
+                "amusement"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "nhìn",
+          "definition": "to look at",
+          "world_new": [
+            "look"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He regarded me over the top of his glasses.",
+              "world_new": [
+                "top",
+                "glasses"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "chú ý",
+          "definition": "to pay attention to (advice etc).",
+          "world_new": [
+            "pay",
+            "attention"
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "suy nghĩ; sự chú ý",
+          "definition": "thought; attention",
+          "world_new": [
+            "attention"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He ran into the burning house without regard for his safety.",
+              "world_new": [
+                "house",
+                "safety"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sự thông cảm",
+          "definition": "sympathy; care; consideration",
+          "world_new": [
+            "consideration"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He shows no regard for other people.",
+              "world_new": [
+                "people"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "quý trọng",
+          "definition": "good opinion; respect",
+          "world_new": [
+            "respect"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I hold him in high regard.",
+              "world_new": [
+                "I",
+                "hold"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Therefore, the psychiatric conditions were not regarded as a plausible explanation of the symptoms.",
+    "Obtaining robustness for a discourse parser is a demanding task due to the many unresolved theoretical issues regarding the derivation of the discourse structure.",
+    "Given these findings, suggestions are made regarding the necessary future direction of environmental policy.",
+    "Two of his themes are analysed with regard to their contribution to an analytic understanding of the issues.",
+    "The qualitative analyses focus on the learners' metalinguistic knowledge with regard to article selection.",
+    "All other hypotheses are also supported, and suggestions regarding the necessary future direction of environmental policy are made.",
+    "A random railway is a random 3-regular multigraph where each vertex is regarded as a switch in a randomly chosen orientation.",
+    "In the above conversation, the nurse followed up her responsibilities agreed at the discharge planning meeting regarding discussing discharge issues with the patient."
+  ],
+  "list_see_also": [
+    "regarding",
+    "regardless",
+    "regards",
+    "as regards",
+    "with regard to"
+  ],
+  "list_browse": [
+    "regain",
+    "regal",
+    "regalia",
+    "regally",
+    "regard",
+    "regarding",
+    "regardless",
+    "regards",
+    "regatta"
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "english": "necessary",
+  "phat_am": "ˈnesisəri",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "cần thiết",
+          "definition": "needed; essential",
+          "world_new": [
+            "essential"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Is it necessary to sign one’s name?",
+              "world_new": [
+                "sign",
+                "name"
+              ]
+            },
+            {
+              "ex_of_definition": "I shall do all that is necessary.",
+              "world_new": [
+                "I"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The regulating spring provides the necessary sealing pressure and helps to improve the surface adaptability of the robot.",
+    "In practice these ' necessaries ' often took the form of food and fuel, of mutton broth and sustaining porter or port.",
+    "Families were in poverty, he said, if their 'total earnings are insufficient to obtain the minimum necessaries for the maintenance of merely physical efficiency'.",
+    "Canonical isomorphisms are used to distinguish different orders of composition, which allow terms to express the shape-data, or functor-argument decomposition necessary to locate their data.",
+    "Therefore, to achieve the uniqueness of \"normalized\" derivations, it is necessary that all (bounded) joins exist in the type system.",
+    "The contract for £450 sterling to ' repair ' the king's chapel records that 'desks, stalls, lofts and other necessaries ' were to be inserted.",
+    "The size metric is necessary to justify an inductive call in which 0 and 2 are swapped.",
+    "All of this is necessary, but so is a national population research centre and more funding for demographic research in general."
+  ],
+  "list_see_also": [
+    "necessarily",
+    "necessitate",
+    "necessity"
+  ],
+  "list_browse": [
+    "neat",
+    "neatly",
+    "neatness",
+    "necessarily",
+    "necessary",
+    "necessitate",
+    "necessity",
+    "neck",
+    "neck and neck"
+  ]
+}

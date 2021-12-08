@@ -1,0 +1,87 @@
+{
+  "english": "method",
+  "phat_am": "ˈmeθəd",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "phương pháp",
+          "definition": "the way in which one does something",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I don’t like his methods of training workers.",
+              "world_new": [
+                "I",
+                "training"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "thứ tự",
+          "definition": "an orderly or fixed series of actions for doing something",
+          "world_new": [
+            "orderly",
+            "fixed",
+            "series"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Follow the method set down in the instruction book.",
+              "world_new": [
+                "instruction",
+                "book"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "cách thức",
+          "definition": "good sense and a definite plan",
+          "world_new": [
+            "sense",
+            "definite",
+            "plan"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Her work seems to lack method.",
+              "world_new": [
+                "work",
+                "lack"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "This paper continues the approach of the second author, of analysing algorithms on random structures using a differential equation method.",
+    "His method uses return times of random walks to estimate the size of connected components.",
+    "Singularly lacking is a systematic, replicable method of identifying the strategies these parties pursue.",
+    "A revised class play method of peer assessment.",
+    "In the beginning, we assumed that the robots cannot change their paths in these methods.",
+    "We also use the combinatorial method to study random walks on the circle.",
+    "This reinforces our findings and provides evidence that the results are not a function of this shared method variance.",
+    "This method provides students with detailed examples and descriptions of phonetic and phonemic analyses."
+  ],
+  "list_see_also": [
+    "methodical",
+    "methodically",
+    "methodology",
+    "methodological"
+  ],
+  "list_browse": [
+    "meteorologist",
+    "meteorology",
+    "meter",
+    "methane",
+    "method",
+    "methodical",
+    "methodically",
+    "Methodist",
+    "methodological"
+  ]
+}

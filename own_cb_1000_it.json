@@ -1,0 +1,100 @@
+{
+  "english": "own",
+  "phat_am": "əun",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "sở hữu",
+          "definition": "to have as a possession",
+          "world_new": [
+            "possession"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I own a car.",
+              "world_new": [
+                "I",
+                "car"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "thừa nhận",
+          "definition": "to admit that something is true",
+          "world_new": [
+            "admit",
+            "true"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I own that I have not been working very hard.",
+              "world_new": [
+                "I",
+                "I"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "của chính mình",
+          "definition": "belonging to (the person stated)",
+          "world_new": [
+            "person"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The house is my own",
+              "world_new": [
+                "house",
+                "my"
+              ]
+            },
+            {
+              "ex_of_definition": "I saw it with my own eyes.",
+              "world_new": [
+                "I",
+                "saw",
+                "my"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Such an example could be of use to teachers working out their own ways of teaching musics from around the world.",
+    "It presents arguments for the relevance of the child's own production for the building of linguistic representations.",
+    "However, rural reform has not abolished such ruralism but replaced it with its own version.",
+    "She foregrounds experience and her own subjective responses, sometimes at the expense of situating her work within existing theoretical milieus.",
+    "His approach to psychopathology was sceptical and philosophical; and he never created his own school of psychiatric, let alone psychopathological, teaching.",
+    "On the other hand, each form has its own unique onset and rime, which means that no form benefits from phonetic consistency.",
+    "Parents' own health risk behaviours were correlated with those reported for their children.",
+    "Our own compendium takes these into account, adding several revisions and new identifications."
+  ],
+  "list_see_also": [
+    "owner",
+    "ownership",
+    "get one’s own back",
+    "own up"
+  ],
+  "list_browse": [
+    "owe",
+    "owing",
+    "owing to",
+    "owl",
+    "own",
+    "own up",
+    "owner",
+    "ownership",
+    "ox"
+  ]
+}

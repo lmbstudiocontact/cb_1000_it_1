@@ -1,0 +1,51 @@
+{
+  "english": "unfriendly",
+  "phat_am": "anˈfrendli",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "không thân thiện",
+          "definition": "not friendly",
+          "world_new": [
+            "friendly"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The locals tend to be rather unfriendly towards strangers.",
+              "world_new": [
+                "tend",
+                "rather"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The accuracy results for all decision strategies decrease as the environment changes from friendly to neutral to unfriendly.",
+    "They can be used with large numbers and have been employed in such 'unfriendly' environments as full-tiered lecture theatres.",
+    "They are more like friendly ghosts who occasionally become unfriendly enough to haunt one.",
+    "An environment with many cues can be extremely friendly, but not extremely unfriendly.",
+    "We argue that unfriendly environments must be considered when evaluating decision rules.",
+    "The decision strategies were evaluated for choices in three environments: friendly, neutral, and unfriendly.",
+    "The unfriendly faces, illuminated by the glow of the fire, communicate their unified defiance through the faintest of smiles.",
+    "Why cling to notoriously unfriendly spellings, when we modernize everything else?"
+  ],
+  "list_see_also": [
+    "unfriendliness"
+  ],
+  "list_browse": [
+    "unfortunate",
+    "unfortunately",
+    "unfounded",
+    "unfriendliness",
+    "unfriendly",
+    "unfurnished",
+    "ungainliness",
+    "ungainly",
+    "ungracious"
+  ]
+}

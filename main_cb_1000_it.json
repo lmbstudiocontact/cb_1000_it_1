@@ -1,0 +1,92 @@
+{
+  "english": "main",
+  "phat_am": "mein",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "chính; quan trọng nhất",
+          "definition": "chief, principal or most important",
+          "world_new": [
+            "chief",
+            "principal",
+            "important"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the main purpose",
+              "world_new": [
+                "purpose"
+              ]
+            },
+            {
+              "ex_of_definition": "the main character in the story.",
+              "world_new": [
+                "character",
+                "story"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "đường trục chính; mạng lưới chính",
+          "definition": "(also mains) the chief pipe or cable in a branching system of pipes or cables",
+          "world_new": [
+            "chief",
+            "pipe",
+            "cable",
+            "system",
+            "pipes"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The water’s been turned off at the main(s)"
+            },
+            {
+              "ex_of_definition": "(also adjective) the mains electricity supply.",
+              "world_new": [
+                "electricity",
+                "supply"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Before stating the main theorem, we define the pseudogeodesics and give their symbolic encoding.",
+    "The constraints (7) are the main dynamics while (8) are technical and physical constraints.",
+    "Response rates were 96 per cent from the main valley and surrounding district.",
+    "However, the main campaign issue was on promoting economic development and reducing the high unemployment rate.",
+    "The main idea of tabling is to memorize the answers to some subgoals and use the answers to resolve subsequent variant subgoals.",
+    "The main points of the paper can be made within this simpler structure.",
+    "I will begin by outlining the concept of self-ownership, and go on to explain the two main objections to the concept: one philosophical, one ideological.",
+    "Ineffective management and unco-ordinated information systems were perceived to be the main obstacles for both groups."
+  ],
+  "list_see_also": [
+    "mainly",
+    "mainframe",
+    "mainland",
+    "main line",
+    "mainspring",
+    "mainstream"
+  ],
+  "list_browse": [
+    "mailbag",
+    "mailbox",
+    "mailman",
+    "maim",
+    "main",
+    "main line",
+    "mainframe",
+    "mainland",
+    "mainly"
+  ]
+}

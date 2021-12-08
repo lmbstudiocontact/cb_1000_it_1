@@ -1,0 +1,49 @@
+{
+  "english": "safely",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "adverb",
+      "list_definition": [
+        {
+          "mean_english": "an toàn",
+          "definition": "without harm or risk",
+          "world_new": [
+            "harm",
+            "risk"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He got home safely.",
+              "world_new": [
+                "home"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "They gave two example of such approaches, the argumentation inference and the safely supported inference.",
+    "The number of physicians who could undertake the invasive procedure of amniocentesis safely were limited, as were laboratories who could culture amniotic samples.",
+    "X is designed to treat you safely and naturally without the worries you may find with prescription medications and their unwanted side effects.",
+    "Concerning implementation issues, for linear programs one may safely inline the term bound to any variable, or safely update structures in place.",
+    "It is the septal component adjacent to the obtuse margin which can safely be resected to enlarge the defect.",
+    "Investigators can safely assume that players' efforts to influence their opponents are pointless.",
+    "Externalities could be safely ignored when small groups of people lived in relative isolation.",
+    "These results suggest that twin studies of substance use are unlikely to be biased and may be safely extrapolated to more typical non-twin family relationships."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "safari park",
+    "safe",
+    "safe and sound",
+    "safeguard",
+    "safely",
+    "safeness",
+    "safety",
+    "safety belt",
+    "safety lamp"
+  ]
+}

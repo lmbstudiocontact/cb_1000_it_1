@@ -1,0 +1,44 @@
+{
+  "english": "suffix",
+  "phat_am": "ˈsafiks",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "hậu tố, tiếp tố",
+          "definition": "a small part added to the end of a word that changes the meaning, for example ’-ness’ at the end of ’goodness’ or ’-ly’ at the end of ’quickly’.",
+          "world_new": [
+            "small",
+            "part",
+            "added",
+            "meaning",
+            "example"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Such changes are lexically determined and not restricted to grammatical suffixes and particles.",
+    "Since regular suffixes may follow certain unstressable suffixes, a loop must be introduced, as shown below.",
+    "Both of these suffixes are obligatory, and show respect for those higher up on the social-stratification ladder.",
+    "English uses the -s suffix on verbs when the subject is singular in the third person, but not first or second person.",
+    "Emergence of suffixes, including their phonological behavior, should be influenced by frequency of occurrence in the input.",
+    "Let us now consider why it suffices to recognize just one verbal suffix that forms participles.",
+    "For this verb, the perfect suffix /-a/ must be used, regardless of the number of surface vowels in the word.",
+    "Note that not every predicate lacking the causative component in its meaning is able to inherit this property from the suffix."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "suffice it to say",
+    "sufficiency",
+    "sufficient",
+    "sufficiently",
+    "suffix",
+    "suffocate",
+    "suffocation",
+    "suffrage",
+    "suffragette"
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "english": "urge",
+  "phat_am": "əːdʒ",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "thúc giục, giục giã",
+          "definition": "to try to persuade or request earnestly (someone to do something)",
+          "world_new": [
+            "try",
+            "persuade",
+            "request",
+            "earnestly"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He urged her to drive carefully",
+              "world_new": [
+                "drive",
+                "carefully"
+              ]
+            },
+            {
+              "ex_of_definition": "‘Come with me,’ he urged."
+            }
+          ]
+        },
+        {
+          "mean_english": "cố thuyết phục, giục giã",
+          "definition": "to try to convince a person of (eg the importance of, or necessity for, some action)",
+          "world_new": [
+            "try",
+            "convince",
+            "person",
+            "importance",
+            "necessity"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He urged (on them) the necessity for speed.",
+              "world_new": [
+                "necessity",
+                "speed"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự thôi thúc",
+          "definition": "a strong impulse or desire",
+          "world_new": [
+            "strong",
+            "impulse",
+            "desire"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I felt an urge to hit him.",
+              "world_new": [
+                "I",
+                "felt",
+                "hit"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "In the narrower discipline of the history of science and technology, too, there was a strong urge for serious but not exactly clearly defined changes.",
+    "In consequence thereof being reduced to the most abject state of poverty (thro, want of employment) has urged me to make this application.",
+    "Human effort reflects this urge toward perfection, the striving for immortality.",
+    "She urged people to resist falling into dichotomous thinking about the nature of independence.",
+    "While rural-urban comparisons will be important in future research, caution is urged in generalising from the findings summarised here.",
+    "We urge a reassessment of this essentially formalist position.",
+    "We would urge all dictionaries to observe that principle in deciding which of two (or more) alternative forms they list as preferred headwords.",
+    "While it urged the maximization of palm oil exports, the colonial government gave little encouragement to the production of by-products of palm oil for export."
+  ],
+  "list_see_also": [
+    "urge on"
+  ],
+  "list_browse": [
+    "ureter",
+    "ureteral",
+    "urethra",
+    "urethral",
+    "urge",
+    "urge on",
+    "urgency",
+    "urgent",
+    "urgently"
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "english": "other",
+  "phat_am": "ˈaðə",
+  "list_english": [
+    {
+      "type_word": "",
+      "list_definition": [
+        {
+          "mean_english": "cái còn lại",
+          "definition": "adjective, pronoun the second of two",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I have lost my other glove",
+              "world_new": [
+                "I",
+                "lost",
+                "my",
+                "glove"
+              ]
+            },
+            {
+              "ex_of_definition": "I’ve got one of my gloves, but I can’t find the other (one).",
+              "world_new": [
+                "my",
+                "I",
+                "find"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "những người/vật khác",
+          "definition": "adjective, pronoun those people, things etc not mentioned, present etc; additional",
+          "world_new": [
+            "people",
+            "present",
+            "additional"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Some of them have arrived – where are the others?"
+            },
+            {
+              "ex_of_definition": "The baby is here and the other children are at school.",
+              "world_new": [
+                "baby",
+                "school"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "trước",
+          "definition": "adjective (with day, week etc) recently past",
+          "world_new": [
+            "recently"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I saw him just the other day/morning.",
+              "world_new": [
+                "I",
+                "saw"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "otherwise",
+    "no/none other than",
+    "other than",
+    "somehow or other",
+    "someone/something or other",
+    "somewhere or other"
+  ],
+  "list_browse": [
+    "osteopath",
+    "ostracism",
+    "ostracize",
+    "ostrich",
+    "other",
+    "other than",
+    "otherwise",
+    "otter",
+    "ought"
+  ]
+}

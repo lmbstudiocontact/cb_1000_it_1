@@ -1,0 +1,84 @@
+{
+  "english": "survive",
+  "phat_am": "səˈvaiv",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "sống qua được",
+          "definition": "to remain alive in spite of (a disaster etc)",
+          "world_new": [
+            "remain",
+            "alive",
+            "spite",
+            "disaster"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Few birds managed to survive the bad winter",
+              "world_new": [
+                "bad",
+                "winter"
+              ]
+            },
+            {
+              "ex_of_definition": "He didn’t survive long after the accident.",
+              "world_new": [
+                "long",
+                "accident"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sống lâu hơn",
+          "definition": "to live longer than",
+          "world_new": [
+            "live"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He died in 1940 but his wife survived him by another twenty years",
+              "world_new": [
+                "wife"
+              ]
+            },
+            {
+              "ex_of_definition": "He is survived by his wife and two sons.",
+              "world_new": [
+                "wife"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "In circumstances where tens of thousands of in-coming and out-going letters have survived, it is often easier simply to burrow.",
+    "An inefficient tax system could thus have survived if political rigidities prevented a ruler from changing it.",
+    "Fifteen infants survived but one baby died in the neonatal period.",
+    "The full patent does not seem to have survived.",
+    "Hatching rates and cell numbers of surviving blastocysts were not affected.",
+    "I think he is too pessimistic about what the surviving sermons themselves tell us.",
+    "None of the seeds cached in this study survived to germination.",
+    "Many doctors who worked in the relevant period must be available for questioning and hospital records have survived."
+  ],
+  "list_see_also": [
+    "survival",
+    "surviving",
+    "survivor"
+  ],
+  "list_browse": [
+    "surroundings",
+    "survey",
+    "surveyor",
+    "survival",
+    "survive",
+    "surviving",
+    "survivor",
+    "susceptibility",
+    "susceptible"
+  ]
+}

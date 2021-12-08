@@ -1,0 +1,53 @@
+{
+  "english": "proofread",
+  "phat_am": "ˈpruːfˌriːd",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "hiệu đính",
+          "definition": "to read a text to see if there are any errors and correct them",
+          "world_new": [
+            "read",
+            "text",
+            "see",
+            "correct"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The manuscript still needs proofreading.",
+              "world_new": [
+                "manuscript"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "It has also been carefully produced and proofread, with barely a typo.",
+    "Similarly, half of the read write measure is composed of passage comprehension, whereas the other half is composed equally of proofreading and dictation (one-quarter each).",
+    "Similar comparisons with adults are more difficult because adults produce many fewer errors when proofreading and writing.",
+    "Often writers have no experience of editing and proofreading their text.",
+    "While they are excellent tools to help proofread documents and even improve the writer's ability to spell they have their limitations.",
+    "Last, but not least, on the negative side that is, the book is rather sloppily edited\\proofread.",
+    "They allow people to write and proofread text.",
+    "This hand also wrote out the initials as he wrote out the text, before proofreading, as is evidenced by errors that he made in enumeration."
+  ],
+  "list_see_also": [
+    "proofreader"
+  ],
+  "list_browse": [
+    "pronounced",
+    "pronouncement",
+    "pronunciation",
+    "proof",
+    "proofread",
+    "proofreader",
+    "prop",
+    "prop up",
+    "propaganda"
+  ]
+}

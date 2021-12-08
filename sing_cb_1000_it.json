@@ -1,0 +1,75 @@
+{
+  "english": "sing",
+  "phat_am": "siŋ",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "hát, hót",
+          "definition": "to make (musical sounds) with one’s voice",
+          "world_new": [
+            "voice"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He sings very well"
+            },
+            {
+              "ex_of_definition": "She sang a Scottish song",
+              "world_new": [
+                "song"
+              ]
+            },
+            {
+              "ex_of_definition": "I could hear the birds singing in the trees.",
+              "world_new": [
+                "I",
+                "hear",
+                "singing"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "written abbreviation",
+      "list_definition": [
+        {
+          "mean_english": "số ít",
+          "definition": "short for singular",
+          "world_new": [
+            "short"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "By shedding excess and approaching sung dialogue as if it were speech, singers were to be singing actors - the imperative of a musical dramatic art.",
+    "Their songs are conceived and sung in a natural landscape; moreover, this natural landscape participates by echoing back their music.",
+    "He had a few lessons, and went away able to sing.",
+    "Unfortunately, no singing teacher was available then to help cope with the vocal demands of the piece.",
+    "For example, in songs that had many verses, it had been decided in advance who would sing which verse and in which order.",
+    "Operatic characters do indeed sing all the time, but what they sing are not always songs.",
+    "Most students did not know about other countries' musical instruments and were not taught to sing other cultures' songs in their original languages.",
+    "The impact of singing on children's psychological state and well-being was investigated with a participant population of 76 pre-pubertal children."
+  ],
+  "list_see_also": [
+    "singer",
+    "singing",
+    "sing out"
+  ],
+  "list_browse": [
+    "sinew",
+    "sinful",
+    "sinfully",
+    "sinfulness",
+    "sing",
+    "sing out",
+    "singe",
+    "singer",
+    "singing"
+  ]
+}

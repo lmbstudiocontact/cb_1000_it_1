@@ -1,0 +1,41 @@
+{
+  "english": "scared",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "bị hoảng sợ",
+          "definition": "frightened",
+          "world_new": [
+            "frightened"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I’m scared of spiders"
+            },
+            {
+              "ex_of_definition": "a scared little girl.",
+              "world_new": [
+                "girl"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "scarcity",
+    "scare",
+    "scare away",
+    "scarecrow",
+    "scared",
+    "scaremonger",
+    "scarf",
+    "scarlet",
+    "scarlet fever"
+  ]
+}

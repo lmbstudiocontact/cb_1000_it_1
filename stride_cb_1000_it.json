@@ -1,0 +1,80 @@
+{
+  "english": "stride",
+  "phat_am": "straid",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "đi dài bước",
+          "definition": "to walk with long steps",
+          "world_new": [
+            "walk",
+            "long",
+            "steps"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He strode along the path",
+              "world_new": [
+                "path"
+              ]
+            },
+            {
+              "ex_of_definition": "He strode off in anger.",
+              "world_new": [
+                "anger"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sải chân",
+          "definition": "a long step",
+          "world_new": [
+            "long",
+            "step"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He walked with long strides.",
+              "world_new": [
+                "long"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "There has been one particular kind of planning in which in the end we have made very big strides.",
+    "They looked terrified at the bear of a man striding towards them with an extraordinary grimace on his face.",
+    "Good planning requires clear goals, realistic timelines, long-range vision, incremental strides, and good leadership.",
+    "Here again we are course making strides in spending more but on a comparative basis we are behind others.",
+    "They took it in their strides.",
+    "Over the past two decades, enormous strides h a v e been made in our understanding of the underlying pathophysiology of the disease.",
+    "The instruction to take larger strides must improve heelstrike to be helpful, otherwise, it will increase the instability of the body at the end of the swing phase.",
+    "Bipedalism frees the thorax of its support role during quadrupedal locomotion, which permits the uncoupling of breathing and striding necessary for the subsequent selection for vocal virtuosity and speech."
+  ],
+  "list_see_also": [
+    "make great strides",
+    "take in one’s stride"
+  ],
+  "list_browse": [
+    "strict",
+    "strictly",
+    "strictly speaking",
+    "strictness",
+    "stride",
+    "strife",
+    "strike",
+    "strike a balance",
+    "strike a bargain/agreement"
+  ]
+}

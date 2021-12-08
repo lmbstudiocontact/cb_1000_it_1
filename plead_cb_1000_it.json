@@ -1,0 +1,92 @@
+{
+  "english": "plead",
+  "phat_am": "pliːd",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "bào chữa",
+          "definition": "(of a prisoner) to answer a charge, saying whether one is guilty or not",
+          "world_new": [
+            "answer",
+            "charge",
+            "guilty"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "‘How does the prisoner plead?’ ‘He pleads guilty.’",
+              "world_new": [
+                "prisoner",
+                "guilty"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "bào chữa",
+          "definition": "to present a case in court",
+          "world_new": [
+            "present",
+            "case",
+            "court"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "My lawyer will plead my case",
+              "world_new": [
+                "lawyer",
+                "my",
+                "case"
+              ]
+            },
+            {
+              "ex_of_definition": "My lawyer will plead for me.",
+              "world_new": [
+                "lawyer"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "nài xin",
+          "definition": "(often with with) to make an urgent request",
+          "world_new": [
+            "urgent",
+            "request"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He pleaded with me not to go"
+            },
+            {
+              "ex_of_definition": "He pleaded to be allowed to go."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "I regarded it as a very charming example of special pleading.",
+    "I am not pleading for any lessening of that aid.",
+    "There was a certain amount of special pleading.",
+    "Considering 'the genuineness of the teachers' plight ', they pleaded that the union should go on strike on the planned date irrespective of the consequences.",
+    "The national union for the pharmaceutical industry pleaded for a \"partnership\" and \"discussions\" with the associations.",
+    "He pleaded guilty to the first charge and not guilty to the second.",
+    "He pleaded for a complete change in the fiscal system as a means of dealing with unemployment.",
+    "Because the accused pleaded guilty, in those cases there would have been no jury under the normal system."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "playtime",
+    "playwright",
+    "plc",
+    "plea",
+    "plead",
+    "pleasant",
+    "pleasantly",
+    "pleasantness",
+    "please"
+  ]
+}

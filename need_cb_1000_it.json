@@ -1,0 +1,147 @@
+{
+  "english": "need",
+  "phat_am": "niːd",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "cần",
+          "definition": "to require",
+          "world_new": [
+            "require"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "This page needs to be checked again",
+              "world_new": [
+                "page",
+                "checked"
+              ]
+            },
+            {
+              "ex_of_definition": "This page needs checking again",
+              "world_new": [
+                "page"
+              ]
+            },
+            {
+              "ex_of_definition": "Do you need any help?",
+              "world_new": [
+                "help"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "buộc phải",
+          "definition": "to be obliged",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "You need to work hard if you want to succeed",
+              "world_new": [
+                "work",
+                "want",
+                "succeed"
+              ]
+            },
+            {
+              "ex_of_definition": "They don’t need to come until six o’clock",
+              "world_new": [
+                "o’clock"
+              ]
+            },
+            {
+              "ex_of_definition": "She needn’t have given me such an expensive present.",
+              "world_new": [
+                "expensive",
+                "present"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "nhu cầu",
+          "definition": "something essential, that one must have",
+          "world_new": [
+            "essential"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Food is one of our basic needs.",
+              "world_new": [
+                "our",
+                "basic"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tình cảnh túng thiếu",
+          "definition": "poverty or other difficulty",
+          "world_new": [
+            "poverty",
+            "difficulty"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Many people are in great need.",
+              "world_new": [
+                "people",
+                "great"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "cần thiết",
+          "definition": "a reason",
+          "world_new": [
+            "reason"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "There is no need for panic.",
+              "world_new": [
+                "panic"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "That may be so, but it needs showing.",
+    "Another useful verb, need, turns out to be both ordinary and modal.",
+    "Static typing is done as soon as needed, but not before.",
+    "You need action on the ground to accompany that discourse.",
+    "I need to find another one of these.",
+    "This article therefore identifies the need for further research, qualitative and quantitative, on the relationship between women's employment patterns and the dynamics of household formation.",
+    "All that is needed now is to find the correct rescalings.",
+    "A number of respondents thought they might be safer than ordinary bulbs, as they needed to be changed less often."
+  ],
+  "list_see_also": [
+    "needless",
+    "needlessly",
+    "needy",
+    "a need for",
+    "in need of"
+  ],
+  "list_browse": [
+    "necktie",
+    "nectar",
+    "nectarine",
+    "née",
+    "need",
+    "needle",
+    "needless",
+    "needlessly",
+    "needlework"
+  ]
+}

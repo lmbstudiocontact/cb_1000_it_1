@@ -1,0 +1,51 @@
+{
+  "english": "possess",
+  "phat_am": "pəˈzes",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "sở hữu; có",
+          "definition": "to own or have",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "How much money does he possess?",
+              "world_new": [
+                "money"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "For example, the concept \"fairness\" might be the subject of a legal disagreement in which the participants do not possess shared criteria for its application.",
+    "A country that was civilized possessed a sense of nationhood, and as such displayed the political (and moral) capacity for self-determination.",
+    "Similarly, experts in molecular biology who possess a patient-driven focus may well help develop the next generation of intracellular therapeutic targets.",
+    "The classes of manipulators possessing these extra joints, that provide for the performance of secondary tasks, are known as redundant manipulators.",
+    "Since sheep do not possess the opiate receptors responsible for causing anesthesia, they are not an appropriate model for testing narcotic anesthesia in the fetus.",
+    "In these cases a single individual or group may possess a different rank according to the three separate social dimensions.",
+    "Most clergy believed that they possessed adequate liturgical skills, but 13% felt they possessed none or little skill in pastoral care of the dying.",
+    "Aside from being prefixed by a possessive pronoun, its members undergo no changes when possessed."
+  ],
+  "list_see_also": [
+    "possession",
+    "possessive",
+    "possessively",
+    "possessiveness",
+    "possessor"
+  ],
+  "list_browse": [
+    "positive",
+    "positively",
+    "positiveness",
+    "posse",
+    "possess",
+    "possession",
+    "possessive",
+    "possessively",
+    "possessiveness"
+  ]
+}

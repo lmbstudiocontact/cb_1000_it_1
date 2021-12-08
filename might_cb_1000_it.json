@@ -1,0 +1,127 @@
+{
+  "english": "might",
+  "phat_am": "mait",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "quá khứ của may",
+          "definition": "past tense of may",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I thought I might find you here",
+              "world_new": [
+                "I",
+                "thought",
+                "I",
+                "find"
+              ]
+            },
+            {
+              "ex_of_definition": "He might come if you offered him a meal.",
+              "world_new": [
+                "meal"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sử dụng trong lời đề nghị lịch sự",
+          "definition": "used instead of ’may’, eg to make a possibility seem less likely, or a request for permission more polite",
+          "world_new": [
+            "instead",
+            "possibility",
+            "seem",
+            "likely",
+            "request",
+            "permission",
+            "polite"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He might win if he tries hard",
+              "world_new": [
+                "win"
+              ]
+            },
+            {
+              "ex_of_definition": "Might I speak to you for a few minutes, please?",
+              "world_new": [
+                "I",
+                "speak",
+                "please"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đề nghị ai làm gì",
+          "definition": "used in suggesting that a person is not doing what he should",
+          "world_new": [
+            "person"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "You might help me clean the car!",
+              "world_new": [
+                "help",
+                "clean",
+                "car"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sức mạnh",
+          "definition": "power or strength",
+          "world_new": [
+            "power",
+            "strength"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The might of the opposing army was too great for us.",
+              "world_new": [
+                "opposing",
+                "army",
+                "great"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Problems, then, are raised about the ecological validity of this constraint and the role it might play in the perception of ordinary, everyday motion.",
+    "It is this affective and evaluative progress that teachers might try to develop in pupils in order to develop their skills of musical thinking further.",
+    "Having only one parent might have meant a household necessity of replacing the loss/absence of one parent.",
+    "A critic of the data protection regime might note that the legislation protects debtors with more force than it does creditors.",
+    "The reported information on the form thus might not correspond to the reality of facts.",
+    "In this situation it was equally possible that other interested parties might want to strengthen the international reputation of the incumbent government.",
+    "A number of respondents thought they might be safer than ordinary bulbs, as they needed to be changed less often.",
+    "Patients might be ranked differently with different prioritization measures."
+  ],
+  "list_see_also": [
+    "might as well",
+    "might have",
+    "I etc might have known"
+  ],
+  "list_browse": [
+    "midway",
+    "midwife",
+    "midwifery",
+    "midwinter",
+    "might",
+    "might as well",
+    "might have",
+    "mightily",
+    "mightiness"
+  ]
+}

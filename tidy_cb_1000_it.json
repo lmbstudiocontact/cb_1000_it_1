@@ -1,0 +1,96 @@
+{
+  "english": "tidy",
+  "phat_am": "ˈtaidi",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "sạch sẽ, ngăn nắp",
+          "definition": "(opposite untidy) in good order; neat",
+          "world_new": [
+            "neat"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a tidy room/person"
+            },
+            {
+              "ex_of_definition": "Her hair never looks tidy.",
+              "world_new": [
+                "hair",
+                "looks"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "khá lớn, khá to",
+          "definition": "fairly big",
+          "world_new": [
+            "fairly",
+            "big"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a tidy sum of money.",
+              "world_new": [
+                "sum",
+                "money"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "làm cho ngăn nắp",
+          "definition": "(sometimes with up, away etc) to put in good order; to make neat",
+          "world_new": [
+            "neat"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He tidied (away) his papers"
+            },
+            {
+              "ex_of_definition": "She was tidying the room (up) when her mother arrived.",
+              "world_new": [
+                "room",
+                "mother"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "A few trees planted here and there, and a bit of tidying up is needed.",
+    "We have moved quite a long way further forward in tidying things up in other respects.",
+    "There are just one or two points which have to be tidied up.",
+    "One is the anomaly which is real because there is still some tidying to be done at the edges.",
+    "She tidied her hair with one hand.",
+    "We should like the variations to be tidied up.",
+    "I hope and pray it will be buttoned up and tidied up before the men are asked to come forward.",
+    "They need to be tidied up to make them more straightforward."
+  ],
+  "list_see_also": [
+    "tidily",
+    "tidiness"
+  ],
+  "list_browse": [
+    "tide",
+    "tidily",
+    "tidiness",
+    "tidings",
+    "tidy",
+    "tie",
+    "tie (someone) down",
+    "tie in",
+    "tier"
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "english": "possible",
+  "phat_am": "ˈposəbl",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "có thể",
+          "definition": "able to happen or be done",
+          "world_new": [
+            "happen"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "It’s possible that the train will be delayed",
+              "world_new": [
+                "train"
+              ]
+            },
+            {
+              "ex_of_definition": "We’ll come as soon as possible",
+              "world_new": [
+                "soon"
+              ]
+            },
+            {
+              "ex_of_definition": "I’ll do everything possible"
+            },
+            {
+              "ex_of_definition": "She did the only possible thing in the circumstances."
+            }
+          ]
+        },
+        {
+          "mean_english": "hợp lý",
+          "definition": "satisfactory; acceptable",
+          "world_new": [
+            "acceptable"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I’ve thought of a possible solution to the problem.",
+              "world_new": [
+                "thought",
+                "solution",
+                "problem"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "We should discuss the possible interpretation and the equipment that could test biogenicity of such sulphur compounds.",
+    "The latter does not discriminate among all those possible rules that are not grossly unfair.",
+    "Consequently, we reviewed and tested a wide range of possible factors for possible use as controls.",
+    "However, there has been recent progress in this field, and such a definition may become possible in the near future.",
+    "However, the rate of decline and its possible age dependency have not been established.",
+    "Percentages shown indicate the proportion of all possible quartets that fall in each region of the triangle.",
+    "If possible, one should instead resort to other proof principles that do not need admissibility.",
+    "Unfortunately, there are no cross-nationally comparable measures of this relationship that would make a systematic analysis possible."
+  ],
+  "list_see_also": [
+    "possibility",
+    "possibly"
+  ],
+  "list_browse": [
+    "possessively",
+    "possessiveness",
+    "possessor",
+    "possibility",
+    "possible",
+    "possibly",
+    "possum",
+    "post office",
+    "post(-)haste"
+  ]
+}

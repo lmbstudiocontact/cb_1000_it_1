@@ -1,0 +1,88 @@
+{
+  "english": "prove",
+  "phat_am": "pruːv",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "chứng minh",
+          "definition": "to show to be true or correct",
+          "world_new": [
+            "true",
+            "correct"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "This fact proves his guilt",
+              "world_new": [
+                "fact",
+                "guilt"
+              ]
+            },
+            {
+              "ex_of_definition": "He was proved guilty",
+              "world_new": [
+                "guilty"
+              ]
+            },
+            {
+              "ex_of_definition": "Can you prove your theory?",
+              "world_new": [
+                "your",
+                "theory"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "xác nhận",
+          "definition": "to turn out, or be found, to be",
+          "world_new": [
+            "turn",
+            "found"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "His suspicions proved (to be) correct",
+              "world_new": [
+                "correct"
+              ]
+            },
+            {
+              "ex_of_definition": "This tool proved very useful.",
+              "world_new": [
+                "tool",
+                "useful"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Both these issues will prove relevant to a consideration of the students' responses.",
+    "These ideas, which are employed by all of in our ordinary unenlightened lives, will ultimately prove themselves to be a misconstrual of reality.",
+    "To do this, we prove a similarity property for these trees.",
+    "Experts have to prove themselves through their technical competence - which is questionable and revisable (1997 : 89).",
+    "Computations based on such an approximation prove straightforward but lengthy.",
+    "The standard method of proving this fact is via lambda representability of all (partial) recursive functions.",
+    "It cannot be said that he proves his thesis.",
+    "Under those circumstances, a system of tradable permits (with grandfathering of the initial allocation) could prove more politically acceptable than one of charges."
+  ],
+  "list_see_also": [
+    "proven"
+  ],
+  "list_browse": [
+    "protractor",
+    "protrude",
+    "proud",
+    "proudly",
+    "prove",
+    "proven",
+    "proverb",
+    "proverbial",
+    "proverbially"
+  ]
+}

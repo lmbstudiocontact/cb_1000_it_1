@@ -1,0 +1,81 @@
+{
+  "english": "mechanics",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun singular",
+      "list_definition": [
+        {
+          "mean_english": "cơ học",
+          "definition": "the science of the action of forces on objects",
+          "world_new": [
+            "science",
+            "action",
+            "forces"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He is studying mechanics at college.",
+              "world_new": [
+                "college"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "cơ khí",
+          "definition": "the art of building machines",
+          "world_new": [
+            "art",
+            "building"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He applied his knowledge of mechanics to designing a new wheelchair.",
+              "world_new": [
+                "applied",
+                "knowledge",
+                "designing",
+                "wheelchair"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun plural",
+      "list_definition": [
+        {
+          "mean_english": "cơ chế",
+          "definition": "the ways in which something works or is applied",
+          "world_new": [
+            "works",
+            "applied"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the mechanics of the legal system.",
+              "world_new": [
+                "legal",
+                "system"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "meaty",
+    "mechanic",
+    "mechanical",
+    "mechanically",
+    "mechanics",
+    "mechanism",
+    "mechanization",
+    "mechanize",
+    "medal"
+  ]
+}

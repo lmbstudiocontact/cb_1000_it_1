@@ -1,0 +1,63 @@
+{
+  "english": "persuade",
+  "phat_am": "pəˈsweid",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "thuyết phục",
+          "definition": "to make (someone) (not) do something, by arguing with him or advising him",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We persuaded him (not) to go."
+            }
+          ]
+        },
+        {
+          "mean_english": "thuyết phục",
+          "definition": "to make (someone) certain (that something is the case); convince",
+          "world_new": [
+            "certain"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We eventually persuaded him that we were serious.",
+              "world_new": [
+                "eventually",
+                "serious"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "They need listeners who know how to listen, to understand, and appreciate their efforts to persuade.",
+    "In order to persuade, a representation had also to respond to the expectations, fears, and desires of subjects.",
+    "Gold, however, does not wish to persuade us of supernatural or extraterrestrial forces.",
+    "It also uniquely examines the role that allotment payments played in persuading farmers to invest in tractors and combined harvester-thresher ownership.",
+    "It was not only husbands who persuaded women to return.",
+    "Moreover, though some motives are mutually reinforcing, others are contradictory: treating discussion as an opportunity for persuading others, for example, can conflict with educating oneself.",
+    "Their study showed that framing issues can activate existing beliefs and cognitions without appearing overtly to persuade.",
+    "This will encourage managers to persuade their clinicians to provide more care on a day case basis."
+  ],
+  "list_see_also": [
+    "persuasion",
+    "persuasive",
+    "persuasively",
+    "persuasiveness"
+  ],
+  "list_browse": [
+    "personnel",
+    "perspective",
+    "perspiration",
+    "perspire",
+    "persuade",
+    "persuasion",
+    "persuasive",
+    "persuasively",
+    "persuasiveness"
+  ]
+}

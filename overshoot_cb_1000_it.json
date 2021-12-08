@@ -1,0 +1,49 @@
+{
+  "english": "overshoot",
+  "phat_am": "əuvəˈʃuːt",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "bắn quá đích",
+          "definition": "to go farther than (the point one was aiming at)",
+          "world_new": [
+            "point"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The plane overshot the runway.",
+              "world_new": [
+                "plane",
+                "runway"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "At light offset, the voltage rebounds, overshooting the dark resting potential and leading to excitation of third-order cells in the pathway.",
+    "A pure baby-bust scenario, however, gives rise to overshooting in per capita consumption while yielding a higher per capita consumption in the new steady state.",
+    "Failure is not due to overshooting the target (as in superset errors), since the strategy of maximum retrenchment entailed by (dk) prevents that.",
+    "It is evident that the system overshoots its new stationary state and does not relax.",
+    "First, what conditions, in terms of investment, demographic, and economic parameters, make a developing economy more or less prone to population overshoot and resource collapse?",
+    "This bias results in a systematic range error; that is, the eyes tend to overshoot close targets and undershoot more distant targets.",
+    "At higher forward momenta (vertical stripes), trajectories overshoot the standing position and lead to a forward fall.",
+    "Because of this the potential for overshoot is always present and cannot be avoided unless the system is severely overdamped."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "overseas",
+    "oversee",
+    "overseer",
+    "overshadow",
+    "overshoot",
+    "oversight",
+    "oversleep",
+    "overspend",
+    "overt"
+  ]
+}

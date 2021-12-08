@@ -1,0 +1,175 @@
+{
+  "english": "the",
+  "phat_am": "ðə",
+  "list_english": [
+    {
+      "type_word": "definite article",
+      "list_definition": [
+        {
+          "mean_english": "đó",
+          "definition": "used to refer to a person, thing etc mentioned previously, described in a following phrase, or already known",
+          "world_new": [
+            "refer",
+            "person",
+            "previously",
+            "following"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Where is the book I put on the table?",
+              "world_new": [
+                "book",
+                "I",
+                "table"
+              ]
+            },
+            {
+              "ex_of_definition": "Who was the man you were talking to?"
+            },
+            {
+              "ex_of_definition": "My mug is the tall blue one",
+              "world_new": [
+                "mug",
+                "tall",
+                "blue"
+              ]
+            },
+            {
+              "ex_of_definition": "Switch the light off!",
+              "world_new": [
+                "light"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "chỉ giống loài",
+          "definition": "used with a singular noun or an adjective to refer to all members of a group etc or to a general type of object, group of objects etc",
+          "world_new": [
+            "singular",
+            "noun",
+            "adjective",
+            "refer",
+            "group",
+            "general",
+            "type",
+            "object",
+            "group"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The horse is running fast.",
+              "world_new": [
+                "horse",
+                "running",
+                "fast"
+              ]
+            },
+            {
+              "ex_of_definition": "I spoke to him on the telephone",
+              "world_new": [
+                "I",
+                "spoke",
+                "telephone"
+              ]
+            },
+            {
+              "ex_of_definition": "He plays the piano/violin very well."
+            }
+          ]
+        },
+        {
+          "mean_english": "chỉ vật duy nhất",
+          "definition": "used to refer to unique objects etc, especially in titles and names",
+          "world_new": [
+            "refer",
+            "unique"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the Duke of Edinburgh"
+            },
+            {
+              "ex_of_definition": "the Atlantic (Ocean)."
+            }
+          ]
+        },
+        {
+          "mean_english": "chỉ một khoảng thời gian",
+          "definition": "used after a preposition with words referring to a unit of quantity, time etc",
+          "world_new": [
+            "preposition",
+            "unit",
+            "quantity",
+            "time"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "In this job we are paid by the hour.",
+              "world_new": [
+                "job",
+                "hour"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "dùng trong so sánh nhất",
+          "definition": "used with superlative adjectives and adverbs to denote a person, thing etc which is or shows more of something than any other",
+          "world_new": [
+            "superlative",
+            "denote",
+            "person"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He is the kindest man I know",
+              "world_new": [
+                "I",
+                "know"
+              ]
+            },
+            {
+              "ex_of_definition": "We like him (the) best of all.",
+              "world_new": [
+                "best"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "dùng trong so sánh hơn",
+          "definition": "(often with all) used with comparative adjectives to show that a person, thing etc is better, worse etc",
+          "world_new": [
+            "comparative",
+            "person",
+            "better",
+            "worse"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He has had a week’s holiday and looks (all) the better for it.",
+              "world_new": [
+                "holiday",
+                "looks",
+                "better"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "that’s the stuff!",
+    "thatch",
+    "thatched",
+    "thaw",
+    "the",
+    "the (House of) Commons",
+    "the … the …",
+    "the accused",
+    "the age of majority"
+  ]
+}

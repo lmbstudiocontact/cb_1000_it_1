@@ -1,0 +1,63 @@
+{
+  "english": "two",
+  "phat_am": "tuː",
+  "list_english": [
+    {
+      "type_word": "number",
+      "list_definition": [
+        {
+          "mean_english": "số 2",
+          "definition": "the number or figure 2.",
+          "world_new": [
+            "number",
+            "figure"
+          ]
+        },
+        {
+          "mean_english": "hai tuổi",
+          "definition": "the age of 2.",
+          "world_new": [
+            "age"
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "prefix",
+      "list_definition": [
+        {
+          "mean_english": "có hai",
+          "definition": "having two (of something)",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a two-door car.",
+              "world_new": [
+                "car"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "two-",
+    "two-faced",
+    "two-handed",
+    "twosome",
+    "two-way",
+    "two-year-old",
+    "in two"
+  ],
+  "list_browse": [
+    "twister",
+    "twit",
+    "twitch",
+    "twitter",
+    "two",
+    "two-faced",
+    "two-handed",
+    "two-way",
+    "two-year-old"
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "english": "mistake",
+  "phat_am": "miˈsteik",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "nhầm lẫn",
+          "definition": "(with for) to think that (one person or thing) is another",
+          "world_new": [
+            "think",
+            "person"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I mistook you for my brother in this bad light.",
+              "world_new": [
+                "I",
+                "my",
+                "brother",
+                "bad",
+                "light"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "phạm lỗi",
+          "definition": "to make an error about",
+          "world_new": [
+            "error"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "They mistook the date, and arrived two days early.",
+              "world_new": [
+                "date"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sai lầm",
+          "definition": "a wrong act or judgement",
+          "world_new": [
+            "wrong",
+            "act",
+            "judgement"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a spelling mistake",
+              "world_new": [
+                "spelling"
+              ]
+            },
+            {
+              "ex_of_definition": "It was a mistake to trust him",
+              "world_new": [
+                "trust"
+              ]
+            },
+            {
+              "ex_of_definition": "I took your umbrella by mistake – it looks like mine.",
+              "world_new": [
+                "I",
+                "your",
+                "umbrella",
+                "looks"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "On the face of it, these mistakes had little to do with the historical experience of the country.",
+    "The spelling mistakes are distracting (pp. 35, 157), and the endnotes are not practical, especially in the absence of a bibliography.",
+    "Insufficient generosity and uninformed views amongst the public were hindering social democracy as much as inadequate levels of economic growth or mistaken policies.",
+    "The findings are inconsistent with both frameworks, suggesting that both democratic peace and clash of civilizations claims are mistaken.",
+    "We hope that future studies will benefit from our mistakes and take advantage of our conclusions.",
+    "Should the agent warn only against possible mistakes, and simply register eective errors?",
+    "Since the inhabitants of both worlds would be missing only a minute amount of data however, we should expect such mistakes to be only occasional.",
+    "Failure in diagnosis is one of the most fundamental mistakes made."
+  ],
+  "list_see_also": [
+    "mistaken",
+    "mistakenly"
+  ],
+  "list_browse": [
+    "missionary",
+    "misspell",
+    "mist",
+    "mist over",
+    "mistake",
+    "mistaken",
+    "mistakenly",
+    "Mister",
+    "mistily"
+  ]
+}

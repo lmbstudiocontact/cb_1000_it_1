@@ -1,0 +1,101 @@
+{
+  "english": "thing",
+  "phat_am": "θiŋ",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "đồ vật",
+          "definition": "an object; something that is not living",
+          "world_new": [
+            "living"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "What do you use that thing for?"
+            }
+          ]
+        },
+        {
+          "mean_english": "người được ưa thích",
+          "definition": "a person, especially a person one likes",
+          "world_new": [
+            "person",
+            "person"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She’s a nice old thing.",
+              "world_new": [
+                "nice",
+                "old"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sự thật, chất lượng, ý tưởng mà người nói muốn đề cập",
+          "definition": "any fact, quality, idea etc that one can think of or refer to",
+          "world_new": [
+            "fact",
+            "quality",
+            "idea",
+            "think",
+            "refer"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Music is a wonderful thing",
+              "world_new": [
+                "wonderful"
+              ]
+            },
+            {
+              "ex_of_definition": "I hope I haven’t done the wrong thing",
+              "world_new": [
+                "I",
+                "hope",
+                "I",
+                "wrong"
+              ]
+            },
+            {
+              "ex_of_definition": "That was a stupid thing to do.",
+              "world_new": [
+                "stupid"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "When he turns outward toward things, what is the equivalent of clear, distinct, and univocal terms?",
+    "I can say funny things, and they do not understand.",
+    "The two researchers mean different things by the same words.",
+    "We are back to the openness and vulnerability we have met so often: there is interaction here between belief and more general things.",
+    "You have to treat it, do all kinds of things to it, theme it in order to bring it to people.",
+    "We mean by \"quality of delivery service\" such things as door, curbside or roadside line of travel delivery.",
+    "The transformation of the body by burning implies quite different things within different eschatologies.",
+    "They rank among the great things for which our race has lived."
+  ],
+  "list_see_also": [
+    "things",
+    "first thing (in the morning etc)",
+    "last thing (at night etc)",
+    "the thing is …"
+  ],
+  "list_browse": [
+    "thin air",
+    "thin out",
+    "thin-skinned",
+    "thine",
+    "thing",
+    "things",
+    "think",
+    "think better of",
+    "think highly/well/badly etc of"
+  ]
+}

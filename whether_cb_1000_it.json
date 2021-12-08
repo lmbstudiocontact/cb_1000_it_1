@@ -1,0 +1,50 @@
+{
+  "english": "whether",
+  "phat_am": "ˈweðə",
+  "list_english": [
+    {
+      "type_word": "conjunction",
+      "list_definition": [
+        {
+          "mean_english": "liệu có",
+          "definition": "if",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I don’t know whether it’s possible.",
+              "world_new": [
+                "I",
+                "know",
+                "possible"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "This problem surfaced as the issue of whether the rise of modern science was a natural development of premodern philosophy.",
+    "In all cases, these long-term experiments, whether comparing organic to conventional systems, or comparing more than one organic system, are particularly useful demonstration tools.",
+    "Here we will ask whether such differences in the shape of development are also observed in these measures of structural complexity.",
+    "But the question regarding whether such a prayer can be impetratory still remains.",
+    "The first point to address, then, is whether the findings of variationist sociolinguistics are indeed compatible with such a model.",
+    "Our findings offer insights into whether and how the major structural changes during recent decades have affected older adults.",
+    "In these cases, it is substantially more difficult to determine whether the treatments should be included in routine health practice, as discussed further below.",
+    "This is why it is much easier to determine whether a philosophical principle is true than to determine the extent of its validity."
+  ],
+  "list_see_also": [
+    "whether … or",
+    "weather"
+  ],
+  "list_browse": [
+    "whereby",
+    "whereupon",
+    "wherever",
+    "whet",
+    "whether",
+    "whether … or",
+    "whetstone",
+    "whey",
+    "which"
+  ]
+}

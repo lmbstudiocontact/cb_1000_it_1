@@ -1,0 +1,93 @@
+{
+  "english": "pure",
+  "phat_am": "ˈpjuə",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "nguyên chất; tinh khiết",
+          "definition": "not mixed with anything especially dirty or less valuable",
+          "world_new": [
+            "mixed",
+            "dirty",
+            "valuable"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "pure gold.",
+              "world_new": [
+                "gold"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "trong sáng",
+          "definition": "clean, especially morally",
+          "world_new": [
+            "clean",
+            "morally"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "pure thoughts."
+            }
+          ]
+        },
+        {
+          "mean_english": "hoàn toàn",
+          "definition": "complete; absolute",
+          "world_new": [
+            "absolute"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a pure accident.",
+              "world_new": [
+                "accident"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "trong trẻo",
+          "definition": "(of sounds) clear; keeping in tune",
+          "world_new": [
+            "keeping",
+            "tune"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She sang in a high pure tone.",
+              "world_new": [
+                "tone"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "purely",
+    "pureness",
+    "purity",
+    "purify",
+    "purification",
+    "pure-blooded",
+    "pure-bred",
+    "pure and simple"
+  ],
+  "list_browse": [
+    "puppet show",
+    "puppetry",
+    "purchase",
+    "purchaser",
+    "pure",
+    "pure and simple",
+    "pure-blooded",
+    "pure-bred",
+    "purée"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "english": "nor",
+  "phat_am": "noː",
+  "list_english": [
+    {
+      "type_word": "conjunction",
+      "list_definition": [
+        {
+          "mean_english": "cũng không",
+          "definition": "and not; neither",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He did not know then what had happened, nor did he ever find out",
+              "world_new": [
+                "know",
+                "ever",
+                "find"
+              ]
+            },
+            {
+              "ex_of_definition": "I’m not going, nor is John."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "nook",
+    "noon",
+    "noose",
+    "nope",
+    "nor",
+    "normal",
+    "normality",
+    "normally",
+    "north"
+  ]
+}

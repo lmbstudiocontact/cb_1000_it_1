@@ -1,0 +1,238 @@
+{
+  "english": "some",
+  "phat_am": "sam",
+  "list_english": [
+    {
+      "type_word": "pronoun",
+      "list_definition": [
+        {
+          "mean_english": "một vài, vài ba",
+          "definition": "an indefinite amount or number (of)",
+          "world_new": [
+            "indefinite",
+            "amount",
+            "number"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I can see some people walking across the field",
+              "world_new": [
+                "I",
+                "see",
+                "people",
+                "across",
+                "field"
+              ]
+            },
+            {
+              "ex_of_definition": "You’ll need some money if you’re going shopping",
+              "world_new": [
+                "money",
+                "shopping"
+              ]
+            },
+            {
+              "ex_of_definition": "Some of the ink was spilt on the desk.",
+              "world_new": [
+                "ink",
+                "desk"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "một lượng không xác định",
+          "definition": "(said with emphasis) a certain, or small, amount or number (of)",
+          "world_new": [
+            "certain",
+            "small",
+            "amount",
+            "number"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "‘Has she any experience of the work?’ ‘Yes, she has some.’",
+              "world_new": [
+                "experience",
+                "work"
+              ]
+            },
+            {
+              "ex_of_definition": "Some people like the idea and some don’t.",
+              "world_new": [
+                "people",
+                "idea"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "một vài, một ít",
+          "definition": "(said with emphasis) at least one / a few / a bit (of)",
+          "world_new": [
+            "bit"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Surely there are some people who agree with me?",
+              "world_new": [
+                "people",
+                "agree"
+              ]
+            },
+            {
+              "ex_of_definition": "I don’t need much rest from work, but I must have some.",
+              "world_new": [
+                "I",
+                "rest",
+                "work",
+                "I"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "nào đó",
+          "definition": "certain",
+          "world_new": [
+            "certain"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He’s quite kind in some ways.",
+              "world_new": [
+                "quite",
+                "kind"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "một số lượng đáng kể",
+          "definition": "a large, considerable or impressive (amount or number of)",
+          "world_new": [
+            "large",
+            "considerable",
+            "number"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I spent some time trying to convince her",
+              "world_new": [
+                "I",
+                "spent",
+                "time",
+                "trying",
+                "convince"
+              ]
+            },
+            {
+              "ex_of_definition": "I’ll have some problem sorting out these papers!",
+              "world_new": [
+                "problem"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "không được nêu tên hay nhận ra",
+          "definition": "an unidentified or unnamed (thing, person etc)",
+          "world_new": [
+            "unidentified",
+            "person"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She was hunting for some book that she’s lost.",
+              "world_new": [
+                "hunting",
+                "book",
+                "lost"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "ước chừng",
+          "definition": "(used with numbers) about; at a rough estimate",
+          "world_new": [
+            "rough",
+            "estimate"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "There were some thirty people at the reception.",
+              "world_new": [
+                "people",
+                "reception"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "adverb",
+      "list_definition": [
+        {
+          "mean_english": "có phần, một chút",
+          "definition": "somewhat; to a certain extent",
+          "world_new": [
+            "certain",
+            "extent"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I think we’ve progressed some.",
+              "world_new": [
+                "I",
+                "think"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The book is valuable to undergraduate students, but it can also be a quick refresher on the topic for some graduate students.",
+    "We have permitted ourselves some syntactic flexibility in presenting the metaprogram.",
+    "Some of these observations were missing from original data forms.",
+    "Although it was well-known that rice is mainly self-pollinating, it was also known that some cross-pollination can take place.",
+    "From the qualitative interviews, however, some interesting expansions of the definitions of ' relative ' have emerged.",
+    "We generalize some recent results developed in static policy games with multiple players, to a dynamic context.",
+    "Some examples of their applications can be found in refs.",
+    "Nonetheless, in some cases the phonetic spellings of mispronunciations may have been altered by some familiarity with the correct spelling."
+  ],
+  "list_see_also": [
+    "somebody",
+    "someday",
+    "somehow",
+    "someone",
+    "something",
+    "sometime",
+    "sometimes",
+    "somewhat",
+    "somewhere",
+    "mean something",
+    "",
+    "",
+    ""
+  ],
+  "list_browse": [
+    "solution",
+    "solve",
+    "solvent",
+    "sombre",
+    "some",
+    "some day",
+    "somebody",
+    "someday",
+    "somehow"
+  ]
+}

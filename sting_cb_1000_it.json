@@ -1,0 +1,127 @@
+{
+  "english": "sting",
+  "phat_am": "stiŋ",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "vòi, răng độc",
+          "definition": "a part of some plants, insects etc, eg nettles and wasps, that can prick and inject an irritating or poisonous fluid into the wound.",
+          "world_new": [
+            "part",
+            "prick",
+            "inject",
+            "irritating",
+            "poisonous",
+            "fluid",
+            "wound"
+          ]
+        },
+        {
+          "mean_english": "sự đốt, sự châm",
+          "definition": "an act of piercing with this part",
+          "world_new": [
+            "act",
+            "piercing",
+            "part"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Some spiders give a poisonous sting.",
+              "world_new": [
+                "poisonous"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sự đau nhói",
+          "definition": "the wound, swelling, or pain caused by this",
+          "world_new": [
+            "wound",
+            "swelling",
+            "pain"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "You can soothe a wasp sting by putting vinegar on it.",
+              "world_new": [
+                "soothe",
+                "wasp",
+                "vinegar"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "châm, đốt",
+          "definition": "to wound or hurt by means of a sting",
+          "world_new": [
+            "wound",
+            "hurt",
+            "means"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The child was badly stung by nettles/mosquitoes",
+              "world_new": [
+                "child",
+                "badly"
+              ]
+            },
+            {
+              "ex_of_definition": "Do those insects sting?"
+            }
+          ]
+        },
+        {
+          "mean_english": "nhức nhối, đau đớn",
+          "definition": "(of a wound, or a part of the body) to smart or be painful",
+          "world_new": [
+            "wound",
+            "part",
+            "smart",
+            "painful"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The salt water made his eyes sting.",
+              "world_new": [
+                "salt",
+                "water"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "But, and here comes the sting, getting rid of the rationality axiom as a foundational postulate does not get rid of all problems.",
+    "The moral sting that commonly accrues to \"selfish\" is thus removed.",
+    "He did the old bits with suitable stinging irony but this only made them funnier and got him more depressed.",
+    "In prospect theory, loss delivers this exaggerated sting because losses are measured against the actor's reference point, not the actor's net asset position.",
+    "When the larva has been stung the female may withdraw her ovipositor, or wait with it in the cocoon.",
+    "Musical stories take the sting out of the repetition so often used in modern teaching to reinforce certain concepts.",
+    "According to his semantic sting argument, semantic theories of law are inconsistent with the existence of pivotal disagreement about the grounds of law.",
+    "Nor is criterialism, properly or sympathetically understood, vulnerable to the semantic sting."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "stimulate",
+    "stimulating",
+    "stimulation",
+    "stimulus",
+    "sting",
+    "stingily",
+    "stinginess",
+    "stingy",
+    "stink"
+  ]
+}

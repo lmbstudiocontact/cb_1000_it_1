@@ -1,0 +1,80 @@
+{
+  "english": "moment",
+  "phat_am": "ˈməumənt",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "chốc, lát",
+          "definition": "a very short space of time",
+          "world_new": [
+            "short",
+            "space",
+            "time"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I’ll be ready in a moment",
+              "world_new": [
+                "ready"
+              ]
+            },
+            {
+              "ex_of_definition": "after a few moments’ silence.",
+              "world_new": [
+                "silence"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "thời điểm",
+          "definition": "a particular point in time",
+          "world_new": [
+            "particular",
+            "point",
+            "time"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "At that moment, the telephone rang.",
+              "world_new": [
+                "telephone"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "How great then must be that being to whom the thoughts of all these orders of beings are known at a moment's glance.",
+    "Also, there is a very occasional tendency even in the best of papers to retreat into technical language at crucial moments.",
+    "The text's moments of incoherence and disruption produce an architecture of massive and stable blocks.",
+    "Although evident throughout the century, the unevenness of this system manifested distinctive characteristics at various moments and in various parts of the empire.",
+    "The teacher can also apply concepts of musical dynamics and expressiveness, indicating different sonic structures in different moments of the prototyped musical discourse.",
+    "The asymptotic bias is shown to be a finite quantity that depends on the second moments (of service requirements) and weights of the other classes.",
+    "Both look at situated moments of \"talk\" - moments of code-switching, for example - as locations for identity work.",
+    "They recorded the reactions of carers to six vignettes that describe contrasting examples of 'difficult moments'."
+  ],
+  "list_see_also": [
+    "momentary",
+    "momentarily",
+    "momentous",
+    "momentously",
+    "at the moment",
+    "the moment (that)"
+  ],
+  "list_browse": [
+    "mollify",
+    "mollusc",
+    "molten",
+    "mom",
+    "moment",
+    "momentarily",
+    "momentary",
+    "momentous",
+    "momentously"
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "english": "rely",
+  "phat_am": "rəˈlai",
+  "list_english": [
+    {
+      "type_word": "phrasal verb",
+      "list_definition": [
+        {
+          "mean_english": "phụ thuộc",
+          "definition": "to depend on or need",
+          "world_new": [
+            "depend"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The people on the island relied on the supplies that were brought from the mainland",
+              "world_new": [
+                "people",
+                "island",
+                "mainland"
+              ]
+            },
+            {
+              "ex_of_definition": "I am relying on you to help me.",
+              "world_new": [
+                "I",
+                "help"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tin tưởng",
+          "definition": "to trust (someone) to do something; to be certain that (something will happen)",
+          "world_new": [
+            "trust",
+            "certain"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Can he rely on him to keep a secret?",
+              "world_new": [
+                "keep",
+                "secret"
+              ]
+            },
+            {
+              "ex_of_definition": "He can be relied on"
+            },
+            {
+              "ex_of_definition": "That is what will probably happen, but we can’t rely on it.",
+              "world_new": [
+                "probably",
+                "happen"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "reliable",
+    "reliability",
+    "reliably",
+    "reliance",
+    "reliant"
+  ],
+  "list_browse": [
+    "relocation",
+    "reluctance",
+    "reluctant",
+    "reluctantly",
+    "rely",
+    "remain",
+    "remainder",
+    "remains",
+    "remand"
+  ]
+}

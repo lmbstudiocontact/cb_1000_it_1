@@ -1,0 +1,68 @@
+{
+  "english": "reveal",
+  "phat_am": "rəˈviːl",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "công bố",
+          "definition": "to make known",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "All their secrets have been revealed.",
+              "world_new": [
+                "their"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tiết lộ",
+          "definition": "to show; to allow to be seen",
+          "world_new": [
+            "allow"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He scraped away the top layer of paint from the picture, revealing an earlier painting underneath.",
+              "world_new": [
+                "top",
+                "layer",
+                "paint",
+                "picture",
+                "revealing",
+                "painting",
+                "underneath"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "This study reveals perceptual misbinding of color, thereby revealing separate neural representations of color and form followed by a subsequent binding process.",
+    "Fine structure of parvocellular receptive fields in the primate fovea revealed by laser interferometry.",
+    "On closer viewing, the individual boards and the grain of the timber are revealed as traces of construction.",
+    "A word count revealed that male students do not speak more than females.",
+    "The cross-covariance revealed several features of the variability that reinforced other observations.",
+    "A literature search revealed no similar studies assessing the effectiveness of bereavement camps.",
+    "During the 1960s it became a petrochemical complex, and by the 1980s environmental monitoring revealed high levels of organic contamination in the groundwater.",
+    "But such techniques don't promise to reveal the symbolic utility of the action."
+  ],
+  "list_see_also": [
+    "revealing"
+  ],
+  "list_browse": [
+    "returnable",
+    "reunion",
+    "reunite",
+    "rev",
+    "reveal",
+    "revealing",
+    "reveille",
+    "revel",
+    "revelation"
+  ]
+}

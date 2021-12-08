@@ -1,0 +1,51 @@
+{
+  "english": "owe",
+  "phat_am": "əu",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "nợ",
+          "definition": "to be in debt to",
+          "world_new": [
+            "debt"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I owe (him) $10.",
+              "world_new": [
+                "I"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The specimen as preserved is slightly concave, owing to compression.",
+    "The unpunctured spherical film drains, owing to gravity, eventually becoming naturally unstable when its thickness is of order 0.07pm.",
+    "During the dry season the locusts could be approached nearer than during the rains, owing to their inactivity when the humidity is low.",
+    "Unfortunately, two of the three maps are difficult to read owing to the poor quality of reproduction.",
+    "Evidently the film thickens with increasing capillary number owing t o the attendant increase in deformation.",
+    "Prices become merely nominal if payment is not instantaneously done, no man knows what he owes, and yet everything is done on credit.",
+    "The consequences of such an encounter are expected to lead to a complex pattern of vortices owing to cut and connect processes and pairing processes.",
+    "Since a claim is a duty owed particularly to the person, the unfairness is plainly suffered by that person."
+  ],
+  "list_see_also": [
+    "owing",
+    "owing to"
+  ],
+  "list_browse": [
+    "ovulation",
+    "ovule",
+    "ovum",
+    "ow",
+    "owe",
+    "owing",
+    "owing to",
+    "owl",
+    "own"
+  ]
+}

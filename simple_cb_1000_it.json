@@ -1,0 +1,142 @@
+{
+  "english": "simple",
+  "phat_am": "ˈsimpl",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "đơn giản, dễ hiểu",
+          "definition": "not difficult; easy",
+          "world_new": [
+            "easy"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a simple task.",
+              "world_new": [
+                "task"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "không rắc rối, không phức tạp",
+          "definition": "not complicated or involved",
+          "world_new": [
+            "complicated",
+            "involved"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The matter is not as simple as you think.",
+              "world_new": [
+                "matter",
+                "think"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "giản d",
+          "definition": "not fancy or unusual; plain",
+          "world_new": [
+            "fancy",
+            "plain"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a simple dress/design"
+            },
+            {
+              "ex_of_definition": "He leads a very simple life.",
+              "world_new": [
+                "life"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đơn sơ",
+          "definition": "pure; mere",
+          "world_new": [
+            "mere"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the simple truth.",
+              "world_new": [
+                "truth"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "ngây thơ, khờ dại",
+          "definition": "trusting and easily cheated",
+          "world_new": [
+            "easily"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She is too simple to see through his lies.",
+              "world_new": [
+                "see"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "ngu ngốc",
+          "definition": "weak in the mind; not very intelligent",
+          "world_new": [
+            "weak",
+            "intelligent"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I’m afraid he’s a bit simple, but he’s good with animals.",
+              "world_new": [
+                "afraid",
+                "bit"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The simplest technique is to elicit the plausible intervals directly with the probability assessments from domain experts.",
+    "I think their essence is simpler than she does, and that what she says about nonsubordination well captures it.",
+    "Consider, for example, the simplest classical version of the optimization of consumption.",
+    "In the simplest case, we are interested in chromaticity changes of light sources (dealing with intensity changes in a separate analysis).",
+    "Therefore, detection as well as exploitation of parallelism is much simpler than in imperative languages.",
+    "Moreover, it is a coincidence that, if all alternatives are computed anyway, the simplest derivation is chosen, rather than any other.",
+    "There is hope that these axioms and rules may be substantially simpler than the denotational semantics.",
+    "The local path planners are typically simpler than the global ones, since they can directly map the sensor readings to actions."
+  ],
+  "list_see_also": [
+    "simpleton",
+    "simplicity",
+    "simplification",
+    "simplified",
+    "simplify",
+    "simplistic",
+    "simplistically",
+    "simply",
+    "simple-minded",
+    "simple-mindedness"
+  ],
+  "list_browse": [
+    "similarly",
+    "simile",
+    "simmer",
+    "simmer down",
+    "simple",
+    "simple-minded",
+    "simple-mindedness",
+    "simpleton",
+    "simplicity"
+  ]
+}

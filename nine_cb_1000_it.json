@@ -1,0 +1,59 @@
+{
+  "english": "nine",
+  "phat_am": "nain",
+  "list_english": [
+    {
+      "type_word": "number",
+      "list_definition": [
+        {
+          "mean_english": "số chín",
+          "definition": "the number or figure 9.",
+          "world_new": [
+            "number",
+            "figure"
+          ]
+        },
+        {
+          "mean_english": "ở chín tuổi",
+          "definition": "the age of 9.",
+          "world_new": [
+            "age"
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "prefix",
+      "list_definition": [
+        {
+          "mean_english": "có chín",
+          "definition": "having nine (of something)",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a nine-page booklet.",
+              "world_new": [
+                "booklet"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "nine-",
+    "ninth",
+    "nine-year-old"
+  ],
+  "list_browse": [
+    "nightshirt",
+    "nil",
+    "nimble",
+    "nimbly",
+    "nine",
+    "nine-year-old",
+    "ninepins",
+    "nineteen",
+    "nineteen-year-old"
+  ]
+}

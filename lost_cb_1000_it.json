@@ -1,0 +1,87 @@
+{
+  "english": "lost",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "lạc mất",
+          "definition": "missing; no longer to be found",
+          "world_new": [
+            "found"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a lost ticket.",
+              "world_new": [
+                "ticket"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "thua",
+          "definition": "not won",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The game is not lost until the final whistle.",
+              "world_new": [
+                "game",
+                "final",
+                "whistle"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "lãng phí",
+          "definition": "wasted; not used properly",
+          "world_new": [
+            "properly"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a lost opportunity.",
+              "world_new": [
+                "opportunity"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "lạc đường",
+          "definition": "no longer knowing where one is, or in which direction to go",
+          "world_new": [
+            "knowing",
+            "direction"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I don’t know whether to turn left or right – I’m lost.",
+              "world_new": [
+                "I",
+                "know",
+                "turn",
+                "left",
+                "right"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "lose touch (with)",
+    "lose/make money",
+    "loser",
+    "loss",
+    "lost",
+    "lost in",
+    "lost on",
+    "lost property",
+    "lot"
+  ]
+}

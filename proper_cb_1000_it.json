@@ -1,0 +1,94 @@
+{
+  "english": "proper",
+  "phat_am": "ˈpropə",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "đúng; thích hợp",
+          "definition": "right, correct, or suitable",
+          "world_new": [
+            "right",
+            "correct",
+            "suitable"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "That isn’t the proper way to clean the windows",
+              "world_new": [
+                "clean"
+              ]
+            },
+            {
+              "ex_of_definition": "You should have done your schoolwork at the proper time – it’s too late to start now.",
+              "world_new": [
+                "your",
+                "time",
+                "start"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "trọn vẹn",
+          "definition": "complete or thorough",
+          "world_new": [
+            "complete",
+            "thorough"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Have you made a proper search?",
+              "world_new": [
+                "search"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đúng cách",
+          "definition": "respectable or well-mannered",
+          "world_new": [
+            "respectable",
+            "well-mannered"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Such behaviour isn’t quite proper.",
+              "world_new": [
+                "behaviour",
+                "quite"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Is it sufficient for its proper historisation that practically every source and document is accessible?",
+    "A modification or change in the value of a proper ty characteristic changes an associated control object via dependency rules.",
+    "The remaining three cases correspond to the set being empty, equal to the universe and proper, respectively.",
+    "By \"proper\" we mean that there is a lawful physical relationship between the distal property and the input.",
+    "Not all sets of points enjoy the above-mentioned proper ties.",
+    "The role of the focus object proper ty varies with the type of the design event.",
+    "Here, the user was especially concerned with mechanical proper ties and tooling costs; thus, filament winding was generated as the preferred manufacturing option.",
+    "Exceptions are nouns in a non-argument position and proper names."
+  ],
+  "list_see_also": [
+    "properly",
+    "proper noun"
+  ],
+  "list_browse": [
+    "propagation",
+    "propel",
+    "propeller",
+    "propelling pencil",
+    "proper",
+    "proper noun",
+    "properly",
+    "property",
+    "prophecy"
+  ]
+}

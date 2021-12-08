@@ -1,0 +1,161 @@
+{
+  "english": "tell",
+  "phat_am": "tel",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "kể, cho biết",
+          "definition": "to inform or give information to (a person) about (something)",
+          "world_new": [
+            "inform",
+            "information"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He told the whole story to John",
+              "world_new": [
+                "whole",
+                "story"
+              ]
+            },
+            {
+              "ex_of_definition": "He told John about it."
+            }
+          ]
+        },
+        {
+          "mean_english": "yêu cầu, gợi ý",
+          "definition": "to order or command; to suggest or warn",
+          "world_new": [
+            "order",
+            "suggest",
+            "warn"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I told him to go away.",
+              "world_new": [
+                "I"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "nói",
+          "definition": "to say or express in words",
+          "world_new": [
+            "express"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I don’t like telling lies.",
+              "world_new": [
+                "I",
+                "telling"
+              ]
+            },
+            {
+              "ex_of_definition": "He wants to tell us a story.",
+              "world_new": [
+                "story"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "phân biệt",
+          "definition": "to distinguish; to see (a difference); to know or decide",
+          "world_new": [
+            "see",
+            "know",
+            "decide"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Can you tell the difference between them?",
+              "world_new": [
+                "difference"
+              ]
+            },
+            {
+              "ex_of_definition": "I can’t tell one from the other",
+              "world_new": [
+                "I"
+              ]
+            },
+            {
+              "ex_of_definition": "You can tell if the meat is cooked by/from the colour.",
+              "world_new": [
+                "meat",
+                "colour"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "để lộ bí mật",
+          "definition": "to give away a secret",
+          "world_new": [
+            "secret"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "You mustn’t tell or we’ll get into trouble.",
+              "world_new": [
+                "trouble"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "có tác dụng tốt",
+          "definition": "to be effective; to be seen to give (good) results",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Good teaching will always tell.",
+              "world_new": [
+                "teaching"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "All are concerned with telling the story of her life.",
+    "The history of the relationship between insurance and civil society, as usually told, is an anticlimactic narrative.",
+    "You told him that you would help him with writing.",
+    "A telling example-of importance for the study reported below-involves (thematic) verb raising.",
+    "A doctor told him that this condition was caused by excess consumption of roasted and fried food.",
+    "We were told that it was part of our remit to produce a solution to this problem.",
+    "The child tells her imaginary baby two stories of empire, in quick succession.",
+    "They were told to read and make the decision as quickly and accurately as possible."
+  ],
+  "list_see_also": [
+    "teller",
+    "telling",
+    "tellingly",
+    "telltale",
+    "I told you so",
+    "tell off",
+    "tell on",
+    "tell tales",
+    "tell the time",
+    "there’s no telling",
+    ""
+  ],
+  "list_browse": [
+    "telescopic",
+    "teletext",
+    "televise",
+    "television",
+    "tell",
+    "tell (someone’s) fortune",
+    "tell apart",
+    "tell off",
+    "tell on"
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "english": "rub",
+  "phat_am": "rab",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "cọ; rụi",
+          "definition": "to move against the surface of something else, pressing at the same time",
+          "world_new": [
+            "move",
+            "surface",
+            "else",
+            "pressing",
+            "time"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He rubbed his eyes"
+            },
+            {
+              "ex_of_definition": "The horse rubbed its head against my shoulder",
+              "world_new": [
+                "horse",
+                "its",
+                "head",
+                "my",
+                "shoulder"
+              ]
+            },
+            {
+              "ex_of_definition": "The back of the shoe is rubbing against my heel.",
+              "world_new": [
+                "shoe",
+                "my",
+                "heel"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự cọ; cái rụi",
+          "definition": "an act of rubbing",
+          "world_new": [
+            "act"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He gave the teapot a rub with a polishing cloth.",
+              "world_new": [
+                "teapot",
+                "cloth"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Presumably the pigments were dispersed through rubbing the suspended particles into the white ground.",
+    "Even the term \"rubber\" comes from one of the material's innumerable handy uses: rubbing out pencil marks.",
+    "Damage types 7, 9 and 10 represent localized rubbing; damage type 8 depicts rubbing along the wing venation.",
+    "It would get rubbed out every day and then it would be drawn again.",
+    "But there's the rub: historians are generally not interested in bringing complexity to the texts they use as sources, and for very good reasons.",
+    "Senior government and municipal officials rubbed shoulders with the poor who sought help and relief at these hospitals.",
+    "Where evident, the metaphysical dexterity of their similes rubs off on the purveyor.",
+    "Fruits were soaked in water and then rubbed with sand."
+  ],
+  "list_see_also": [
+    "rub down",
+    "rub it in",
+    "rub out",
+    "rub shoulders with",
+    "rub up",
+    "rub up the wrong way"
+  ],
+  "list_browse": [
+    "royal blue",
+    "royalist",
+    "royally",
+    "royalty",
+    "rub",
+    "rub down",
+    "rub it in",
+    "rub out",
+    "rub shoulders with"
+  ]
+}

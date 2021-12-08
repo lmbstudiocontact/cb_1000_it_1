@@ -1,0 +1,69 @@
+{
+  "english": "publish",
+  "phat_am": "ˈpabliʃ",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "xuất bản",
+          "definition": "to prepare, print and produce for sale (a book etc)",
+          "world_new": [
+            "prepare",
+            "print",
+            "produce",
+            "sale",
+            "book"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "His new novel is being published this month.",
+              "world_new": [
+                "novel",
+                "month"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "công bố",
+          "definition": "to make known",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "They published their engagement.",
+              "world_new": [
+                "their",
+                "engagement"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The conference elicited a number of distinguished papers, and the proceedings will soon be published.",
+    "Plans to publish an illustrated edition of the poem were never realized.",
+    "Secondly, they actively carried out and published social surveys of urban poverty.",
+    "This makes for a clear and straightforward historical materialist account (drawing largely on previously published sources), but also leads to missed opportunities.",
+    "To my knowledge, no study specifically investigating catatonic syndrome (and not only catatonic schizophrenia as a subtype) has been published so far.",
+    "After the initial discovery, a large literature was published extending the result in various directions.",
+    "There is, therefore, a steady programme of producing and publishing translations.",
+    "This is a fascinating book, perhaps even more relevant today than when it was first published in 2001."
+  ],
+  "list_see_also": [
+    "publisher",
+    "publishing"
+  ],
+  "list_browse": [
+    "publication",
+    "publicity",
+    "publicize",
+    "publicly",
+    "publish",
+    "publisher",
+    "publishing",
+    "pucker",
+    "pudding"
+  ]
+}

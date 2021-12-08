@@ -1,0 +1,99 @@
+{
+  "english": "thrust",
+  "phat_am": "θrast",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "xô mạnh, đẩy mạnh",
+          "definition": "to push suddenly and violently",
+          "world_new": [
+            "push",
+            "suddenly",
+            "violently"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He thrust his spade into the ground",
+              "world_new": [
+                "spade",
+                "ground"
+              ]
+            },
+            {
+              "ex_of_definition": "She thrust forward through the crowd.",
+              "world_new": [
+                "forward",
+                "crowd"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự đẩy mạnh",
+          "definition": "a sudden violent forward movement",
+          "world_new": [
+            "sudden",
+            "violent",
+            "forward",
+            "movement"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The army made a sudden thrust across the border.",
+              "world_new": [
+                "army",
+                "sudden",
+                "across",
+                "border"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sự xô mạnh về phía trước",
+          "definition": "a force pushing forward",
+          "world_new": [
+            "force",
+            "forward"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the thrust of the engines."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "In addition, the movement of the slide mimics thrusting.",
+    "On finding the larva, several sharp thrusts of the ovipositor are made ; the female then remains still for three or four minutes.",
+    "The mutual goal of the two thrusts was improved performance: solving problems better and faster.",
+    "Such an increase in span results from the thrusts engendered by the masonry vault itself and also by the surmounting and protecting timber roof.",
+    "In places, it is possible that sedimentary forms such as channel-base scours controlled the initiation and extent of individual thrusts.",
+    "The pro-wedges in our models are characterized by longitudinal relay and branching of curvilinear thrusts, allowing displacement transfer between adjacent faults.",
+    "Axial ratios in the dolomitic clasts increase up to a maximum of 30 : 1 adjacent to the ductile thrusts.",
+    "The decorative writing - decorative, yes, but there to fix the military scene in place - thrusts itself forward, clamours for our attention, too."
+  ],
+  "list_see_also": [
+    "thrust on/upon"
+  ],
+  "list_browse": [
+    "throw out",
+    "throw up",
+    "throwaway",
+    "thru",
+    "thrust",
+    "thrust on/upon",
+    "thud",
+    "thug",
+    "thumb"
+  ]
+}

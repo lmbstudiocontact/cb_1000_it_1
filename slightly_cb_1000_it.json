@@ -1,0 +1,61 @@
+{
+  "english": "slightly",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "adverb",
+      "list_definition": [
+        {
+          "mean_english": "nhỏ, mức độ không đáng kể",
+          "definition": "to a small extent",
+          "world_new": [
+            "small",
+            "extent"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I’m still slightly worried about it.",
+              "world_new": [
+                "worried"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "mảnh khảnh , thon thả",
+          "definition": "slenderly",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He was a slightly-built young man.",
+              "world_new": [
+                "young"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The protein concentration increased slightly in the anaerobic biofilm, while it decreased slightly in the aerobic biofilm, but the changes were not statistically significant.",
+    "Since this argument is standard, we shall be slightly sketchy about it.",
+    "However, we were emphasising a slightly different point.",
+    "The right ventricular systolic to aortic pressure ratio fell slightly mainly due to the recovery of the aortic pressure.",
+    "On the table on the left-hand side of the base-board, and slightly in front of the easel, is placed a shaving mirror upon its stand.",
+    "The general body colour tended to become lighter slightly as the time after injection elapsed, whereas the opposite tendency was shown for the compound eyes.",
+    "To put it in slightly different terms: p-dreams, despite being experiences, have no interesting biological function.",
+    "Slightly over two-thirds left before two years had elapsed."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "slight",
+    "slightest",
+    "slighting",
+    "slightingly",
+    "slightly",
+    "slim",
+    "slime",
+    "sliminess",
+    "slimming"
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "english": "perform",
+  "phat_am": "pəˈfoːm",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "tiến hành",
+          "definition": "to do, especially with care or as a duty",
+          "world_new": [
+            "care",
+            "duty"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The doctor performed the operation.",
+              "world_new": [
+                "doctor",
+                "operation"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "biểu diễn",
+          "definition": "to act (in the theatre/theater etc) or do anything musical, theatrical etc to entertain an audience",
+          "world_new": [
+            "act",
+            "musical",
+            "theatrical",
+            "entertain",
+            "audience"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The company will perform a Greek play",
+              "world_new": [
+                "company",
+                "play"
+              ]
+            },
+            {
+              "ex_of_definition": "She performed on the violin.",
+              "world_new": [
+                "violin"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "After these rather crude cases were performed, the parameter s for interesting selected single cases with very detailed computations can be done.",
+    "The second unit is performed by the end-effector simultaneously and independently of the first one.",
+    "Second, this study was performed at only one palliative care unit of a cancer center hospital.",
+    "A second analysis was performed with gender as an additional factor in order to look for possible interaction effects of gender by group.",
+    "In particular, we describe how the limiting procedure has to be performed.",
+    "The first stool examination was performed on 210 children in each neighourhood.",
+    "Comparisons of prevalence were performed by the z-test.",
+    "Like the principle, ' good ought to be sought ', this principle does not specify which act should be performed."
+  ],
+  "list_see_also": [
+    "performance",
+    "performer",
+    "performance assessment"
+  ],
+  "list_browse": [
+    "perfectly",
+    "perforate",
+    "perforated",
+    "perforation",
+    "perform",
+    "performance",
+    "performance assessment",
+    "performer",
+    "perfume"
+  ]
+}

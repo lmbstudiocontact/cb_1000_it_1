@@ -1,0 +1,103 @@
+{
+  "english": "mild",
+  "phat_am": "maild",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "hoà nhẽ",
+          "definition": "(of a person or his personality) gentle in temper or behaviour/behavior",
+          "world_new": [
+            "person",
+            "gentle",
+            "temper"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He has such a mild temper.",
+              "world_new": [
+                "temper"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "nhẹ (hình phạt)",
+          "definition": "(of punishment etc) not severe",
+          "world_new": [
+            "punishment",
+            "severe"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a mild sentence.",
+              "world_new": [
+                "sentence"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "ôn hòa",
+          "definition": "(of weather especially if not in summer) not cold; rather warm",
+          "world_new": [
+            "weather",
+            "rather",
+            "warm"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a mild spring day.",
+              "world_new": [
+                "spring",
+                "day"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "không gắt",
+          "definition": "(of spices, spiced foods etc) not hot",
+          "world_new": [
+            "spiced",
+            "hot"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a mild curry.",
+              "world_new": [
+                "curry"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "These gastrointestinal events were mild-to-moderate in severity and resulted in only three discontinued subjects over 20 months.",
+    "Regarding the severity of these disorders, y40 % were mild disorders and about one third were moderate and another third were serious disorders.",
+    "In cases of isolated mild/moderate ventriculomegaly the risk of a karyotype abnormality is also unclear from the literature.",
+    "Another reason for few adaptations could be that 44% of the patients in our study had a mild stroke (4).",
+    "Cases of mild cognitive impairment could be missed, if the elderly persons do not admit cognitive impairment and no third party information can be obtained.",
+    "Adverse events reported in the open-label period were mostly mild; no difference in adverse events between varenicline and placebo was observed during the double-blind period.",
+    "Long-term treatment was generally well tolerated with most adverse events being in the mild-to-moderate range of severity.",
+    "Even the most salient traces typically represent only relatively mild threats."
+  ],
+  "list_see_also": [
+    "mildly",
+    "mildness"
+  ],
+  "list_browse": [
+    "migrant",
+    "migrate",
+    "migration",
+    "migratory",
+    "mild",
+    "mildly",
+    "mildness",
+    "mile",
+    "milestone"
+  ]
+}

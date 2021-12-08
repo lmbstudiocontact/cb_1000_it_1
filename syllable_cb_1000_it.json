@@ -1,0 +1,49 @@
+{
+  "english": "syllable",
+  "phat_am": "ˈsiləbl",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "âm tiết",
+          "definition": "a word or part of a word usually containing a vowel sound",
+          "world_new": [
+            "part",
+            "vowel",
+            "sound"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "‘Cheese’ has one syllable, ‘but-ter’ two and ‘mar-ga-rine’ three."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Finally, we do not specify the syllable structure precisely.",
+    "Target words containing short vowels and /l/ codas were produced as open syllables with diphthongs.",
+    "Under this approach it is stressed and adjacent syllables that are expected to surface in children's early words.",
+    "The definitions of di- and trisyllables numbers the syllables from the right.",
+    "The second factor was identified as short-term verbal memory and included final syllable deletion in both languages.",
+    "If the final syllable does not have a long vowel or end in two or more consonants, the initial syllable is stressed.",
+    "Acoustic features do not capture the dimensions of the space where syllables live.",
+    "Finally, for segmentation and blending tasks, the different reading groups were not differentially affected by syllable structure."
+  ],
+  "list_see_also": [
+    "syllabic"
+  ],
+  "list_browse": [
+    "swordtail",
+    "sworn",
+    "swot",
+    "syllabic",
+    "syllable",
+    "syllabus",
+    "symbiosis",
+    "symbiotic",
+    "symbiotically"
+  ]
+}

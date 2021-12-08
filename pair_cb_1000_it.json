@@ -1,0 +1,97 @@
+{
+  "english": "pair",
+  "phat_am": "peə",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "đôi",
+          "definition": "a set of two of the same thing which are (intended to be) used etc together",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a pair of shoes/gloves."
+            }
+          ]
+        },
+        {
+          "mean_english": "cái",
+          "definition": "a single thing made up of two parts",
+          "world_new": [
+            "single"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a pair of scissors",
+              "world_new": [
+                "scissors"
+              ]
+            },
+            {
+              "ex_of_definition": "a pair of pants.",
+              "world_new": [
+                "pants"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "cặp",
+          "definition": "two people, animals etc, often one of either sex, who are thought of together for some reason",
+          "world_new": [
+            "people",
+            "sex",
+            "thought",
+            "reason"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a pair of giant pandas",
+              "world_new": [
+                "giant"
+              ]
+            },
+            {
+              "ex_of_definition": "John and James are the guilty pair.",
+              "world_new": [
+                "guilty"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "ghép cặp",
+          "definition": "to make into a pair",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She was paired with my brother in the tennis match.",
+              "world_new": [
+                "my",
+                "brother",
+                "tennis",
+                "match"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "paintbrush",
+    "painter",
+    "painting",
+    "paintwork",
+    "pair",
+    "pal",
+    "palace",
+    "palaeontologist",
+    "palaeontology"
+  ]
+}

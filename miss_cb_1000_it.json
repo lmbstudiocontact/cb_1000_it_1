@@ -1,0 +1,262 @@
+{
+  "english": "miss",
+  "phat_am": "mis",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "trượt",
+          "definition": "to fail to hit, catch etc",
+          "world_new": [
+            "fail",
+            "hit",
+            "catch"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The arrow missed the target.",
+              "world_new": [
+                "arrow",
+                "target"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "lỡ",
+          "definition": "to fail to arrive in time for",
+          "world_new": [
+            "fail",
+            "arrive",
+            "time"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He missed the 8 o’clock train.",
+              "world_new": [
+                "o’clock",
+                "train"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "lỡ cơ hội",
+          "definition": "to fail to take advantage of",
+          "world_new": [
+            "fail",
+            "advantage"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "You’ve missed your opportunity.",
+              "world_new": [
+                "your",
+                "opportunity"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "nhớ",
+          "definition": "to feel sad because of the absence of",
+          "world_new": [
+            "feel",
+            "sad",
+            "absence"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "You’ll miss your friends when you go to live abroad.",
+              "world_new": [
+                "your",
+                "live",
+                "abroad"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "thấy thiếu",
+          "definition": "to notice the absence of",
+          "world_new": [
+            "notice",
+            "absence"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I didn’t miss my purse till several hours after I’d dropped it.",
+              "world_new": [
+                "I",
+                "my",
+                "purse"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "không để ý",
+          "definition": "to fail to hear or see",
+          "world_new": [
+            "fail",
+            "hear",
+            "see"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He missed what you said because he wasn’t listening."
+            }
+          ]
+        },
+        {
+          "mean_english": "bỏ lỡ",
+          "definition": "to fail to go to",
+          "world_new": [
+            "fail"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I’ll have to miss my lesson next week, as I’m going to the dentist.",
+              "world_new": [
+                "my",
+                "lesson",
+                "week",
+                "dentist"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "không gặp",
+          "definition": "to fail to meet",
+          "world_new": [
+            "fail",
+            "meet"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We missed you in the crowd.",
+              "world_new": [
+                "crowd"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tránh",
+          "definition": "to avoid",
+          "world_new": [
+            "avoid"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The thief only just missed being caught by the police.",
+              "world_new": [
+                "thief",
+                "police"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "không nổ máy",
+          "definition": "(of an engine) to misfire.",
+          "world_new": [
+            "misfire"
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự lỡ; sự trượt",
+          "definition": "a failure to hit, catch etc",
+          "world_new": [
+            "failure",
+            "hit",
+            "catch"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He scored two hits and two misses."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cô gái",
+          "definition": "a polite title given to an unmarried female, either in writing or in speech",
+          "world_new": [
+            "polite",
+            "title",
+            "unmarried",
+            "female",
+            "speech"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Miss Wilson"
+            },
+            {
+              "ex_of_definition": "the Misses Wilson"
+            },
+            {
+              "ex_of_definition": "Could you ask Miss Smith to type this letter?",
+              "world_new": [
+                "ask",
+                "type",
+                "letter"
+              ]
+            },
+            {
+              "ex_of_definition": "Excuse me, miss. Could you tell me how to get to Princess Road?",
+              "world_new": [
+                "tell"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "người phụ nữ trẻ",
+          "definition": "a girl or young woman",
+          "world_new": [
+            "girl",
+            "young"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She’s a cheeky little miss!",
+              "world_new": [
+                "cheeky"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "missing",
+    "go missing",
+    "miss out",
+    "miss the boat"
+  ],
+  "list_browse": [
+    "misplace",
+    "misprint",
+    "mispronounce",
+    "mispronunciation",
+    "miss",
+    "miss etc by a whisker",
+    "miss out",
+    "miss the boat",
+    "misshapen"
+  ]
+}

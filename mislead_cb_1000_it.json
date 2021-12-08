@@ -1,0 +1,54 @@
+{
+  "english": "mislead",
+  "phat_am": "misˈliːd",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "lừa ai làm gì",
+          "definition": "to give a wrong idea to",
+          "world_new": [
+            "wrong",
+            "idea"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Her friendly attitude misled me into thinking I could trust her.",
+              "world_new": [
+                "friendly",
+                "attitude",
+                "I",
+                "trust"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The size or position of the proposed building may be inaccurate or the way in which the materials or lighting are configured could be misleading.",
+    "We are easily misled by the way a decision is framed.",
+    "The rather portentous title of this book neatly describes its topics, except that the term ' postmodern ' is likely to mislead.",
+    "Their system aims to find slips in typing or performance errors rather than competence errors; like our system, it will be misled by consistent mistakes.",
+    "Nevertheless, there was less opportunity for readers to be misled when they were learning about memory than when the topic was mental imagery.",
+    "Why distort and indeed mislead public education and discussion by confusing scientific fact and science fiction?",
+    "On closer inspection, however, this comfortably predictable image turns out to be in important respects misleading.",
+    "Indeed, it was misleading, a joke, beneath serious criticism, and it got none."
+  ],
+  "list_see_also": [
+    "misleading"
+  ],
+  "list_browse": [
+    "mishap",
+    "misinform",
+    "misjudge",
+    "mislay",
+    "mislead",
+    "misleading",
+    "misplace",
+    "misprint",
+    "mispronounce"
+  ]
+}

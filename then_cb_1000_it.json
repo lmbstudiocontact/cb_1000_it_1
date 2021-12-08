@@ -1,0 +1,189 @@
+{
+  "english": "then",
+  "phat_am": "ðen",
+  "list_english": [
+    {
+      "type_word": "adverb",
+      "list_definition": [
+        {
+          "mean_english": "vào lúc",
+          "definition": "at that time in the past or future",
+          "world_new": [
+            "time",
+            "future"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I was at school then",
+              "world_new": [
+                "I",
+                "school"
+              ]
+            },
+            {
+              "ex_of_definition": "If you’re coming next week, I’ll see you then.",
+              "world_new": [
+                "week",
+                "see"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "lúc đó",
+          "definition": "used with prepositions to mean that time in the past or future",
+          "world_new": [
+            "mean",
+            "time",
+            "future"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "John should be here by then"
+            },
+            {
+              "ex_of_definition": "I’ll need you before then"
+            },
+            {
+              "ex_of_definition": "I have been ill since then",
+              "world_new": [
+                "I",
+                "ill"
+              ]
+            },
+            {
+              "ex_of_definition": "Until then"
+            },
+            {
+              "ex_of_definition": "Goodbye till then!"
+            }
+          ]
+        },
+        {
+          "mean_english": "rồi, sau đó",
+          "definition": "after that",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I had a drink, (and) then I went home.",
+              "world_new": [
+                "I",
+                "drink",
+                "I",
+                "home"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "trong trường hợp",
+          "definition": "in that case",
+          "world_new": [
+            "case"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He might not give us the money and then what would we do?",
+              "world_new": [
+                "money"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "rồi sao, sau nữa",
+          "definition": "often used especially at the end of sentences in which an explanation, opinion etc is asked for, or which show surprise etc",
+          "world_new": [
+            "explanation",
+            "opinion",
+            "surprise"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "What do you think of that, then?",
+              "world_new": [
+                "think"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "cũng, hơn nữa",
+          "definition": "also; in addition",
+          "world_new": [
+            "addition"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I have two brothers, and then I have a cousin in America.",
+              "world_new": [
+                "I",
+                "I",
+                "cousin"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "conjunction",
+      "list_definition": [
+        {
+          "mean_english": "trong trường hợp, do",
+          "definition": "in that case; as a result",
+          "world_new": [
+            "result"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "If you’re tired, then you must rest.",
+              "world_new": [
+                "tired",
+                "rest"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "thời ấy, hồi đó",
+          "definition": "at that time (in the past)",
+          "world_new": [
+            "time"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the then Prime Minister."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The first point to address, then, is whether the findings of variationist sociolinguistics are indeed compatible with such a model.",
+    "Substitution of intothen yields an equation for the averaged flow variables.",
+    "Then, the number of new cases declined quickly.",
+    "Would the language learner then feel that her language is missing something ?",
+    "Then the water composition approximately oscillates at each point of the aquifer in phase with the water velocity.",
+    "Then all these parametric variations will be repeated at a larger fill factor by lowering the quadrupole-focusing gradient.",
+    "They then outline the implications of their definition of life for the origin of life adding biomembrane formation to the metabolism/replication-first debate.",
+    "Predictably, no modifiers can then intervene between the head and the relative clause."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "them",
+    "theme",
+    "theme park",
+    "themselves",
+    "then",
+    "theologian",
+    "theological",
+    "theologically",
+    "theology"
+  ]
+}

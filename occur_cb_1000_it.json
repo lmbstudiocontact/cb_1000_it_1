@@ -1,0 +1,89 @@
+{
+  "english": "occur",
+  "phat_am": "əˈkəː",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "xảy ra",
+          "definition": "to take place",
+          "world_new": [
+            "place"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The accident occurred yesterday morning.",
+              "world_new": [
+                "accident",
+                "yesterday",
+                "morning"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "nảy ra",
+          "definition": "(with to) to come into one’s mind",
+          "world_new": [
+            "mind"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "An idea occurred to him",
+              "world_new": [
+                "idea"
+              ]
+            },
+            {
+              "ex_of_definition": "It occurred to me to visit my parents.",
+              "world_new": [
+                "visit",
+                "my"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tìm thấy",
+          "definition": "to be found",
+          "world_new": [
+            "found"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Oil occurs under the sea.",
+              "world_new": [
+                "sea"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Worms were exposed to drugs for up to 48 h to establish when the first topographical changes occurred.",
+    "The fact that reduplication for the diminutive\\inchoative morphemes occurs only when it will not add a syllable to the word requires independent explanation.",
+    "In order to complete the analysis, a case in which a big change in the trajectory occurs is considered.",
+    "Therefore, the last section of the review summarises the patterns and processes occurring in larval helminth species interacting in a shared invertebrate, intermediate host.",
+    "Most of her patients are unconsc ious at admission, and communication largely occurs with their shocked and emotionally numb families.",
+    "The molecule is ubiquitous - it occurs in prokaryotes and eukaryotes, and also in the genomes of mitochondria and chloroplasts.",
+    "There was some evidence of this occurring with our participants, particularly between the various nursing groups.",
+    "Unsuccessful switching occurred in six patients, who were subsequently treated with an alternative therapy."
+  ],
+  "list_see_also": [
+    "occurrence"
+  ],
+  "list_browse": [
+    "occupation",
+    "occupational",
+    "occupier",
+    "occupy",
+    "occur",
+    "occurrence",
+    "ocean",
+    "ochre",
+    "Oct"
+  ]
+}

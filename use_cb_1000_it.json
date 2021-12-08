@@ -1,0 +1,185 @@
+{
+  "english": "use",
+  "phat_am": "juːz",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "sử dụng",
+          "definition": "to employ (something) for a purpose",
+          "world_new": [
+            "employ",
+            "purpose"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "What did you use to open the can?",
+              "world_new": [
+                "open"
+              ]
+            },
+            {
+              "ex_of_definition": "Use your common sense!",
+              "world_new": [
+                "your",
+                "common",
+                "sense"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "dùng, tiêu thụ",
+          "definition": "to consume",
+          "world_new": [
+            "consume"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We’re using far too much electricity.",
+              "world_new": [
+                "far",
+                "electricity"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "việc dùng , sử dụng",
+          "definition": "the act of using or state of being used",
+          "world_new": [
+            "act",
+            "state"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The use of force to persuade workers to join a strike cannot be justified",
+              "world_new": [
+                "force",
+                "persuade",
+                "join",
+                "strike"
+              ]
+            },
+            {
+              "ex_of_definition": "This telephone number is for use in emergencies.",
+              "world_new": [
+                "telephone",
+                "number"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "công dụng",
+          "definition": "the/a purpose for which something may be used",
+          "world_new": [
+            "purpose"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "This little knife has plenty of uses",
+              "world_new": [
+                "knife"
+              ]
+            },
+            {
+              "ex_of_definition": "I have no further use for these clothes.",
+              "world_new": [
+                "I",
+                "further",
+                "clothes"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tác dụng",
+          "definition": "(often in questions or with negatives) value or advantage",
+          "world_new": [
+            "value",
+            "advantage"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Is this coat (of) any use to you?",
+              "world_new": [
+                "coat"
+              ]
+            },
+            {
+              "ex_of_definition": "It’s no use offering to help when it’s too late.",
+              "world_new": [
+                "offering",
+                "help"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "năng lực sử dụng",
+          "definition": "the power of using",
+          "world_new": [
+            "power"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She lost the use of her right arm as a result of the accident.",
+              "world_new": [
+                "lost",
+                "right",
+                "arm",
+                "result",
+                "accident"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "quyền sử dụng",
+          "definition": "permission, or the right, to use",
+          "world_new": [
+            "permission",
+            "right"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "They let us have the use of their car while they were away.",
+              "world_new": [
+                "let",
+                "their",
+                "car"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "usable",
+    "used",
+    "user",
+    "user-friendly",
+    "user guide",
+    "be used to (something)",
+    "used to"
+  ],
+  "list_browse": [
+    "urn",
+    "us",
+    "usable",
+    "USB",
+    "use",
+    "used",
+    "used to",
+    "useful",
+    "usefully"
+  ]
+}

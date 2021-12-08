@@ -1,0 +1,73 @@
+{
+  "english": "operate",
+  "phat_am": "ˈopəreit",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "điều khiển",
+          "definition": "to act or work",
+          "world_new": [
+            "act",
+            "work"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The sewing-machine isn’t operating properly.",
+              "world_new": [
+                "properly"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "phẫu thuật",
+          "definition": "to do or perform a surgical operation",
+          "world_new": [
+            "perform",
+            "surgical",
+            "operation"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The surgeon operated on her for appendicitis.",
+              "world_new": [
+                "surgeon"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "This suggests that any scaffolding provided by previous utterances operates at a highly lexically-specific level at this stage in development.",
+    "In such a situation, we can expect more than one - possibly overlapping - value system operating at the same time.",
+    "Further, structural conditions may affect how the processes identified here operate.",
+    "If it is, then perhaps they emphasize noise because that might provide the prior signals on which modulatory processes operate.",
+    "In fact, a change of pressure is the practical way to optimize a given machine (fixed geometry) to operate in a certain regime.",
+    "In section 3.1 we discuss how to represent tables and how to operate on tables.",
+    "However, what differs is the size of the bus operated, not the amount of work demanded. 11.",
+    "I observed and took notes of each interaction from a distance and operated the tape-recorder myself."
+  ],
+  "list_see_also": [
+    "operation",
+    "operational",
+    "operative",
+    "operator",
+    "operating room",
+    "operating system"
+  ],
+  "list_browse": [
+    "openness",
+    "opera",
+    "opera glasses",
+    "opera house",
+    "operate",
+    "operatic",
+    "operating room",
+    "operating system",
+    "operation"
+  ]
+}

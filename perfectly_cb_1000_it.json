@@ -1,0 +1,60 @@
+{
+  "english": "perfectly",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "adverb",
+      "list_definition": [
+        {
+          "mean_english": "hoàn hảo",
+          "definition": "without mistakes or flaws",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She performed the dance perfectly.",
+              "world_new": [
+                "dance"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "hoàn toàn",
+          "definition": "very; completely",
+          "world_new": [
+            "completely"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He was perfectly happy.",
+              "world_new": [
+                "happy"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The classical ideal turns out to be the ultra-clean sound ('every part of the orchestra gets perfectly reproduced').",
+    "We found that for both red and green center cells the data could be perfectly fitted by either mixed or pure surrounds.",
+    "In both cases, the solid is considered perfectly elastic.",
+    "People do not have perfect knowledge and fixed preferences, nor are they perfectly mobile, but do they take account of tax-service packages when moving?",
+    "He was lucid about himself and knew perfectly well what was being said behind his back.",
+    "Moreover, we assume that the worker's effort is perfectly observable, and so, the wage is perfectly competitive.",
+    "The decisive answer arrived this morning and is perfectly satisfactory.",
+    "They allow us to act on behalf of the highest good knowing perfectly well that it may not be achievable in this life."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "perennial",
+    "perfect",
+    "perfection",
+    "perfectionist",
+    "perfectly",
+    "perforate",
+    "perforated",
+    "perforation",
+    "perform"
+  ]
+}

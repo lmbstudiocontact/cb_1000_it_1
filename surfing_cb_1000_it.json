@@ -1,0 +1,48 @@
+{
+  "english": "surfing",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "môn lướt sóng",
+          "definition": "the sport of riding on a surfboard",
+          "world_new": [
+            "sport",
+            "surfboard"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "ideal weather for surfing.",
+              "world_new": [
+                "ideal",
+                "weather"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sự tìm kiếm trên mạng",
+          "definition": "looking for interesting sites on the Internet.",
+          "world_new": [
+            "interesting",
+            "Internet"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "surface",
+    "surface mail",
+    "surfboard",
+    "surfer",
+    "surfing",
+    "surge",
+    "surgeon",
+    "surgery",
+    "surgical"
+  ]
+}

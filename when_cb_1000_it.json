@@ -1,0 +1,120 @@
+{
+  "english": "when",
+  "phat_am": "wen",
+  "list_english": [
+    {
+      "type_word": "adverb",
+      "list_definition": [
+        {
+          "mean_english": "khi nào",
+          "definition": "at what time(?)",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "When did you arrive?",
+              "world_new": [
+                "arrive"
+              ]
+            },
+            {
+              "ex_of_definition": "When will you see her again?",
+              "world_new": [
+                "see"
+              ]
+            },
+            {
+              "ex_of_definition": "I asked him when the incident had occurred",
+              "world_new": [
+                "I",
+                "incident"
+              ]
+            },
+            {
+              "ex_of_definition": "Tell me when to stop.",
+              "world_new": [
+                "stop"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "",
+      "list_definition": [
+        {
+          "mean_english": "khi mà",
+          "definition": "(at or during) the time at which",
+          "world_new": [
+            "time"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "It happened when I was abroad",
+              "world_new": [
+                "I",
+                "abroad"
+              ]
+            },
+            {
+              "ex_of_definition": "When you see her, give her this message",
+              "world_new": [
+                "see",
+                "message"
+              ]
+            },
+            {
+              "ex_of_definition": "When I’ve finished, I’ll call you.",
+              "world_new": [
+                "finished",
+                "call"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "mặc dù",
+          "definition": "in spite of the fact that; considering that",
+          "world_new": [
+            "spite",
+            "fact",
+            "considering"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Why do you walk when you have a car?",
+              "world_new": [
+                "walk",
+                "car"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The question takes on particular force when we are dealing with felonies that have quite mild punishments associated with them.",
+    "The results did not change when we used these alternative measures of heart disease.",
+    "Uninterpretable features, on the other hand, are erased when checked and therefore only trigger movement once.",
+    "The third cause was the problems caused when patients need hospital transport.",
+    "Needed to make a high vowel non-back (front) when an onsetless vowel is word-initial.",
+    "There is also an issue to consider when regarding the circle of reconstruction.",
+    "Similarly, when two legal rules conflict, the rule that was last enacted governs.",
+    "In addition, these reforms establish a basis for subsequent laws to institutionalise them, and they justify protests when new constitutional rights are violated or ignored."
+  ],
+  "list_see_also": [
+    "whence",
+    "whenever"
+  ],
+  "list_browse": [
+    "wheeze",
+    "wheezily",
+    "wheeziness",
+    "wheezy",
+    "when",
+    "whence",
+    "whenever",
+    "where",
+    "where’s"
+  ]
+}

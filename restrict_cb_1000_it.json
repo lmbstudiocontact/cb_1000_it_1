@@ -1,0 +1,82 @@
+{
+  "english": "restrict",
+  "phat_am": "rəˈstrikt",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "hạn chế",
+          "definition": "to keep within certain limits",
+          "world_new": [
+            "keep",
+            "certain"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I try to restrict myself / my smoking to five cigarettes a day",
+              "world_new": [
+                "I",
+                "try",
+                "my",
+                "smoking",
+                "day"
+              ]
+            },
+            {
+              "ex_of_definition": "Use of the car-park is restricted to senior staff.",
+              "world_new": [
+                "restricted",
+                "senior",
+                "staff"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "giới hạn",
+          "definition": "to make less than usual, desirable etc",
+          "world_new": [
+            "usual",
+            "desirable"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He feels this new law will restrict his freedom.",
+              "world_new": [
+                "law",
+                "freedom"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The receptive fields of nociceptive neurons in this route are restricted.",
+    "However, in the mentalistic framework, the formation and manipulation of abstract knowledge is restricted to conscious activities.",
+    "In discussing these relationships, such ' conditions ' should not be restricted to employment opportunities both in the home and in the external labour market.",
+    "They indicate that he supports restricting these rules.",
+    "In contrast to many other studies of first-episode psychosis, the sample is not restricted to in-patients.",
+    "Utilizing these principles and initially restricting implantation to a small and controlled group would secure time for evaluation of these technologies before widespread implementation.",
+    "The methodological tools to do this are not restricted to a single technique.",
+    "At least two pitfalls of using scripts that are too restricting may be pointed out."
+  ],
+  "list_see_also": [
+    "restricted",
+    "restriction",
+    "restrictive"
+  ],
+  "list_browse": [
+    "restorer",
+    "restrain",
+    "restrained",
+    "restraint",
+    "restrict",
+    "restricted",
+    "restriction",
+    "restrictive",
+    "result"
+  ]
+}

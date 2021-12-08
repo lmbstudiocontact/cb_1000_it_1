@@ -1,0 +1,36 @@
+{
+  "english": "recording",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "bản ghi âm",
+          "definition": "something recorded on tape, a record etc",
+          "world_new": [
+            "tape",
+            "record"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "This is a recording of Beethoven’s Fifth Symphony."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "record label",
+    "record player",
+    "record-breaking",
+    "recorder",
+    "recording",
+    "recount",
+    "recoup",
+    "recover",
+    "recovery"
+  ]
+}

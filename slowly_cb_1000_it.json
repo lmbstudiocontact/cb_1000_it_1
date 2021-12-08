@@ -1,0 +1,48 @@
+{
+  "english": "slowly",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "adverb",
+      "list_definition": [
+        {
+          "mean_english": "chậm",
+          "world_new": [],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He slowly opened his eyes"
+            },
+            {
+              "ex_of_definition": "He drove home slowly.",
+              "world_new": [
+                "home"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Should a given molecule be registered more quickly or more slowly?",
+    "Economic recovery began in 1994, but the level of unemployment is decreasing slowly.",
+    "The key here is to choose p decaying sufficiently slowly at infinity.",
+    "Employers appear to have been slowly adjusting their remuneration polices to reflect changes in labour demand.",
+    "Mechanics was only slowly created by the struggle of human ratio with the empirical material.",
+    "The repertoire of collective action has changed slowly over time, usually in response to changes associated with capitalism and the power of the state.",
+    "In addition, the isotropic component is reduced more slowly as the charge of the ion increases implying low kinetic energy impar ted.",
+    "The unemployment rate was at its highest point in 1994 and it diminished very slowly after that."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "slouch",
+    "slow",
+    "slow down/up",
+    "slow motion",
+    "slowly",
+    "slowness",
+    "sludge",
+    "slug",
+    "sluggish"
+  ]
+}

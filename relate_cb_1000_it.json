@@ -1,0 +1,88 @@
+{
+  "english": "relate",
+  "phat_am": "rəˈleit",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "thuật lại",
+          "definition": "to tell (a story etc)",
+          "world_new": [
+            "tell",
+            "story"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He related all that had happened to him.",
+              "world_new": [
+                "related"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "liên hệ",
+          "definition": "(with to) to be about, concerned or connected with",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Have you any information relating to the effect of penicillin on mice?",
+              "world_new": [
+                "information",
+                "effect",
+                "penicillin"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "quan hệ",
+          "definition": "(with to) to behave towards",
+          "world_new": [
+            "behave"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He finds it difficult to relate normally to his mother.",
+              "world_new": [
+                "difficult",
+                "normally",
+                "mother"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Nurses and patients saw a difference between nurse practitioners and doctors which was mainly related to consultation style, accessibility and length of consultation.",
+    "However, the absolute distance should be considered with caution, since they are strongly related to the distance between sinks.",
+    "Such predisposition has been shown here to be dependent to a certain extent on environmental conditions ; to that extent, it is not related to susceptibility.",
+    "The second major theme of the book relates to asset allocation rather than security selection.",
+    "Effects such as those related to relief may be more evident on longer-term follow-up.",
+    "Religion is not about factual beliefs related to quasi-empirical states of affairs.",
+    "Also, in contrast to the first improper mode, they are not related to the solution of the initial value problem at all.",
+    "Caregiving and relating with the patient information were most wanted when starting treatment and leaving the hospital for home."
+  ],
+  "list_see_also": [
+    "related",
+    "relation",
+    "relationship",
+    "relative",
+    "relatively",
+    "relative clause",
+    "relative pronoun"
+  ],
+  "list_browse": [
+    "rejoinder",
+    "rejuvenate",
+    "rejuvenation",
+    "relapse",
+    "relate",
+    "related",
+    "relation",
+    "relationship",
+    "relative"
+  ]
+}

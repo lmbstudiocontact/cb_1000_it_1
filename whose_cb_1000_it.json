@@ -1,0 +1,81 @@
+{
+  "english": "whose",
+  "phat_am": "huːz",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "của ai",
+          "definition": "belonging to which person(?)",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Whose is this jacket?",
+              "world_new": [
+                "jacket"
+              ]
+            },
+            {
+              "ex_of_definition": "Whose (jacket) is this?"
+            },
+            {
+              "ex_of_definition": "Whose car did you come back in?",
+              "world_new": [
+                "car"
+              ]
+            },
+            {
+              "ex_of_definition": "In whose house did this incident happen?",
+              "world_new": [
+                "house",
+                "incident",
+                "happen"
+              ]
+            },
+            {
+              "ex_of_definition": "Tell me whose (pens) these are."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "relative adjective",
+      "list_definition": [
+        {
+          "mean_english": "của ai",
+          "definition": "of whom or which (the)",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Show me the boy whose father is a policeman",
+              "world_new": [
+                "boy",
+                "father",
+                "policeman"
+              ]
+            },
+            {
+              "ex_of_definition": "What is the name of the man whose this book is?",
+              "world_new": [
+                "name",
+                "book"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "whoop",
+    "whooping-cough",
+    "whopping",
+    "whore",
+    "whose",
+    "why",
+    "wick",
+    "wicked",
+    "wickedly"
+  ]
+}

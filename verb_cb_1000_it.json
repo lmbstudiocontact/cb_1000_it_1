@@ -1,0 +1,55 @@
+{
+  "english": "verb",
+  "phat_am": "vəːb",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "động từ",
+          "definition": "the word or phrase that gives the action, or asserts something, in a sentence, clause etc",
+          "world_new": [
+            "action",
+            "sentence",
+            "clause"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "an irregular verb.",
+              "world_new": [
+                "irregular"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Another useful verb, need, turns out to be both ordinary and modal.",
+    "The verb-and-particle ttwui-e \"run\" is revised and replaced with the verb-and-particle tul-e \"enter\".",
+    "This suggests that production data may substantially underestimate early verb learning.",
+    "By contrast, ordinary adjectives without passive morphology were unlikely to be reanalyzed as verbs or to give rise to a verbal interpretation.",
+    "A telling example-of importance for the study reported below-involves (thematic) verb raising.",
+    "The drop in recall for verbs and, even more, for adjectives is mostly due to the lack of structural information.",
+    "In these instances, then, the entailments of sentences with spatial to phrases are determined by the meaning of their verbs.",
+    "Or, adopting a distributed point of view, conceptual representations of verbs may share fewer meaning elements in a bilingual's memory than those of nouns."
+  ],
+  "list_see_also": [
+    "verbal",
+    "verbally",
+    "verbatim",
+    "verbose"
+  ],
+  "list_browse": [
+    "ventriloquist",
+    "venture",
+    "Venus",
+    "veranda",
+    "verb",
+    "verbal",
+    "verbally",
+    "verbatim",
+    "verbose"
+  ]
+}

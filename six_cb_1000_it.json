@@ -1,0 +1,61 @@
+{
+  "english": "six",
+  "phat_am": "siks",
+  "list_english": [
+    {
+      "type_word": "number",
+      "list_definition": [
+        {
+          "mean_english": "số sáu",
+          "definition": "the number or figure 6.",
+          "world_new": [
+            "number",
+            "figure"
+          ]
+        },
+        {
+          "mean_english": "sáu tuổi",
+          "definition": "the age of 6.",
+          "world_new": [
+            "age"
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "prefix",
+      "list_definition": [
+        {
+          "mean_english": "thuộc số sáu",
+          "definition": "having six (of something)",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a six-cylinder engine.",
+              "world_new": [
+                "engine"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "six-",
+    "sixth",
+    "sixpence",
+    "six-year-old",
+    "at sixes and sevens"
+  ],
+  "list_browse": [
+    "sitting room",
+    "sitting target",
+    "situated",
+    "situation",
+    "six",
+    "six-year-old",
+    "sixpence",
+    "sixteen",
+    "sixteen-year-old"
+  ]
+}

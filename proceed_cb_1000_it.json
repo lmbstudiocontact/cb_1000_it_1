@@ -1,0 +1,126 @@
+{
+  "english": "proceed",
+  "phat_am": "prəˈsiːd",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "tiếp tục",
+          "definition": "to go on; to continue",
+          "world_new": [
+            "continue"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "They proceeded along the road",
+              "world_new": [
+                "road"
+              ]
+            },
+            {
+              "ex_of_definition": "They proceeded with their work.",
+              "world_new": [
+                "their",
+                "work"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tiến hành",
+          "definition": "to follow a course of action",
+          "world_new": [
+            "follow",
+            "course",
+            "action"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I want to make a cupboard, but I don’t know how to proceed.",
+              "world_new": [
+                "I",
+                "want",
+                "cupboard",
+                "I",
+                "know"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "bắt đầu",
+          "definition": "to begin (to do something)",
+          "world_new": [
+            "begin"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "They proceeded to ask a lot of questions.",
+              "world_new": [
+                "ask"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "bắt nguồn",
+          "definition": "to result",
+          "world_new": [
+            "result"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Fear often proceeds from ignorance.",
+              "world_new": [
+                "proceeds",
+                "ignorance"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "truy tố",
+          "definition": "to take legal action (against)",
+          "world_new": [
+            "legal",
+            "action"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The police decided not to proceed against her.",
+              "world_new": [
+                "police"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Before proceeding to the workings of the machine underlying the grammar, we will present an example for a much simpler grammar.",
+    "Before proceeding to this description, we introduce some notation.",
+    "Thus, we first spoke of mechanical shock wave detection, and only later proceeded to extract characteristic variables such as pressure, density, and temperature.",
+    "Each family then proceeded to construct upon the modest plot its own home out of its own resources and according to its particular needs.",
+    "The participants completed the identification trials for each of the practice words at increasing gates before proceeding to the test proper.",
+    "Before proceeding to the proof of this proposition, let us look at some trace computation examples.",
+    "Sequences produced by successive tokens are displayed in rows proceeding upward, with time running from left to right in each row.",
+    "Before proceeding any further, therefore, let me \"remind\" you of those events."
+  ],
+  "list_see_also": [
+    "proceedings",
+    "proceeds"
+  ],
+  "list_browse": [
+    "problematic",
+    "proboscis",
+    "procedural",
+    "procedure",
+    "proceed",
+    "proceedings",
+    "proceeds",
+    "process",
+    "processed"
+  ]
+}

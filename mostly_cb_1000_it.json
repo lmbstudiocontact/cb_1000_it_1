@@ -1,0 +1,62 @@
+{
+  "english": "mostly",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "adverb",
+      "list_definition": [
+        {
+          "mean_english": "hầu hết",
+          "definition": "to the greatest degree or extent, or for most of the time; mainly",
+          "world_new": [
+            "degree",
+            "extent",
+            "mainly"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The air we breathe is mostly nitrogen and oxygen",
+              "world_new": [
+                "air",
+                "breathe",
+                "nitrogen",
+                "oxygen"
+              ]
+            },
+            {
+              "ex_of_definition": "Mostly I go to the library rather than buy books.",
+              "world_new": [
+                "I",
+                "library",
+                "rather",
+                "buy"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The physiological context of signaling is mostly sidelined until the last two chapters, which are dedicated to signalling in development.",
+    "Again, they were mostly undergraduate students and ranged in age from 18 to 24 years.",
+    "The sands are mostly well drained but low-lying areas accumulate sufficient clay and fines to retain water for periods after rainfall.",
+    "These standards were derived from boys living mostly in lower income families.",
+    "The balanced arrangement in atrioventricular septal defect with common valve is modified sometimes by hypoplasia of one of the ventricles, mostly by the left ventricle.",
+    "At the outset of the eighteenth century it had some 800 inhabitants, and around 1860 approximately 1,300, who lived in sixteen mostly very small villages.",
+    "In conclusion, the species can regenerate without elephants, but may have in the past been dispersed mostly by elephants.",
+    "Activity (i) relies mostly on datamining functions and algorithms that extract implicit knowledge from raw data by performing aggregation and statistical analysis on the database."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "mosquito",
+    "moss",
+    "mossy",
+    "most",
+    "mostly",
+    "MOT",
+    "motel",
+    "moth",
+    "moth-eaten"
+  ]
+}

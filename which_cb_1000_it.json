@@ -1,0 +1,178 @@
+{
+  "english": "which",
+  "phat_am": "witʃ",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "cái nào; người nào",
+          "definition": "used in questions etc when asking someone to point out, state etc one or more persons, things etc from a particular known group",
+          "world_new": [
+            "point",
+            "state",
+            "particular",
+            "group"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Which (colour) do you like best?",
+              "world_new": [
+                "best"
+              ]
+            },
+            {
+              "ex_of_definition": "Which route will you travel by?",
+              "world_new": [
+                "route",
+                "travel"
+              ]
+            },
+            {
+              "ex_of_definition": "At which station should I change trains?",
+              "world_new": [
+                "station",
+                "I",
+                "change"
+              ]
+            },
+            {
+              "ex_of_definition": "Which of the two girls do you like better?",
+              "world_new": [
+                "better"
+              ]
+            },
+            {
+              "ex_of_definition": "Tell me which books you would like"
+            },
+            {
+              "ex_of_definition": "Let me know which train you’ll be arriving on",
+              "world_new": [
+                "know",
+                "train"
+              ]
+            },
+            {
+              "ex_of_definition": "I can’t decide which to choose.",
+              "world_new": [
+                "I",
+                "decide",
+                "choose"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "relative pronoun",
+      "list_definition": [
+        {
+          "mean_english": "dùng để nhắc tới cái gì đã được nhắc tới trước đó",
+          "definition": "(used to refer to a thing or things mentioned previously to distinguish it or them from others; able to be replaced by that except after a preposition; able to be omitted except after a preposition or when the subject of a clause) (the) one(s) that",
+          "world_new": [
+            "refer",
+            "previously",
+            "distinguish",
+            "preposition",
+            "subject"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "This is the book which/that was on the table",
+              "world_new": [
+                "book",
+                "table"
+              ]
+            },
+            {
+              "ex_of_definition": "This is the book (which/that) you wanted",
+              "world_new": [
+                "book",
+                "wanted"
+              ]
+            },
+            {
+              "ex_of_definition": "A scalpel is a type of knife which/that is used by surgeons",
+              "world_new": [
+                "scalpel",
+                "type",
+                "knife"
+              ]
+            },
+            {
+              "ex_of_definition": "The chair (which/that) you are sitting on is broken",
+              "world_new": [
+                "chair",
+                "sitting",
+                "broken"
+              ]
+            },
+            {
+              "ex_of_definition": "The documents for which they were searching have been recovered.",
+              "world_new": [
+                "searching"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "relative adjective",
+      "list_definition": [
+        {
+          "mean_english": "người hoặc vật nào trong số lượng hạn chế",
+          "definition": "used, after a comma, to introduce a further comment on something",
+          "world_new": [
+            "comma",
+            "introduce",
+            "further",
+            "comment"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "My new car, which I paid several thousand pounds for, is not running well",
+              "world_new": [
+                "car",
+                "I",
+                "running"
+              ]
+            },
+            {
+              "ex_of_definition": "He said he could speak Russian, which was untrue",
+              "world_new": [
+                "speak",
+                "untrue"
+              ]
+            },
+            {
+              "ex_of_definition": "My father may have to go into hospital, in which case he won’t be going on holiday.",
+              "world_new": [
+                "father",
+                "hospital",
+                "case",
+                "holiday"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "whichever",
+    "which is which(?)"
+  ],
+  "list_browse": [
+    "whether",
+    "whether … or",
+    "whetstone",
+    "whey",
+    "which",
+    "which is which(?)",
+    "whichever",
+    "whiff",
+    "while"
+  ]
+}

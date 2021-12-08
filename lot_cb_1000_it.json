@@ -1,0 +1,89 @@
+{
+  "english": "lot",
+  "phat_am": "lot",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "vận mệnh",
+          "definition": "a person’s fortune or fate",
+          "world_new": [
+            "fortune",
+            "fate"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "It seemed to be her lot to be always unlucky.",
+              "world_new": [
+                "unlucky"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "mớ; đống",
+          "definition": "a separate part",
+          "world_new": [
+            "separate",
+            "part"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She gave one lot of clothes to a jumble sale and threw another lot away.",
+              "world_new": [
+                "clothes",
+                "jumble",
+                "sale"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "mặt hàng",
+          "definition": "one article or several, sold as a single item at an auction",
+          "world_new": [
+            "article",
+            "single",
+            "item",
+            "auction"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Are you going to bid for lot 28?",
+              "world_new": [
+                "bid"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Nor are we a lot closer to understanding the long term effects of feedback on writing development.",
+    "The cells are able to self-renew and differentiate in culture and this suggests they have a lot of possibilities for regenerative medical applications.",
+    "This means a whole lot of things could change by the time we get to the national conference.",
+    "It was a lot easier to manage international financial crisis in the eighties than in the nineties precisely for that reason.",
+    "This methodological approach can be useful for lots of purposes, but it has impeded understanding of my own views.",
+    "The identification of friction is very important since it has a lot of variation in different environments.",
+    "Experience tells us that there is a lot of truth in this opinion, and recent research supports it.",
+    "Indeed, in most cases, major crops were divided in half, but with a lot of exceptions."
+  ],
+  "list_see_also": [
+    "lots",
+    "a lot",
+    "draw/cast lots"
+  ],
+  "list_browse": [
+    "lost",
+    "lost in",
+    "lost on",
+    "lost property",
+    "lot",
+    "lotion",
+    "lots",
+    "lottery",
+    "lotus"
+  ]
+}

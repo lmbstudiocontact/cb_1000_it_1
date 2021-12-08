@@ -1,0 +1,53 @@
+{
+  "english": "radiator",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "lò sưởi",
+          "definition": "a type of apparatus for heating a room.",
+          "world_new": [
+            "type",
+            "apparatus",
+            "heating",
+            "room"
+          ]
+        },
+        {
+          "mean_english": "bộ tản nhiệt",
+          "definition": "an apparatus in a car which, with a fan, cools the engine.",
+          "world_new": [
+            "apparatus",
+            "car",
+            "fan",
+            "engine"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Before we describe the experiments with spectral data in detail, we mention the model of a blackbody radiator.",
+    "In the first model it was assumed that the cooling power of the radiator is fixed.",
+    "To expand the hohlraum design choices, we have presented two new designs: a hybrid target and a large-angle, distributed radiator target.",
+    "The rover body sidewalls must provide sufficient area for thermal radiators.",
+    "Thermal radiators are 1 mm thick aluminium sheets with heat pipes mounted onto their internal faces.",
+    "We have also designed two new hohlraums: a \"hybrid\" target and a large-angle, distributed radiator target.",
+    "Design of a distributed radiator target for inertial fusion driven from two sides with heavy ion beams.",
+    "For the first time, an entire pathway from beginning to end is outlined for fabrication of a high-gain, distributed radiator target."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "radiant",
+    "radiantly",
+    "radiate",
+    "radiation",
+    "radiator",
+    "radical",
+    "radically",
+    "radicle",
+    "radio"
+  ]
+}

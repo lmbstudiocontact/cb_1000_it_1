@@ -1,0 +1,133 @@
+{
+  "english": "win",
+  "phat_am": "win",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "thắng",
+          "definition": "to obtain (a victory) in a contest; to succeed in coming first in (a contest), usually by one’s own efforts",
+          "world_new": [
+            "obtain",
+            "succeed"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He won a convincing victory in the election",
+              "world_new": [
+                "convincing",
+                "victory",
+                "election"
+              ]
+            },
+            {
+              "ex_of_definition": "Who won the war/match?"
+            },
+            {
+              "ex_of_definition": "He won the bet",
+              "world_new": [
+                "bet"
+              ]
+            },
+            {
+              "ex_of_definition": "He won (the race) in a fast time / by a clear five metres.",
+              "world_new": [
+                "fast",
+                "time",
+                "clear"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đạt được",
+          "definition": "to obtain (a prize) in a competition etc, usually by luck",
+          "world_new": [
+            "obtain",
+            "competition",
+            "luck"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "to win first prize",
+              "world_new": [
+                "prize"
+              ]
+            },
+            {
+              "ex_of_definition": "I won $5 in the crossword competition.",
+              "world_new": [
+                "I",
+                "competition"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "có được",
+          "definition": "to obtain by one’s own efforts",
+          "world_new": [
+            "obtain"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He won her respect over a number of years.",
+              "world_new": [
+                "respect",
+                "number"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự chiến thắng",
+          "definition": "a victory or success",
+          "world_new": [
+            "victory",
+            "success"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She’s had two wins in four races."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The evidence suggests, therefore, that won has no subject-number feature at all, rather than that it is ambiguous between singular and plural.",
+    "In the end, it was the opposition who won the ideological war by more successfully deploying maternal imagery.",
+    "That frustration expressed itself in harsh censure of a metropolis where success apparently had to be won at the price of personal honour.",
+    "On the other hand, we prove that, by using more complex strategies, we may win in higher mine densities.",
+    "If a candidate wins a majority of the total votes cast in the district in the first round, he or she is elected.",
+    "However, from an outsider's vantage point with a winner-take-all perspective, it is difficult to assess who won.",
+    "As always in times of retrenchment, elected officials have needed to win the goodwill of voters and interest groups for these unpopular cutbacks.",
+    "Of course, even if ethicists take such a moderate approach, the proposals bioethicists put forth as a group may not always win easy acceptance."
+  ],
+  "list_see_also": [
+    "winner",
+    "winning",
+    "winning post",
+    "win over",
+    "win the day",
+    "win through"
+  ],
+  "list_browse": [
+    "willpower",
+    "wilt",
+    "wily",
+    "wimp",
+    "win",
+    "win over",
+    "win the day",
+    "win through",
+    "win-win"
+  ]
+}

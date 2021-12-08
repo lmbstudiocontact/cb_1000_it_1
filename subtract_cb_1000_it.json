@@ -1,0 +1,61 @@
+{
+  "english": "subtract",
+  "phat_am": "səbˈtrӕkt",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "trừ",
+          "definition": "to take one number or quantity from another",
+          "world_new": [
+            "number",
+            "quantity"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "If you subtract 5 from 8, 3 is left",
+              "world_new": [
+                "left"
+              ]
+            },
+            {
+              "ex_of_definition": "In their first year at school, most children learn to add and subtract.",
+              "world_new": [
+                "their",
+                "year",
+                "school",
+                "learn",
+                "add"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Probabilities for will may be derived by subtracting the factor weights for going to from 1. 12.",
+    "Prior to computing quantiles the simulation was standardized by subtracting the median and dividing by the interquartile range and similarly for the data.",
+    "This requires adding voices rather than subtracting them.",
+    "Two transverse derivatives were measured by subtracting the signals of two parallel wires which were set 0-2mm apart.",
+    "Images acquired while the animal viewed the blank screen were subtracted from those obtained during presentation of the checkerboard pattern.",
+    "From this ranking, those processes ranked as the \"worst\" contributors are subtracted from the design to produce a series of new, modified designs.",
+    "These are found by subtracting the par t from the stock to obtain the delta volume.",
+    "For each component, its outer histogram is subtracted from the corresponding inner histogram, with negative values forced to zero."
+  ],
+  "list_see_also": [
+    "subtraction"
+  ],
+  "list_browse": [
+    "subtitle",
+    "subtle",
+    "subtlety",
+    "subtly",
+    "subtract",
+    "subtraction",
+    "subtropical",
+    "suburb",
+    "suburban"
+  ]
+}

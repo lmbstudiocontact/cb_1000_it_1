@@ -1,0 +1,139 @@
+{
+  "english": "south",
+  "phat_am": "sauθ",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "miền nam",
+          "definition": "the direction to the right of a person facing the rising sun, or any part of the earth lying in that direction",
+          "world_new": [
+            "direction",
+            "right",
+            "person",
+            "facing",
+            "rising",
+            "sun",
+            "part",
+            "earth",
+            "direction"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He stood facing towards the south",
+              "world_new": [
+                "facing"
+              ]
+            },
+            {
+              "ex_of_definition": "She lives in the south of France."
+            }
+          ]
+        },
+        {
+          "mean_english": "phương nam",
+          "definition": "one of the four main points of the compass",
+          "world_new": [
+            "main",
+            "points",
+            "compass"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The compass needle is pointing to the south.",
+              "world_new": [
+                "compass",
+                "needle"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "ở, về phía nam",
+          "definition": "in the south",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She works on the south coast.",
+              "world_new": [
+                "works",
+                "coast"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "từ phương nam đến",
+          "definition": "from the direction of the south",
+          "world_new": [
+            "direction"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a south wind.",
+              "world_new": [
+                "wind"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "adverb",
+      "list_definition": [
+        {
+          "mean_english": "về, hướng về phía nam",
+          "definition": "towards the south",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "This window faces south.",
+              "world_new": [
+                "window"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "With no support in the south and east, his presidential bid was all but doomed even before it was launched.",
+    "The structure was anchored in the south-east and south-west corners to start construction.",
+    "Areas to the west and south would be defined as low or minimum risk.",
+    "When an apparent regional dry period peaking around a. d. 900 coupled with the effects of local deforestation, the south's equilibrium was upset.",
+    "Two dummy variables were entered to indicate in which region the respondents lived, with the south as the reference group.",
+    "Seven of the effigies were placed to the south with at least four spiked lidded censers.",
+    "These results represent strong evidence of increased seed mass in the vegetation of north-facing grasslands, when compared to their south-facing counterparts.",
+    "Beginning at the origin of this plot, an exclosure was constructed 40 m to the south, and at subsequent 40-m intervals eastward."
+  ],
+  "list_see_also": [
+    "southerly",
+    "southern",
+    "southerner",
+    "southernmost",
+    "southward",
+    "southward(s)",
+    "southbound",
+    "south-east / south-west",
+    "south-easterly / south-westerly",
+    "south-eastern / south-western",
+    ""
+  ],
+  "list_browse": [
+    "sour grapes",
+    "source",
+    "sourly",
+    "sourness",
+    "south",
+    "south-east / south-west",
+    "south-easterly / south-westerly",
+    "south-eastern / south-western",
+    "southbound"
+  ]
+}

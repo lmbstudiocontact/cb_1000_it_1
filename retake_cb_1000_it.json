@@ -1,0 +1,74 @@
+{
+  "english": "retake",
+  "phat_am": "riːˈteik",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "chiếm lại",
+          "definition": "to capture again",
+          "world_new": [
+            "capture"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The soldiers retook the fort.",
+              "world_new": [
+                "fort"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "chiếu lại",
+          "definition": "to film (part of a film etc) again.",
+          "world_new": [
+            "film",
+            "film"
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "",
+      "list_definition": [
+        {
+          "mean_english": "cảnh quay lại",
+          "definition": "the filming of part of a film again",
+          "world_new": [
+            "part",
+            "film"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the fourth retake."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "His army won significant victories and retook the capital.",
+    "Only three of his prizes were retaken, and he brought into port 543 prisoners and 120 cannon.",
+    "The budget and schedules of serials mandated retakes only in the most dire circumstances.",
+    "Retakes allowed obvious errors to be corrected in these productions.",
+    "Two tenants on the estate were imprisoned for contempt of court for retaking forcible possession of their holdings after they had been evicted for non-payment of rent.",
+    "The government dispatched a force of 1000 armed officers to maintain order, but it was unsuccessful in retaking control of the village.",
+    "Their lines held, and much of the lost ground was retaken.",
+    "The episodes were then recorded as live, a very common practice at the time, with very limited opportunities for retakes."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "resuscitation",
+    "retail",
+    "retailer",
+    "retain",
+    "retake",
+    "retaliate",
+    "retaliation",
+    "retard",
+    "retardation"
+  ]
+}

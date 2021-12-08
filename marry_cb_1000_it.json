@@ -1,0 +1,88 @@
+{
+  "english": "marry",
+  "phat_am": "ˈmӕri",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "cưới",
+          "definition": "to take (a person) as one’s husband or wife",
+          "world_new": [
+            "husband",
+            "wife"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "John married my sister",
+              "world_new": [
+                "married",
+                "my",
+                "sister"
+              ]
+            },
+            {
+              "ex_of_definition": "They married in church.",
+              "world_new": [
+                "married",
+                "church"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "làm phép cưới",
+          "definition": "(of a clergyman etc) to perform the ceremony of marriage between (two people)",
+          "world_new": [
+            "clergyman",
+            "perform",
+            "ceremony",
+            "marriage"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The priest married them.",
+              "world_new": [
+                "priest",
+                "married"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "cưới cho",
+          "definition": "to give (a son or daughter) as a husband or wife",
+          "world_new": [
+            "son",
+            "husband",
+            "wife"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He married his son to a rich woman.",
+              "world_new": [
+                "married",
+                "son",
+                "rich"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "married"
+  ],
+  "list_browse": [
+    "marriage licence",
+    "marriageable",
+    "married",
+    "marrow",
+    "marry",
+    "Mars",
+    "marsh",
+    "marshal",
+    "marshiness"
+  ]
+}

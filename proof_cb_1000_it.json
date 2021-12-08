@@ -1,0 +1,103 @@
+{
+  "english": "proof",
+  "phat_am": "pruːf",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "chứng cớ",
+          "definition": "(a piece of) evidence, information etc that shows definitely that something is true",
+          "world_new": [
+            "piece",
+            "evidence",
+            "information",
+            "definitely",
+            "true"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We still have no proof that he is innocent.",
+              "world_new": [
+                "innocent"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "bản in thử",
+          "definition": "a first copy of a printed sheet, that can be corrected before the final printing",
+          "world_new": [
+            "copy",
+            "sheet",
+            "final",
+            "printing"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She was correcting the proofs of her novel.",
+              "world_new": [
+                "novel"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "bức ảnh rửa thử",
+          "definition": "in photography, the first print from a negative.",
+          "world_new": [
+            "photography",
+            "print",
+            "negative"
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "suffix",
+      "list_definition": [
+        {
+          "mean_english": "chống; ngăn",
+          "definition": "able to withstand or avoid something",
+          "world_new": [
+            "withstand",
+            "avoid"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "waterproof covering.",
+              "world_new": [
+                "waterproof",
+                "covering"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Before we plunge into the proof of (4.37), we give a quick overview of our strategy.",
+    "This latter approach is favoured in semantical investigations as it renders no proof-theoretical problems when forming term models.",
+    "We leave the straightforward proof of this to the reader.",
+    "T his theorem allows us to obtain proof trees and test for completeness.",
+    "The proof of this embedding result is straightforward and will thus be left as an exercise.",
+    "We then extend the proof to plans of all classes.",
+    "The proof for the case of a continuously stratified fluid between rigid boundaries is straightforward.",
+    "As there many cases and subcases, we sketch the general proof and then present in detail two of them."
+  ],
+  "list_see_also": [
+    "-proof"
+  ],
+  "list_browse": [
+    "pronounceable",
+    "pronounced",
+    "pronouncement",
+    "pronunciation",
+    "proof",
+    "proofread",
+    "proofreader",
+    "prop",
+    "prop up"
+  ]
+}

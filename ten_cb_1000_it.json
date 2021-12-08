@@ -1,0 +1,60 @@
+{
+  "english": "ten",
+  "phat_am": "ten",
+  "list_english": [
+    {
+      "type_word": "number",
+      "list_definition": [
+        {
+          "mean_english": "số 10",
+          "definition": "the number or figure 10.",
+          "world_new": [
+            "number",
+            "figure"
+          ]
+        },
+        {
+          "mean_english": "10 tuổi",
+          "definition": "the age of 10.",
+          "world_new": [
+            "age"
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "prefix",
+      "list_definition": [
+        {
+          "mean_english": "thuộc về 10",
+          "definition": "having ten (of something)",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a ten-pound fine.",
+              "world_new": [
+                "fine"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "ten-",
+    "tenth",
+    "ten-pin bowling",
+    "ten-year-old"
+  ],
+  "list_browse": [
+    "temptation",
+    "tempter",
+    "tempting",
+    "temptingly",
+    "ten",
+    "ten-pin bowling",
+    "ten-year-old",
+    "tenacious",
+    "tenaciously"
+  ]
+}

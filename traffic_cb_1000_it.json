@@ -1,0 +1,85 @@
+{
+  "english": "traffic",
+  "phat_am": "ˈtrӕfik",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "phương tiện",
+          "definition": "vehicles, aircraft, ships etc moving about",
+          "world_new": [
+            "aircraft",
+            "moving"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "There’s a lot of traffic on the roads / on the river.",
+              "world_new": [
+                "river"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "họat động buôn lậu",
+          "definition": "trade, especially illegal or dishonest",
+          "world_new": [
+            "trade",
+            "illegal",
+            "dishonest"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the traffic in illegal drugs.",
+              "world_new": [
+                "illegal"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "buôn lậu",
+          "definition": "to deal or trade in, especially illegally or dishonestly",
+          "world_new": [
+            "deal",
+            "trade",
+            "illegally",
+            "dishonestly"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "They were trafficking in smuggled goods.",
+              "world_new": [
+                "goods"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "trafficker",
+    "traffic circle",
+    "traffic island",
+    "traffic jam",
+    "traffic lights"
+  ],
+  "list_browse": [
+    "tradesman",
+    "tradition",
+    "traditional",
+    "traditionally",
+    "traffic",
+    "traffic circle",
+    "traffic island",
+    "traffic jam",
+    "traffic lights"
+  ]
+}

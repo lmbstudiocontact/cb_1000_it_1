@@ -1,0 +1,220 @@
+{
+  "english": "pull",
+  "phat_am": "pul",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "kéo",
+          "definition": "to (try to) move something especially towards oneself usually by using force",
+          "world_new": [
+            "move",
+            "force"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He pulled the chair towards the fire",
+              "world_new": [
+                "chair",
+                "fire"
+              ]
+            },
+            {
+              "ex_of_definition": "She pulled at the door, but couldn’t open it",
+              "world_new": [
+                "door",
+                "open"
+              ]
+            },
+            {
+              "ex_of_definition": "He kept pulling the girls’ hair for fun",
+              "world_new": [
+                "hair",
+                "fun"
+              ]
+            },
+            {
+              "ex_of_definition": "Help me to pull my boots off",
+              "world_new": [
+                "my"
+              ]
+            },
+            {
+              "ex_of_definition": "This railway engine can pull twelve carriages.",
+              "world_new": [
+                "railway",
+                "engine"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "kéo một hơi",
+          "definition": "(with ator on) in eg smoking, to suck at",
+          "world_new": [
+            "smoking",
+            "suck"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He pulled at his cigarette.",
+              "world_new": [
+                "cigarette"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "chèo thuyền",
+          "definition": "to row",
+          "world_new": [
+            "row"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He pulled towards the shore.",
+              "world_new": [
+                "shore"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đi theo hướng",
+          "definition": "(of a driver or vehicle) to steer or move in a certain direction",
+          "world_new": [
+            "driver",
+            "steer",
+            "move",
+            "certain",
+            "direction"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The car pulled in at the garage",
+              "world_new": [
+                "car",
+                "garage"
+              ]
+            },
+            {
+              "ex_of_definition": "I pulled into the side of the road",
+              "world_new": [
+                "I",
+                "side",
+                "road"
+              ]
+            },
+            {
+              "ex_of_definition": "The train pulled out of the station",
+              "world_new": [
+                "train",
+                "station"
+              ]
+            },
+            {
+              "ex_of_definition": "The motorbike pulled out to overtake",
+              "world_new": [
+                "motorbike",
+                "overtake"
+              ]
+            },
+            {
+              "ex_of_definition": "He pulled off the road.",
+              "world_new": [
+                "road"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự kéo",
+          "definition": "an act of pulling",
+          "world_new": [
+            "act"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I felt a pull at my sleeve",
+              "world_new": [
+                "I",
+                "felt",
+                "my",
+                "sleeve"
+              ]
+            },
+            {
+              "ex_of_definition": "He took a pull at his beer/pipe."
+            }
+          ]
+        },
+        {
+          "mean_english": "lực hút",
+          "definition": "a pulling or attracting force",
+          "world_new": [
+            "force"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "magnetic pull",
+              "world_new": [
+                "magnetic"
+              ]
+            },
+            {
+              "ex_of_definition": "the pull (=attraction) of the sea.",
+              "world_new": [
+                "sea"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sự ảnh hưởng",
+          "definition": "influence",
+          "world_new": [
+            "influence"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He thinks he has some pull with the headmaster.",
+              "world_new": [
+                "headmaster"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "pull apart",
+    "pull down",
+    "pull a face / faces (at)",
+    "pull a gun etc on",
+    "pull off",
+    "pull on",
+    "pull oneself together",
+    "pull through",
+    "pull up",
+    "pull one’s weight",
+    ""
+  ],
+  "list_browse": [
+    "puff up",
+    "puffed",
+    "puffy",
+    "pug",
+    "pull",
+    "pull a face / faces (at)",
+    "pull a gun etc on",
+    "pull apart",
+    "pull down"
+  ]
+}

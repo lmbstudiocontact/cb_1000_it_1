@@ -1,0 +1,65 @@
+{
+  "english": "quotient",
+  "phat_am": "ˈkwouʃənt",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "thương",
+          "definition": "the number that is the result of dividing one number by another",
+          "world_new": [
+            "number",
+            "result",
+            "number"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The quotient of 15 divided by 3 is 5."
+            }
+          ]
+        },
+        {
+          "mean_english": "thương số",
+          "definition": "the amount of a particular quality in someone or something",
+          "world_new": [
+            "amount",
+            "particular",
+            "quality"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The Anxiety Test analyzes your anxiety quotient.",
+              "world_new": [
+                "your",
+                "anxiety"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Statistical information about children's intelligence quotients is not available for the reason that, taken alone, they are not a reliable guide to their educational needs.",
+    "One cannot have intelligence quotients taken before court proceedings although normally they would be taken in the course of inquiries afterwards.",
+    "Interpreting subgroup and quotients in light of these homomorphisms emphasizes the structural concept inherent to these definitions alluded to in the introduction.",
+    "Beyond this trilogy ofjournals the academic quality and usefulness quotient drop off sharply.",
+    "Totals were written in quotients and scaled/unscaled remainder units.",
+    "Encaphalization quotients give us an indication of how much brain power a species has in comparison with other mammals.",
+    "The non-simply connected symmetric spaces arise as quotients by subgroups of.",
+    "Rather, it emerges as a sheaf of functions as a \"consequence\" of the construction (via the quotients of local rings by their maximal ideals)."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "quota",
+    "quotation",
+    "quotation marks",
+    "quote",
+    "quotient",
+    "R",
+    "rabbi",
+    "rabbit",
+    "rabble"
+  ]
+}

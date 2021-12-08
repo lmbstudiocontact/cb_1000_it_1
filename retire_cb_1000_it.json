@@ -1,0 +1,89 @@
+{
+  "english": "retire",
+  "phat_am": "riˈtaiə",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "nghỉ hưu",
+          "definition": "stop working permanently, usually because of age",
+          "world_new": [
+            "stop",
+            "permanently",
+            "age"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He retired at the age of sixty-five.",
+              "world_new": [
+                "retired",
+                "age"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "rút lui",
+          "definition": "to leave; to withdraw",
+          "world_new": [
+            "withdraw"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "When he doesn’t want to talk to anyone, he retires to his room and locks the door",
+              "world_new": [
+                "want",
+                "talk",
+                "room",
+                "door"
+              ]
+            },
+            {
+              "ex_of_definition": "We retired to bed at midnight",
+              "world_new": [
+                "retired",
+                "bed",
+                "midnight"
+              ]
+            },
+            {
+              "ex_of_definition": "The troops were forced to retire to a safer position.",
+              "world_new": [
+                "troops",
+                "forced",
+                "position"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Much of the research on retirement has focused on loss of identity and self-esteem by the retiring individual.",
+    "Both voluntary early retirement and retiring on health grounds had a significant effect on attitudes to retirement (positively and negatively respectively).",
+    "They allowed retired and elderly couples or single people to vacate cottages needed for working families, without obliging them to leave the village altogether.",
+    "Both the quality and quantity of social resources are variable, and retired migrants show considerable skill in managing their individual situation.",
+    "Among our respondents and their partners, 98 were retired, and, of the rest, 130 were under the age of 50.",
+    "Men retired at that age at twice the rate of women in 1988, but at a ratio of three to two in 1983 and 1993.",
+    "Obviously, the negative impact of the reform for individuals already retired or near retirement is substantially smaller.",
+    "Being retired is clearly associated with a higher probability of being in a low income group."
+  ],
+  "list_see_also": [
+    "retired",
+    "retirement",
+    "retiring"
+  ],
+  "list_browse": [
+    "reticence",
+    "reticent",
+    "retina",
+    "retinue",
+    "retire",
+    "retired",
+    "retirement",
+    "retiring",
+    "retort"
+  ]
+}

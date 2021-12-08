@@ -1,0 +1,68 @@
+{
+  "english": "sheet",
+  "phat_am": "ʃiːt",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "khăn trải gường",
+          "definition": "a broad piece of cloth eg for a bed",
+          "world_new": [
+            "broad",
+            "piece",
+            "cloth",
+            "bed"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She put clean sheets on all the beds.",
+              "world_new": [
+                "clean"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "lá, tấm",
+          "definition": "a large, thin, usually flat, piece",
+          "world_new": [
+            "large",
+            "thin",
+            "flat",
+            "piece"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a sheet of paper/glass."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The maps are in individual sheets and are useful for stratigraphic information but, unfortunately, are devoid of faults.",
+    "At these sheets magnetic energy is transformed into heat and kinetic energy by means of reconnection.",
+    "Ripple migration structures and cross-bedding are common in the sandstone sheets, as is flat-bedding with lineation.",
+    "Often they use physical props from around the house or yard, such as old lesson books or pretend chalkboards made from sheets of galvanized metal.",
+    "The observed flow was described as a series of intermittent plunging sheets and columns.",
+    "A coding manual was prepared for the questions and the responses of the questionnaires were transferred into coding sheets.",
+    "The fibrillar appearance of this layer may reflect the helicoidal arrangement of sheets of chitin microfibrils.",
+    "The average number of completed logs per pharmacy was two (a range of 1-5 log sheets)."
+  ],
+  "list_see_also": [
+    "sheet-lightning"
+  ],
+  "list_browse": [
+    "sheepdog",
+    "sheepish",
+    "sheepishly",
+    "sheer",
+    "sheet",
+    "sheet-lightning",
+    "sheik",
+    "sheikdom",
+    "shelf"
+  ]
+}

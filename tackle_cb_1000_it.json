@@ -1,0 +1,160 @@
+{
+  "english": "tackle",
+  "phat_am": "ˈtӕkl",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự chặn; sự cản",
+          "definition": "an act of tackling",
+          "world_new": [
+            "act"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a rugby tackle.",
+              "world_new": [
+                "rugby"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "dụng cụ",
+          "definition": "equipment, especially for fishing",
+          "world_new": [
+            "equipment",
+            "fishing"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "fishing tackle.",
+              "world_new": [
+                "fishing"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "dây dợ; hệ pulli để nâng vật nặng",
+          "definition": "ropes, pulleys etc for lifting heavy weights",
+          "world_new": [
+            "heavy"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "lifting tackle."
+            }
+          ]
+        },
+        {
+          "mean_english": "dây buồm",
+          "definition": "in sailing, the ropes, rigging etc of a boat",
+          "world_new": [
+            "sailing",
+            "rigging",
+            "boat"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "sailing tackle.",
+              "world_new": [
+                "sailing"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "bắt giữ",
+          "definition": "to try to grasp or seize (someone)",
+          "world_new": [
+            "try",
+            "grasp",
+            "seize"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The policeman tackled the thief.",
+              "world_new": [
+                "policeman",
+                "thief"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "giải quyết",
+          "definition": "to deal with or try to solve (a problem); to ask (someone) about a problem",
+          "world_new": [
+            "deal",
+            "try",
+            "solve",
+            "ask",
+            "problem"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He tackled the problem",
+              "world_new": [
+                "problem"
+              ]
+            },
+            {
+              "ex_of_definition": "She tackled the teacher about her child’s work.",
+              "world_new": [
+                "teacher",
+                "work"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "cướp bóng",
+          "definition": "in football, hockey etc, to (try to) take the ball etc from (a player in the other team)",
+          "world_new": [
+            "football",
+            "hockey",
+            "ball",
+            "player"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He tackled his opponent.",
+              "world_new": [
+                "opponent"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The present paper tackles this issue using cluster analysis with large independent samples of eating-disorder patients.",
+    "These two problems can be tackled through an information-theoretical approach, as has been done in other corpus-based statistical language modeling studies.",
+    "In fact, research projects large and small, just waiting to be tackled, jump out with startling frequency.",
+    "We will first tackle the problem of adapting single streams to different time scales.",
+    "Reform may have represented an element in his broader strategy for tackling his international critics.",
+    "Finally, we demonstrate the flexibility of the computational tools used to tackle problems at different scales.",
+    "Internally, these values confer to the members the ability to reflect critically on the way they tackle tasks and relate to one another.",
+    "Even their justified criticisms of cladistic methodologies are somewhat imprecise and do not tackle the fundamental problems of this approach."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "tablet",
+    "tabloid",
+    "taboo",
+    "tack",
+    "tackle",
+    "tact",
+    "tactful",
+    "tactfully",
+    "tactfulness"
+  ]
+}

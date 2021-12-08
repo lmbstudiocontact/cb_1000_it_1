@@ -1,0 +1,46 @@
+{
+  "english": "rewrite",
+  "phat_am": "riːˈrait",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "viết lại",
+          "definition": "to write again",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She had to rewrite the entire essay.",
+              "world_new": [
+                "entire",
+                "essay"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Technology transfer from the lab to the products often becomes a significant engineering or rewrite effort for researchers.",
+    "The residuation principle is based on the idea of delaying function calls until they are sufficiently instantiated for a deterministic evaluation by rewriting.",
+    "These dissertations were produced by graduate students who worked for many years in the city and who have collectively rewritten the history of the city.",
+    "In context-free rewrite grammar, profiles are an optimization that make it possible to avoid lookups in the grammar at the postprocessing stage.",
+    "It would be of interest to know whether such groups must have a finite convergent rewriting system.",
+    "All these observations also hold for rewriting modulo associativity and commutativity.",
+    "We spent from 1975 to 1981 writing and rewriting our first book of five jointly authored volumes on philosophy of medicine.",
+    "Then one defines a larger, and still decidable, class of queries that can easily be rewritten in this 'hereditarily finite' form."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "revue",
+    "reward",
+    "rewarding",
+    "reword",
+    "rewrite",
+    "rhapsody",
+    "rhetoric",
+    "rheumatic",
+    "rheumatism"
+  ]
+}

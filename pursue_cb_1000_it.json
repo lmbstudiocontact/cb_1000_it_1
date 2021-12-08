@@ -1,0 +1,71 @@
+{
+  "english": "pursue",
+  "phat_am": "pəˈsjuː",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "đuổi, truy bắt",
+          "definition": "to follow especially in order to catch or capture; to chase",
+          "world_new": [
+            "follow",
+            "order",
+            "catch",
+            "chase"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "They pursued the thief through the town.",
+              "world_new": [
+                "thief",
+                "town"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "theo đuổi",
+          "definition": "to occupy oneself with (studies, enquiries etc); to continue",
+          "world_new": [
+            "occupy",
+            "continue"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He is pursuing his studies at university.",
+              "world_new": [
+                "university"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Data from large-eddy simulations are expected to be an effective aid in pursuing this line of research.",
+    "Most of these artists found it impossible to exhibit their work and had to pursue their ideas clandestinely.",
+    "Instead, they wanted to pursue the equality of outcomes.",
+    "In all the scenarios, the developed country pursues a domestic tax policy as part of its commitment to reduce emissions.",
+    "Identification of individual members of the group can then be pursued by neutralization assays using individual antisera, following a similar method.",
+    "Where floods are common, such effects create a tool that the downstream nation can pursue to increase upstream storage.",
+    "Singularly lacking is a systematic, replicable method of identifying the strategies these parties pursue.",
+    "These losses are expected to generate opposition to the economic reforms and to parties that pursued the reforms."
+  ],
+  "list_see_also": [
+    "pursuer",
+    "pursuit"
+  ],
+  "list_browse": [
+    "purposely",
+    "purr",
+    "purse",
+    "purser",
+    "pursue",
+    "pursuer",
+    "pursuit",
+    "pus",
+    "push"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "english": "subjective",
+  "phat_am": "səbˈdʒektiv",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "chủ quan, thuộc chủ ngữ",
+          "definition": "(of a person’s attitude etc) arising from, or influenced by, his own thoughts and feelings only; not objective or impartial",
+          "world_new": [
+            "attitude",
+            "objective",
+            "impartial"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "You must try not to be too subjective if you are on a jury in a court of law.",
+              "world_new": [
+                "try",
+                "jury",
+                "court",
+                "law"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "We also explored the impact of using subjective glaucoma severitybased health state utilities (10).",
+    "However, symptoms are often subjective and prone to recall bias.",
+    "Rival adopts this framework, refining it by accounting for internal sociocultural processes and adopting a subjective perspective.",
+    "Whereas meaning exists in subjective appreciation or understanding of something, information may be stored, reproduced, analysed and manipulated separately from its subjective meaning.",
+    "Without a sufficiently rich belief system it is difficult for subjective measures to accurately model the user domain.",
+    "This again would have placed an additional dimension to the publication, and made it less subjective.",
+    "Such studies provide no data about the subjective localization of visible and audible events.",
+    "It is an ambitious combination endeavouring to reveal both the objective and subjective contexts of construction in a manner accessible to practitioners, teachers, and students."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "subject",
+    "subject matter",
+    "subject to",
+    "subjection",
+    "subjective",
+    "subjectively",
+    "sublimate",
+    "sublimation",
+    "sublime"
+  ]
+}

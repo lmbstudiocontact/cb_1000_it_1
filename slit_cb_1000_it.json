@@ -1,0 +1,73 @@
+{
+  "english": "slit",
+  "phat_am": "slit",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "rạch, rọc",
+          "definition": "to make a long cut in",
+          "world_new": [
+            "long",
+            "cut"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She slit the envelope open with a knife.",
+              "world_new": [
+                "envelope",
+                "open",
+                "knife"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "đường rạch, khe hở",
+          "definition": "a long cut; a narrow opening",
+          "world_new": [
+            "long",
+            "narrow",
+            "opening"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a slit in the material.",
+              "world_new": [
+                "material"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "A slit 1 mm wide, which defines the energy of ions, was placed in front of each scintillator disc.",
+    "The grating with 10000 lines 0mm was coupled to a 100 mm wide slit.",
+    "A prototype optical slit scanner for phase-space measurements is now being designed.",
+    "Another constraint is that the x-ray beam is slitted down to only tens of micrometers wide.",
+    "In the slit, the fiber tip rests below the laser focal spot where radiations from the target are expected to reach.",
+    "The two-dimensional acoustic forcing was applied through the thin slit near the trailing edge of the splitter plate to organize the spanwise structures.",
+    "The coupons were exposed to a plasma measuring 150r3 mm2 emitted from a slit in the plasma head at a distance of 4 mm.",
+    "The continuum beam bandwidth was 0.1 nm using 100-mm 0100-mm entrance 0 exit slit widths."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "slipper",
+    "slipperiness",
+    "slippery",
+    "slipshod",
+    "slit",
+    "slither",
+    "slog",
+    "slogan",
+    "slop"
+  ]
+}

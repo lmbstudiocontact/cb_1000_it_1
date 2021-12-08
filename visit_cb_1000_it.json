@@ -1,0 +1,107 @@
+{
+  "english": "visit",
+  "phat_am": "ˈvizit",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "đến thăm",
+          "definition": "to go to see (a person or place)",
+          "world_new": [
+            "see",
+            "person"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We visited my parents at the weekend",
+              "world_new": [
+                "my",
+                "weekend"
+              ]
+            },
+            {
+              "ex_of_definition": "They visited the ruins at Pompeii while they were on holiday.",
+              "world_new": [
+                "ruins",
+                "holiday"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "ở chơi",
+          "definition": "to stay in (a place) or with (a person) for a time",
+          "world_new": [
+            "stay",
+            "time"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Many birds visit (Britain) only during the summer months.",
+              "world_new": [
+                "summer"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự viếng thăm, sự ở chơi",
+          "definition": "an act of going to see someone or something for pleasure, socially, professionally etc, or going to stay for a time",
+          "world_new": [
+            "act",
+            "see",
+            "pleasure",
+            "socially",
+            "professionally",
+            "stay",
+            "time"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We went on a visit to my aunt’s",
+              "world_new": [
+                "my"
+              ]
+            },
+            {
+              "ex_of_definition": "the children’s visit to the museum.",
+              "world_new": [
+                "museum"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Table 4 shows the visits of the most important visitor categories during the previous year by duration of stay.",
+    "The respondents were again reassured on confidentiality during home visits.",
+    "To reduce the observer effect, the researcher visited the participants' homes before the observation session and interacted with all the family members.",
+    "The outcome of the visits was, therefore, closely related to the nature of the missed appointment.",
+    "In addition, they have been making personal visits to each other's centres.",
+    "The theory prescribed not only how to organize the travel report, but also what was to be visited and asked for.",
+    "The major focus of the 24- and 36-month visits is on parenting and toddler self-regulation (behavior problems, empathy, compliance, and internalization of parental rules).",
+    "The purpose is to prove a distributional limit theorem for the number of visits to neighbourhoods of these points."
+  ],
+  "list_see_also": [
+    "visitor"
+  ],
+  "list_browse": [
+    "visibility",
+    "visible",
+    "visibly",
+    "vision",
+    "visit",
+    "visitor",
+    "visual",
+    "visual display unit",
+    "visualization"
+  ]
+}

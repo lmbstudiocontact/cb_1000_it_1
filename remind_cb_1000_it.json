@@ -1,0 +1,82 @@
+{
+  "english": "remind",
+  "phat_am": "rəˈmaind",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "nhắc nhở",
+          "definition": "to tell (someone) that there is something he or she ought to do, remember etc",
+          "world_new": [
+            "tell",
+            "remember"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Remind me to post that letter",
+              "world_new": [
+                "letter"
+              ]
+            },
+            {
+              "ex_of_definition": "She reminded me of my promise.",
+              "world_new": [
+                "my",
+                "promise"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "khiến ai nhớ về cái gì đó",
+          "definition": "to make (someone) remember or think of (a person, thing etc)",
+          "world_new": [
+            "remember",
+            "think",
+            "person"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She reminds me of her sister",
+              "world_new": [
+                "sister"
+              ]
+            },
+            {
+              "ex_of_definition": "This reminds me of my schooldays.",
+              "world_new": [
+                "my",
+                "schooldays"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Although exiles used numerous strategies - from demonstrations to publications - to remind the world of their case, their influence remains a matter of discussion.",
+    "The intuitive leaps, plus some delightfully contorted metaphors, remind us too much of this work's genesis in a course of lectures.",
+    "They avoid not only environmental stimuli, such as activities, places, and people, but also conversations and covert thoughts that remind them of the trauma.",
+    "I thoroughly enjoyed reading it, because it reminded me of why the planetary exploration game is worth it.",
+    "Throughout, we are reminded of the uneven survival and pitfalls of sources, although it remains unclear why certain quantitative statements remain possible and others not.",
+    "Above all, perhaps, what we are reminded of is the three-dimensional complexity of human life.",
+    "All stories are artificial constructions, he seeks to remind us, and never convey the facts to the exception of presuppositions, prejudices and blindspots about ourselves.",
+    "The ways in which they sustained individual honour remind us of the connections between kin, neighbours, and old associates that haunted civil war."
+  ],
+  "list_see_also": [
+    "reminder"
+  ],
+  "list_browse": [
+    "remedial",
+    "remedy",
+    "remember",
+    "remembrance",
+    "remind",
+    "reminder",
+    "remission",
+    "remit",
+    "remittance"
+  ]
+}

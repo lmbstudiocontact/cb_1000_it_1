@@ -1,0 +1,142 @@
+{
+  "english": "settle",
+  "phat_am": "ˈsetl",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "đến nghỉ trên cái gì",
+          "definition": "to place in a position of rest or comfort",
+          "world_new": [
+            "place",
+            "position",
+            "rest",
+            "comfort"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I settled myself in the armchair.",
+              "world_new": [
+                "I",
+                "armchair"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đọng, đậu",
+          "definition": "to come to rest",
+          "world_new": [
+            "rest"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Dust had settled on the books."
+            }
+          ]
+        },
+        {
+          "mean_english": "nguội dân",
+          "definition": "to soothe",
+          "world_new": [
+            "soothe"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I gave him a pill to settle his nerves.",
+              "world_new": [
+                "I",
+                "pill",
+                "nerves"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "định cư",
+          "definition": "to go and live",
+          "world_new": [
+            "live"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Many Scots settled in New Zealand."
+            }
+          ]
+        },
+        {
+          "mean_english": "giải quyết",
+          "definition": "to reach a decision or agreement",
+          "world_new": [
+            "reach",
+            "decision",
+            "agreement"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Have you settled with the builders when they are to start work?",
+              "world_new": [
+                "start",
+                "work"
+              ]
+            },
+            {
+              "ex_of_definition": "The dispute between management and employees is still not settled.",
+              "world_new": [
+                "dispute",
+                "management"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "thanh toán",
+          "definition": "to pay (a bill)",
+          "world_new": [
+            "pay"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I just need to settle the hotel bill.",
+              "world_new": [
+                "I",
+                "hotel",
+                "bill"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The extensive use of absorbing barriers was precluded by the nature of the experiment and resulted in rather long settling times for the basin.",
+    "The incongruity between extra-terrestrial beings and the settled, comfortable world they invade produces a creative tension.",
+    "While there were important differences of perspective, both parties subscribed broadly to the liberal social democratic policy framework settled in the 1950s.",
+    "The difficulty in settling these questions stems from the fact that one deals with complicated multidimensional oscillatory integrals.",
+    "Inconsistencies are probably hard to avoid, and the issue is cer tainly far from settled for adult code-switching.",
+    "Most of these were young women travelling abroad to experience something new before attending university or settling down in their own country.",
+    "Conversion would follow, and then a settled domestic life.",
+    "However, women from the settled community might be more expressive."
+  ],
+  "list_see_also": [
+    "settlement",
+    "settler",
+    "settle down",
+    "settle in",
+    "settle on",
+    "settle up"
+  ],
+  "list_browse": [
+    "settee",
+    "setter",
+    "setting",
+    "setting lotion",
+    "settle",
+    "settle down",
+    "settle in",
+    "settle old scores",
+    "settle on"
+  ]
+}

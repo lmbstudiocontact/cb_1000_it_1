@@ -1,0 +1,71 @@
+{
+  "english": "loud",
+  "phat_am": "laud",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "to; ầm ĩ",
+          "definition": "making a great sound; not quiet",
+          "world_new": [
+            "great",
+            "quiet"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a loud voice",
+              "world_new": [
+                "voice"
+              ]
+            },
+            {
+              "ex_of_definition": "loud music.",
+              "world_new": [
+                "music"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sặc sỡ",
+          "definition": "showy; too bright and harsh",
+          "world_new": [
+            "bright",
+            "harsh"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "loud colours",
+              "world_new": [
+                "colours"
+              ]
+            },
+            {
+              "ex_of_definition": "a loud shirt.",
+              "world_new": [
+                "shirt"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "loudly",
+    "loudness",
+    "loudspeaker"
+  ],
+  "list_browse": [
+    "lotion",
+    "lots",
+    "lottery",
+    "lotus",
+    "loud",
+    "loudly",
+    "loudness",
+    "loudspeaker",
+    "lounge"
+  ]
+}

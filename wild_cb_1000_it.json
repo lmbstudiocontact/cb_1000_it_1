@@ -1,0 +1,156 @@
+{
+  "english": "wild",
+  "phat_am": "waild",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "hoang dã",
+          "definition": "(of animals) not tamed",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Wolves and other wild animals live in the forest.",
+              "world_new": [
+                "live",
+                "forest"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "hoang",
+          "definition": "(of land) not cultivated.",
+          "world_new": [
+            "cultivated"
+          ]
+        },
+        {
+          "mean_english": "hỗn loạn",
+          "definition": "uncivilized or lawless; savage",
+          "world_new": [
+            "savage"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "wild tribes."
+            }
+          ]
+        },
+        {
+          "mean_english": "dữ dội",
+          "definition": "very stormy; violent",
+          "world_new": [
+            "violent"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a wild night at sea",
+              "world_new": [
+                "night",
+                "sea"
+              ]
+            },
+            {
+              "ex_of_definition": "a wild rage.",
+              "world_new": [
+                "rage"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "điên cuồng",
+          "definition": "mad, crazy, insane etc",
+          "world_new": [
+            "mad",
+            "crazy",
+            "insane"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "They were wild with hunger",
+              "world_new": [
+                "hunger"
+              ]
+            },
+            {
+              "ex_of_definition": "He was wild with anxiety.",
+              "world_new": [
+                "anxiety"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "rồ dại",
+          "definition": "rash",
+          "world_new": [
+            "rash"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a wild hope.",
+              "world_new": [
+                "hope"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "không chính xác",
+          "definition": "not accurate or reliable",
+          "world_new": [
+            "accurate",
+            "reliable"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a wild guess.",
+              "world_new": [
+                "guess"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "giận giữ",
+          "definition": "very angry",
+          "world_new": [
+            "angry"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He went wild when he discovered what his son had been doing.",
+              "world_new": [
+                "son"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "wildly",
+    "wildness",
+    "wildfire: spread like wildfire",
+    "wildfowl",
+    "wild-goose chase",
+    "wildlife",
+    "in the wild",
+    "the wilds",
+    "the Wild West"
+  ],
+  "list_browse": [
+    "wig",
+    "wiggle",
+    "wiggly",
+    "wigwam",
+    "wild",
+    "wild-goose chase",
+    "wilderness",
+    "wildfire: spread like wildfire",
+    "wildfowl"
+  ]
+}

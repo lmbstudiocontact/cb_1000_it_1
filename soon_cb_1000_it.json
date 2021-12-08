@@ -1,0 +1,91 @@
+{
+  "english": "soon",
+  "phat_am": "suːn",
+  "list_english": [
+    {
+      "type_word": "adverb",
+      "list_definition": [
+        {
+          "mean_english": "chẳng bao lâu nữa, chẳng mấy chốc nữa",
+          "definition": "in a short time from now or from the time mentioned",
+          "world_new": [
+            "short",
+            "time",
+            "time"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "They’ll be here sooner than you think",
+              "world_new": [
+                "think"
+              ]
+            },
+            {
+              "ex_of_definition": "I hope he arrives soon.",
+              "world_new": [
+                "I",
+                "hope"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sớm , nhanh",
+          "definition": "early",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "It’s too soon to tell.",
+              "world_new": [
+                "tell"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "vui lòng, tự nguyện",
+          "definition": "willingly",
+          "world_new": [
+            "willingly"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I would sooner stand than sit.",
+              "world_new": [
+                "I",
+                "stand",
+                "sit"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Methodologies can be refined as soon as a change occurs in the market or in the organization of the company.",
+    "Four patients had been born prematurely and had ductal ligation soon after birth.",
+    "We will have more information on these discs soon.",
+    "However, structures are about relationships, and as soon as the structures are implemented, they become animated.",
+    "Admittedly, it is bold to imagine that physicians or patients will become deep ecologists or environmental partisans any time soon.",
+    "Numbers are now down to 1200 and will soon be reduced by another 400.",
+    "There was a desire to ' get the first one over with ' and to run a course as soon as possible.",
+    "If illegitimacy was the underlying reason for abandonment, then it might be expected that abandonment would take place as soon after birth as possible."
+  ],
+  "list_see_also": [
+    "as soon as",
+    "no sooner … than",
+    "sooner or later",
+    "the sooner the better"
+  ],
+  "list_browse": [
+    "songwriter",
+    "sonic",
+    "sonic boom",
+    "sonnet",
+    "soon",
+    "sooner or later",
+    "soot",
+    "soothe",
+    "soothing"
+  ]
+}

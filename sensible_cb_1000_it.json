@@ -1,0 +1,76 @@
+{
+  "english": "sensible",
+  "phat_am": "ˈsensəbl",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "có đầu óc xét đoán",
+          "definition": "wise; having or showing good judgement",
+          "world_new": [
+            "judgement"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She’s a sensible, reliable person",
+              "world_new": [
+                "reliable",
+                "person"
+              ]
+            },
+            {
+              "ex_of_definition": "a sensible suggestion.",
+              "world_new": [
+                "suggestion"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "chắc, bền",
+          "definition": "(of clothes etc) practical rather than attractive or fashionable",
+          "world_new": [
+            "clothes",
+            "practical",
+            "rather",
+            "attractive",
+            "fashionable"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She wears flat, sensible shoes.",
+              "world_new": [
+                "flat"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Unfortunately, some additional trial and error is usually required before sensible bounds are found.",
+    "There are a number of reasons why this is not sensible.",
+    "When licensing authorities do not treat all individuals equally, it would seem sensible that such unequal treatment should be consistent with the authorities' stated objectives.",
+    "Given sensible restrictions on the free variables, the term becomes well-typed and reduction can be shown to preserve typing.",
+    "True religious experience involves more than the feeling of absolute dependence, even when united with a mode of sensible self-consciousness.",
+    "The authors argue that ensuring adequate remuneration for supervising doctors is a sensible way around this problem.",
+    "The overall organization of the book and each of the chapters is sensible.",
+    "The set of all sensible -theories constitutes a bounded lattice."
+  ],
+  "list_see_also": [
+    "sensibly"
+  ],
+  "list_browse": [
+    "senselessness",
+    "senses",
+    "sensibilities",
+    "sensibility",
+    "sensible",
+    "sensibly",
+    "sensitive",
+    "sensitively",
+    "sensitiveness"
+  ]
+}

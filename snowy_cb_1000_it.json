@@ -1,0 +1,67 @@
+{
+  "english": "snowy",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "đầy tuyết",
+          "definition": "full of, or producing a lot of, snow",
+          "world_new": [
+            "full",
+            "snow"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The weather has been very snowy recently.",
+              "world_new": [
+                "weather",
+                "recently"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tóc trắng như tuyết",
+          "definition": "white like snow",
+          "world_new": [
+            "white",
+            "snow"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the old man’s snowy (white) hair.",
+              "world_new": [
+                "old",
+                "hair"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The snowy countryside acts upon the thinker as a shimmering and blinding force confounding the dimensions of space and time.",
+    "Perhaps if we had been suffering from a few weeks of snowy weather that would have been so.",
+    "It was a snowy morning with a lot of black ice.",
+    "Last winter there was week after week of cold, snowy weather, when many people kept on their heating.",
+    "It would include barn owls and snowy owls, a whole range of the rarest and most precious birds in this country.",
+    "We cannot grit every road across the nation every time it becomes icy and snowy.",
+    "Suppose on a dark and stormy and snowy night a car draws up at a wayside filling station.",
+    "It might be in the woods, or out at sea, or on a snowy mountainside in winter."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "snowfall",
+    "snowflake",
+    "snowman",
+    "snowstorm",
+    "snowy",
+    "Snr",
+    "snub",
+    "snuff",
+    "snuff out"
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "english": "tend",
+  "phat_am": "tend",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "trông nom, chăm sóc",
+          "definition": "to take care of; to look after",
+          "world_new": [
+            "care",
+            "look"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "A shepherd tends his sheep.",
+              "world_new": [
+                "shepherd",
+                "sheep"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "có khuynh hướng",
+          "definition": "to be likely (to do something); to do (something) frequently",
+          "world_new": [
+            "likely",
+            "frequently"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "These plants tend to die in hot weather",
+              "world_new": [
+                "die",
+                "hot",
+                "weather"
+              ]
+            },
+            {
+              "ex_of_definition": "He tends to get angry.",
+              "world_new": [
+                "angry"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "quay về, hướng về",
+          "definition": "to move, lean or slope in a certain direction",
+          "world_new": [
+            "move",
+            "lean",
+            "slope",
+            "certain",
+            "direction"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "This tree trunk tends to(wards) the left.",
+              "world_new": [
+                "tree",
+                "trunk",
+                "left"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The problem is that in focusing on an inherited internal mechanism, the role of learning over an organism's lifetime tends to get ignored.",
+    "Especially in less developed countries, research on ageing still tends to prejudge people's priorities and to focus narrowly on material outcomes.",
+    "The choice of a lower perspective in itself tends toward protest.",
+    "There is now powerful experimental evidence that this tends to promote and maintain cooperation.",
+    "What was clearer was that the range of opinion in the press tended increasingly to favour the government.",
+    "Most of the research reviewed in the preceding nine categories tends to favor the 2-gen over the 1-gen model.",
+    "The media agenda tends to become the common currency for discussion in the groups.",
+    "In the absence of such a detailed-and repeated-articulation, national security tends not to rise very high on the list of congressional priorities."
+  ],
+  "list_see_also": [
+    "tender"
+  ],
+  "list_browse": [
+    "tenaciously",
+    "tenacity",
+    "tenant",
+    "tenanted",
+    "tend",
+    "tendency",
+    "tender",
+    "tender-hearted",
+    "tender-heartedness"
+  ]
+}

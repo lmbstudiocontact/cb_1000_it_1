@@ -1,0 +1,103 @@
+{
+  "english": "opposite",
+  "phat_am": "ˈopəzit",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "đối lập",
+          "definition": "being on the other side of",
+          "world_new": [
+            "side"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "on the opposite side of town.",
+              "world_new": [
+                "side",
+                "town"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "hoàn toàn khác nhau",
+          "definition": "completely different",
+          "world_new": [
+            "completely"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The two men walked off in opposite directions."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "preposition",
+      "list_definition": [
+        {
+          "mean_english": "đối diện",
+          "definition": "on the opposite side of (something) in relation to something else",
+          "world_new": [
+            "side",
+            "relation",
+            "else"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He lives in the house opposite (mine).",
+              "world_new": [
+                "house"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "hoàn toàn khác nhau",
+          "definition": "something that is completely different",
+          "world_new": [
+            "completely"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Hate is the opposite of love.",
+              "world_new": [
+                "love"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The opposite direction of this implication, that is, the completeness of the logical relations with respect to contextual equivalence remains future work.",
+    "The changes in spectral sensitivity associated with this interference can be substantial, because the effects on the signals from the two cone types are opposite.",
+    "Indeed, he takes pains on every one of these counts to show that the opposite is closer to the truth.",
+    "Here time discipline is put to the service not of virtuous self-culture, but the opposite, the degradation of the operatives as moral beings.",
+    "It was drained away by a small strip of tissue on the opposite side of the chamber.",
+    "But the government's judgement was quite the opposite.",
+    "These scholars rarely consider the opposite-that these writings may not actually be disseminated to the population at large in a manner that is sociopolitically consequential.",
+    "Nevertheless, there is sometimes an elective affinity between methodological statements and positive claims, although occasionally the same methodological statements are used for opposite purposes."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "opportunist",
+    "opportunity",
+    "oppose",
+    "opposing",
+    "opposite",
+    "opposition",
+    "oppress",
+    "oppression",
+    "oppressive"
+  ]
+}

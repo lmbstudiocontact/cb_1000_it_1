@@ -1,0 +1,116 @@
+{
+  "english": "shed",
+  "phat_am": "ʃed",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "nhà một tầng để chứa đồ hoặc làm nhà xưởng",
+          "definition": "a usually small building for working in, or for storage",
+          "world_new": [
+            "small",
+            "building",
+            "storage"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a wooden shed",
+              "world_new": [
+                "wooden"
+              ]
+            },
+            {
+              "ex_of_definition": "a garden shed.",
+              "world_new": [
+                "garden"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "tung ra, tỏa ra",
+          "definition": "to send out (light etc)",
+          "world_new": [
+            "send"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The torch shed a bright light on the path ahead.",
+              "world_new": [
+                "torch",
+                "bright",
+                "light",
+                "path",
+                "ahead"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "rụng, lột",
+          "definition": "to cast off (clothing, skin, leaves etc)",
+          "world_new": [
+            "cast",
+            "skin"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Many trees shed their leaves in autumn.",
+              "world_new": [
+                "their",
+                "autumn"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "rơi, trào (máu, nước mắt)",
+          "definition": "to produce (tears, blood)",
+          "world_new": [
+            "produce"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I don’t think many tears were shed when she left.",
+              "world_new": [
+                "I",
+                "think",
+                "left"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Twelve farms were known to have had a prior history of shedding before the start of the study.",
+    "The snails were examined for emerging cercariae from day 28 following exposure and checked for cercarial shedding until death.",
+    "The discrepancies in the measured vortex shedding frequencies are quite significant.",
+    "The case of rescates sheds light upon two general points about trade in the late eighteenth century that are not always fully appreciated by historians.",
+    "Shared intelligence can be very valuable if it sheds light on important foreign policy problems.",
+    "In addition, the article sheds light on the connection between child agricultural labour and schooling rates.",
+    "The treatment of the death rate of shedding snails is more complicated.",
+    "We first briefly describe this data set, and then present bivariate descriptive statistics shedding light on the socio-economic status of the subsidy recipients."
+  ],
+  "list_see_also": [
+    "shed light on"
+  ],
+  "list_browse": [
+    "shear",
+    "shears",
+    "sheath",
+    "sheathe",
+    "shed",
+    "shed light on",
+    "sheen",
+    "sheep",
+    "sheepdog"
+  ]
+}

@@ -1,0 +1,171 @@
+{
+  "english": "such",
+  "phat_am": "satʃ",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "như thế, như loại đó",
+          "definition": "of the same kind as that already mentioned or being mentioned",
+          "world_new": [
+            "kind"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Animals that gnaw, such as mice, rats, rabbits and weasels are called rodents",
+              "world_new": [
+                "gnaw"
+              ]
+            },
+            {
+              "ex_of_definition": "He came from Bradford or some such place",
+              "world_new": [
+                "place"
+              ]
+            },
+            {
+              "ex_of_definition": "She asked to see Mr Johnson but was told there was no such person there",
+              "world_new": [
+                "see",
+                "person"
+              ]
+            },
+            {
+              "ex_of_definition": "I’ve seen several such buildings"
+            },
+            {
+              "ex_of_definition": "I’ve never done such a thing before"
+            },
+            {
+              "ex_of_definition": "doctors, dentists and such people.",
+              "world_new": [
+                "people"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "như là, thuộc loại được nói rõ",
+          "definition": "of the great degree already mentioned or being mentioned",
+          "world_new": [
+            "great",
+            "degree"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "If you had telephoned her, she wouldn’t have got into such a state of anxiety",
+              "world_new": [
+                "state",
+                "anxiety"
+              ]
+            },
+            {
+              "ex_of_definition": "She never used to get such bad headaches (as she does now).",
+              "world_new": [
+                "bad"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đến nỗi , tới mức độ",
+          "definition": "of the great degree, or the kind, to have a particular result",
+          "world_new": [
+            "great",
+            "degree",
+            "kind",
+            "particular",
+            "result"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He shut the window with such force that the glass broke",
+              "world_new": [
+                "shut",
+                "window",
+                "force",
+                "glass",
+                "broke"
+              ]
+            },
+            {
+              "ex_of_definition": "She’s such a good teacher that the headmaster asked her not to leave",
+              "world_new": [
+                "teacher",
+                "headmaster",
+                "leave"
+              ]
+            },
+            {
+              "ex_of_definition": "Their problems are such as to make it impossible for them to live together any more.",
+              "world_new": [
+                "impossible",
+                "live"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "quả là, thật là",
+          "definition": "used for emphasis",
+          "world_new": [
+            "emphasis"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "This is such a shock! They have been such good friends to me!",
+              "world_new": [
+                "shock"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "pronoun",
+      "list_definition": [
+        {
+          "mean_english": "người hoặc vật đã được nói rõ",
+          "definition": "such a person or thing, or such persons or things",
+          "world_new": [
+            "person"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I have only a few photographs, but can show you such as I have",
+              "world_new": [
+                "I",
+                "I"
+              ]
+            },
+            {
+              "ex_of_definition": "This isn’t a good book as such (= as a book) but it has interesting pictures.",
+              "world_new": [
+                "book",
+                "interesting"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "suchlike",
+    "such-and-such",
+    "such as it is"
+  ],
+  "list_browse": [
+    "succinct",
+    "succulence",
+    "succulent",
+    "succumb",
+    "such",
+    "such as it is",
+    "such-and-such",
+    "suchlike",
+    "suck"
+  ]
+}

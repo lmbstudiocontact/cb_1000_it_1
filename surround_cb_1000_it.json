@@ -1,0 +1,77 @@
+{
+  "english": "surround",
+  "phat_am": "səˈraund",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "vây quanh",
+          "definition": "to be, or come, all round",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Britain is surrounded by sea",
+              "world_new": [
+                "sea"
+              ]
+            },
+            {
+              "ex_of_definition": "Enemy troops surrounded the town",
+              "world_new": [
+                "troops",
+                "town"
+              ]
+            },
+            {
+              "ex_of_definition": "Mystery surrounds his death.",
+              "world_new": [
+                "death"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "bao quanh",
+          "definition": "to enclose",
+          "world_new": [
+            "enclose"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He surrounded the castle with a high wall.",
+              "world_new": [
+                "castle",
+                "wall"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Truncated literature search strategies may often lead to uncertainty surrounding the conclusions of a review.",
+    "Tillage methods mimicked those done in the surrounding communal areas.",
+    "A two-dimensional molten aluminium droplet is of finite extent and is surrounded by a passive gas.",
+    "The chapter on data processing addresses these issues with a detailed discussion of the issues surrounding spot quantitation and data normalization.",
+    "The outermost torus is surrounded by a chaotic sea.",
+    "We wish to clarify these and welcome the chance her commentary provided to offer aspects of the social situation surrounding the case we presented.",
+    "An occluding window was placed around each scene, thus exposing an area and occluding the surrounding space.",
+    "In this tutorial, we have examined the issues surrounding the interpretation of free variables in the context of the untyped lambda calculus."
+  ],
+  "list_see_also": [
+    "surrounding",
+    "surroundings"
+  ],
+  "list_browse": [
+    "surrealist",
+    "surrender",
+    "surrogate",
+    "surrogate mother",
+    "surround",
+    "surrounding",
+    "surroundings",
+    "survey",
+    "surveyor"
+  ]
+}

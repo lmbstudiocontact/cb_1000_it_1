@@ -1,0 +1,75 @@
+{
+  "english": "partner",
+  "phat_am": "ˈpaːtnə",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cộng sự",
+          "definition": "a person who shares the ownership of a business etc with one or more others",
+          "world_new": [
+            "person",
+            "ownership",
+            "business"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She was made a partner in the firm.",
+              "world_new": [
+                "firm"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "bạn nhảy/ cùng phe",
+          "definition": "one of two people who dance, play in a game etc together",
+          "world_new": [
+            "people",
+            "dance",
+            "play",
+            "game"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a tennis/dancing partner."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "cùng nhảy/ cùng chơi",
+          "definition": "to be a partner to (someone)",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He partnered his wife in the last dance.",
+              "world_new": [
+                "wife",
+                "dance"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "partnership"
+  ],
+  "list_browse": [
+    "parting",
+    "partisan",
+    "partition",
+    "partly",
+    "partner",
+    "partnership",
+    "party",
+    "pass",
+    "pass (something or someone) off as"
+  ]
+}

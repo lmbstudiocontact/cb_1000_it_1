@@ -1,0 +1,47 @@
+{
+  "english": "until",
+  "phat_am": "ənˈtil",
+  "list_english": [
+    {
+      "type_word": "preposition",
+      "list_definition": [
+        {
+          "mean_english": "trước khi, cho đến khi",
+          "definition": "to the time of or when",
+          "world_new": [
+            "time"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He was here until one o’clock",
+              "world_new": [
+                "o’clock"
+              ]
+            },
+            {
+              "ex_of_definition": "I won’t know until I get a letter from him.",
+              "world_new": [
+                "I",
+                "know",
+                "I",
+                "letter"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "unthinkable",
+    "unthinking",
+    "untidy",
+    "untie",
+    "until",
+    "untiring",
+    "untiringly",
+    "unto",
+    "untrue"
+  ]
+}

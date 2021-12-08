@@ -1,0 +1,67 @@
+{
+  "english": "unwind",
+  "phat_am": "anˈwaind",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "tháo ra, trải ra",
+          "definition": "to take or come out of a coiled or wound position",
+          "world_new": [
+            "wound",
+            "position"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He unwound the bandage from his ankle.",
+              "world_new": [
+                "bandage",
+                "ankle"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "nghỉ ngơi, thư giãn",
+          "definition": "to relax after a period of tension",
+          "world_new": [
+            "relax",
+            "period",
+            "tension"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Give me a chance to unwind!",
+              "world_new": [
+                "chance"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "He emphasised that the vast bulk of it was the unwinding of leads and lags.",
+    "The second date refers to the year, when the respective church body ceased to exist (if so), due to a merger or unwinding.",
+    "Relaxase also unwinds the plasmid being conjugated with its helicase properties.",
+    "The past seven years have seen the largest and most sustained fall in the ratio since the unwinding of the wartime economy.",
+    "We are announcing today that the interim relief scheme will be unwinding at a rate of 25p in the first year.",
+    "Consider the following: the helicase continuously unwinds the parental duplex, but the lagging strand must be polymerised in the opposite direction.",
+    "Because of the exceptionally high leverage and the scale of linkages between risks, this process of unwinding is proving particularly painful.",
+    "No one will think that this unwinding process will be easy."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "unwieldy",
+    "unwilling",
+    "unwillingly",
+    "unwillingness",
+    "unwind",
+    "unwise",
+    "unwisely",
+    "unworthily",
+    "unworthiness"
+  ]
+}

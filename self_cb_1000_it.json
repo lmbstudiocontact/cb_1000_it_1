@@ -1,0 +1,91 @@
+{
+  "english": "self",
+  "phat_am": "self",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "bản thân, bản chất",
+          "definition": "a person’s own body and personality.",
+          "world_new": [
+            "body",
+            "personality"
+          ]
+        },
+        {
+          "mean_english": "lợi thế hay thú vui của bản thân",
+          "definition": "one’s own personal interests or advantage",
+          "world_new": [
+            "personal",
+            "advantage"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He always thinks first of self."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "prefix",
+      "list_definition": [
+        {
+          "mean_english": "cho mình",
+          "definition": "showing that the person or thing acting is acting upon himself or itself, as in self-respect.",
+          "world_new": [
+            "person",
+            "acting",
+            "acting"
+          ]
+        },
+        {
+          "mean_english": "tự động",
+          "definition": "showing that the thing is acting automatically, as in self-closing doors.",
+          "world_new": [
+            "acting",
+            "automatically"
+          ]
+        },
+        {
+          "mean_english": "tự mình",
+          "definition": "by oneself, as in self-made."
+        },
+        {
+          "mean_english": "tự nó",
+          "definition": "in, within etc oneself or itself, as in self-centred."
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Our inner selves are always barricaded behind codes of language.",
+    "Rather, it was an intrinsic dimension of the everyday act of making selves and social ties.",
+    "I suspect that they had no great anxiety about the unity of their \"selves\" (assuming that they were quite sufficiently \"unified,\" thank you very much).",
+    "As several papers emphasize, these are not merely externally staged selves, masks in the sense of inauthenticity.",
+    "Operatic voices sing the gap between our turbulent, contradictory inner selves and the coherent masks that culture demands.",
+    "People's \"selves\" would thus evolve and change over their lifetimes, as these patterns evolved and changed, as a function of social and non-social reinforcement.",
+    "Ethics are the preconditions for society, which is, in turn, the precondition for the creation of selves.",
+    "Talking about how our selves come to be may require that we imagine, at least for the sake of argument, that we are not here."
+  ],
+  "list_see_also": [
+    "selfish",
+    "selfishly",
+    "selfishness",
+    "selfless",
+    "selflessly",
+    "selflessness"
+  ],
+  "list_browse": [
+    "selective",
+    "selectively",
+    "selectiveness",
+    "selector",
+    "self",
+    "self-addressed",
+    "self-assurance",
+    "self-assured",
+    "self-catering"
+  ]
+}

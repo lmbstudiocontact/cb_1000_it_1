@@ -1,0 +1,86 @@
+{
+  "english": "thousand",
+  "phat_am": "ˈθauzənd",
+  "list_english": [
+    {
+      "type_word": "number",
+      "list_definition": [
+        {
+          "mean_english": "con số một nghìn",
+          "definition": "the number 1,000",
+          "world_new": [
+            "number"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "one thousand"
+            },
+            {
+              "ex_of_definition": "two thousand"
+            },
+            {
+              "ex_of_definition": "several thousand."
+            }
+          ]
+        },
+        {
+          "mean_english": "một nghìn",
+          "definition": "the figure 1,000.",
+          "world_new": [
+            "figure"
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "một ngàn bảng hoặc đô la",
+          "definition": "a thousand pounds or dollars",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "This cost us several thousand(s).",
+              "world_new": [
+                "cost"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "prefix",
+      "list_definition": [
+        {
+          "mean_english": "thuộc một nghìn",
+          "definition": "having a thousand (of something)",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a thousand-mile journey.",
+              "world_new": [
+                "journey"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "thousand-",
+    "thousandth",
+    "thousands of"
+  ],
+  "list_browse": [
+    "thoughtfulness",
+    "thoughtless",
+    "thoughtlessly",
+    "thoughtlessness",
+    "thousand",
+    "thousands of",
+    "thousandth",
+    "thrash",
+    "thrashing"
+  ]
+}

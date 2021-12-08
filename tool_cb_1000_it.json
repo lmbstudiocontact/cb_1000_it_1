@@ -1,0 +1,51 @@
+{
+  "english": "tool",
+  "phat_am": "tuːl",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "công cụ",
+          "definition": "an instrument for doing work, especially by hand",
+          "world_new": [
+            "instrument",
+            "work",
+            "hand"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "hammers, saws and other tools"
+            },
+            {
+              "ex_of_definition": "the tools of his trade",
+              "world_new": [
+                "trade"
+              ]
+            },
+            {
+              "ex_of_definition": "Advertising is a powerful tool.",
+              "world_new": [
+                "powerful"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "toolbar"
+  ],
+  "list_browse": [
+    "tonsil",
+    "tonsillitis",
+    "too",
+    "too bad",
+    "tool",
+    "toolbar",
+    "toot",
+    "tooth",
+    "tooth and nail"
+  ]
+}

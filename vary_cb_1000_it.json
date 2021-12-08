@@ -1,0 +1,57 @@
+{
+  "english": "vary",
+  "phat_am": "ˈveəri",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "thay đổi, biến đổi",
+          "definition": "to make, be or become different",
+          "world_new": [
+            "become"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "These apples vary in size from small to medium.",
+              "world_new": [
+                "size",
+                "small",
+                "medium"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The developer meant to say simply that the design could be varied by changing numeric parameters.",
+    "In most instances, exposure to environmental risk also varies according to a continuum.",
+    "To assess the cross-validation results, we divided the patients into predicted positive and predicted negative groups by using varying probability cut points.",
+    "Environmental conditions were observed to strongly influence the honey bee efficiency as pollinator and seed-set varied considerably from year to year.",
+    "Their average size varied from between 200 and 600 tons.",
+    "Capitation rates and details such as loss-limit provisions varied from group to group.",
+    "The size of the amplified product varied among the isolates, and was dependent on the number of repeats present in the coa gene.",
+    "However, it is evident that material goods varied in their importance within different communities."
+  ],
+  "list_see_also": [
+    "variable",
+    "variably",
+    "variability",
+    "variant",
+    "variation",
+    "varied"
+  ],
+  "list_browse": [
+    "variety",
+    "various",
+    "variously",
+    "varnish",
+    "vary",
+    "vascular",
+    "vase",
+    "vast",
+    "vastness"
+  ]
+}

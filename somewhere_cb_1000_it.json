@@ -1,0 +1,57 @@
+{
+  "english": "somewhere",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "adverb",
+      "list_definition": [
+        {
+          "mean_english": "trong, ở, đến một nơi nào đó",
+          "definition": "(American someplace) (in or to) some place not known or not named",
+          "world_new": [
+            "place"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "They live somewhere in London",
+              "world_new": [
+                "live"
+              ]
+            },
+            {
+              "ex_of_definition": "I won’t be at home tonight – I’m going somewhere for dinner.",
+              "world_new": [
+                "I",
+                "home",
+                "tonight",
+                "dinner"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "More precisely, it is non-strictly hyperbolic somewhere at a boundary i = 0, and it is only (m - 2) dimensional.",
+    "He thought we were getting somewhere, but now he's not so sure.",
+    "They like to hide them somewhere and just take their potjie (food) out.",
+    "Thus, the interchromosomal effect might be mediated by epigenetic changes in chromosome packaging induced by a rearranged chromosome somewhere in the genome.",
+    "However, it does go somewhere to addressing some.",
+    "All other goods and services were deemed to fall somewhere in between, but opinions usually favoured public provision.",
+    "Neither of these extremes looks promising in itself, so no doubt the best answer lies somewhere in between - a combination of instruction and experience.",
+    "The corresponding standard range for the sociotropic effect is somewhere between 2.8 and 5.3 per cent."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "something tells me",
+    "sometime",
+    "sometimes",
+    "somewhat",
+    "somewhere",
+    "somewhere or other",
+    "son",
+    "son of a bitch",
+    "son-in-law"
+  ]
+}

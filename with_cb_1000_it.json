@@ -1,0 +1,236 @@
+{
+  "english": "with",
+  "phat_am": "wið",
+  "list_english": [
+    {
+      "type_word": "preposition",
+      "list_definition": [
+        {
+          "mean_english": "với",
+          "definition": "in the company of; beside; among; including",
+          "world_new": [
+            "company",
+            "including"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I was walking with my father",
+              "world_new": [
+                "I",
+                "my",
+                "father"
+              ]
+            },
+            {
+              "ex_of_definition": "Do they enjoy playing with each other?",
+              "world_new": [
+                "enjoy"
+              ]
+            },
+            {
+              "ex_of_definition": "He used to play football with the Arsenal team",
+              "world_new": [
+                "play",
+                "football",
+                "team"
+              ]
+            },
+            {
+              "ex_of_definition": "Put this book with the others.",
+              "world_new": [
+                "book"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "bằng",
+          "definition": "by means of; using",
+          "world_new": [
+            "means"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Mend it with this glue",
+              "world_new": [
+                "glue"
+              ]
+            },
+            {
+              "ex_of_definition": "Cut it with a knife.",
+              "world_new": [
+                "knife"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "với",
+          "definition": "used in expressing the idea of filling, covering etc",
+          "world_new": [
+            "idea",
+            "filling",
+            "covering"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Fill this jug with milk",
+              "world_new": [
+                "jug",
+                "milk"
+              ]
+            },
+            {
+              "ex_of_definition": "He was covered with mud.",
+              "world_new": [
+                "mud"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "mâu thuẫn với ai",
+          "definition": "used in describing conflict",
+          "world_new": [
+            "conflict"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "They quarrelled with each other"
+            },
+            {
+              "ex_of_definition": "He fought with my brother.",
+              "world_new": [
+                "my",
+                "brother"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "có",
+          "definition": "used in descriptions of things",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a man with a limp",
+              "world_new": [
+                "limp"
+              ]
+            },
+            {
+              "ex_of_definition": "a girl with long hair",
+              "world_new": [
+                "girl",
+                "long",
+                "hair"
+              ]
+            },
+            {
+              "ex_of_definition": "a stick with a handle",
+              "world_new": [
+                "stick",
+                "handle"
+              ]
+            },
+            {
+              "ex_of_definition": "Treat this book with care.",
+              "world_new": [
+                "book",
+                "care"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "do; vì",
+          "definition": "as the result of",
+          "world_new": [
+            "result"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He is shaking with fear.",
+              "world_new": [
+                "shaking",
+                "fear"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "để ai coi hộ",
+          "definition": "in the care of",
+          "world_new": [
+            "care"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Leave your case with the porter.",
+              "world_new": [
+                "your",
+                "case",
+                "porter"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "với",
+          "definition": "in relation to; in the case of; concerning",
+          "world_new": [
+            "relation",
+            "case",
+            "concerning"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Be careful with that!",
+              "world_new": [
+                "careful"
+              ]
+            },
+            {
+              "ex_of_definition": "What’s wrong with you?",
+              "world_new": [
+                "wrong"
+              ]
+            },
+            {
+              "ex_of_definition": "What shall I do with these books?",
+              "world_new": [
+                "I"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "mong muốn",
+          "definition": "used in expressing a wish",
+          "world_new": [
+            "wish"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Down with fascism!",
+              "world_new": [
+                "fascism"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "wit",
+    "witch",
+    "witch-doctor",
+    "witchcraft",
+    "with",
+    "with (a) good/bad grace",
+    "with a will",
+    "with all one’s heart",
+    "with an eye to something"
+  ]
+}

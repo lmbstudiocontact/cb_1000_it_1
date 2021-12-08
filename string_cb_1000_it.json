@@ -1,0 +1,189 @@
+{
+  "english": "string",
+  "phat_am": "striŋ",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "dây, sợi xe",
+          "definition": "(a piece of) long narrow cord made of threads twisted together, or tape, for tying, fastening etc",
+          "world_new": [
+            "piece",
+            "long",
+            "narrow",
+            "cord",
+            "twisted",
+            "tape",
+            "fastening"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a piece of string to tie a parcel",
+              "world_new": [
+                "piece",
+                "tie",
+                "parcel"
+              ]
+            },
+            {
+              "ex_of_definition": "a ball of string",
+              "world_new": [
+                "ball"
+              ]
+            },
+            {
+              "ex_of_definition": "a puppet’s strings",
+              "world_new": [
+                "strings"
+              ]
+            },
+            {
+              "ex_of_definition": "apron strings.",
+              "world_new": [
+                "apron",
+                "strings"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "thớ, mớ",
+          "definition": "a fibre/fiber etc, eg on a vegetable.",
+          "world_new": [
+            "vegetable"
+          ]
+        },
+        {
+          "mean_english": "dây đàn",
+          "definition": "a piece of wire, gut etc on a musical instrument, eg a violin",
+          "world_new": [
+            "piece",
+            "wire",
+            "gut",
+            "musical",
+            "instrument",
+            "violin"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "His A-string broke",
+              "world_new": [
+                "broke"
+              ]
+            },
+            {
+              "ex_of_definition": "(also adjective) He plays the viola in a string orchestra.",
+              "world_new": [
+                "viola",
+                "orchestra"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "chuỗi, chùm, túm…",
+          "definition": "a series or group of things threaded on a cord etc",
+          "world_new": [
+            "series",
+            "group",
+            "cord"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a string of beads."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "buộc bằng dây, treo bằng dây",
+          "definition": "to put (beads etc) on a string etc",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The pearls were sent to a jeweller to be strung.",
+              "world_new": [
+                "jeweller"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "lên, căng",
+          "definition": "to put a string or strings on (eg a bow or stringed instrument)",
+          "world_new": [
+            "strings",
+            "bow"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The archer strung his bow and aimed an arrow at the target.",
+              "world_new": [
+                "archer",
+                "bow",
+                "arrow",
+                "target"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tước bỏ xơ",
+          "definition": "to remove strings from (vegetables etc).",
+          "world_new": [
+            "remove",
+            "strings"
+          ]
+        },
+        {
+          "mean_english": "treo cổ ai",
+          "definition": "to tie and hang with string etc",
+          "world_new": [
+            "tie",
+            "hang"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Generally speaking, the crossover operator works by taking two parents and exchanging par t of their strings, thereby generating two new individuals, the offspring.",
+    "We follow the standard convention of using upper case initials to denote variables; lower case initials and strings enclosed in quotes denote constants.",
+    "The syntax-pragmatics interface accounts for the position of parenthetical what immediately preceding the numeral, thus restricting the linear order in the syntactic string.",
+    "So long as popular pressure remained low, the government could string out its reforms and avoid confrontation with business.",
+    "Taking all string sequences together, the prototype achieved a score of 94.7% in detecting and extracting headed compounds.",
+    "Increased cortical representation of the fingers of the left hand in string players.",
+    "We start relating strings and nets by looking at sets of places as alphabets and at families as strings on such alphabets.",
+    "At the least, a spellchecker can compare the misspelling with a dictionary of correct spellings, treating the spellings simply as character strings."
+  ],
+  "list_see_also": [
+    "strings",
+    "stringy",
+    "stringiness",
+    "string bean",
+    "string instrument",
+    "have (someone) on a string",
+    "pull strings",
+    "pull the strings",
+    "string out",
+    "strung up",
+    "",
+    "",
+    ""
+  ],
+  "list_browse": [
+    "strike while the iron is hot",
+    "striker",
+    "striking",
+    "strikingly",
+    "string",
+    "string bean",
+    "string instrument",
+    "string out",
+    "stringency"
+  ]
+}

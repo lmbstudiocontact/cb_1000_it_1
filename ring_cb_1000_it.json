@@ -1,0 +1,378 @@
+{
+  "english": "ring",
+  "phat_am": "riŋ",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cái nhẫn",
+          "definition": "a small circle eg of gold or silver, sometimes having a jewel set in it, worn on the finger",
+          "world_new": [
+            "small",
+            "circle",
+            "gold",
+            "silver",
+            "jewel",
+            "worn",
+            "finger"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a wedding ring",
+              "world_new": [
+                "wedding"
+              ]
+            },
+            {
+              "ex_of_definition": "She wears a diamond ring.",
+              "world_new": [
+                "diamond"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "cái đai",
+          "definition": "a circle of metal, wood etc for any of various purposes",
+          "world_new": [
+            "circle",
+            "metal",
+            "wood",
+            "various"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a scarf-ring"
+            },
+            {
+              "ex_of_definition": "a key-ring"
+            },
+            {
+              "ex_of_definition": "The trap-door had a ring attached for lifting it.",
+              "world_new": [
+                "attached"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "vòng tròn",
+          "definition": "anything which is like a circle in shape",
+          "world_new": [
+            "circle",
+            "shape"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The children formed a ring round their teacher",
+              "world_new": [
+                "their",
+                "teacher"
+              ]
+            },
+            {
+              "ex_of_definition": "The hot teapot left a ring on the polished table.",
+              "world_new": [
+                "hot",
+                "teapot",
+                "left",
+                "polished",
+                "table"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "vũ đài",
+          "definition": "an enclosed space for boxing matches, circus performances etc",
+          "world_new": [
+            "space",
+            "boxing",
+            "circus"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the circus-ring"
+            },
+            {
+              "ex_of_definition": "The crowd cheered as the boxer entered the ring.",
+              "world_new": [
+                "crowd",
+                "boxer"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "nghiệp đoàn",
+          "definition": "a small group of people formed for business or criminal purposes",
+          "world_new": [
+            "small",
+            "group",
+            "people",
+            "business",
+            "criminal"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a drugs ring."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "tạo thành vòng tròn",
+          "definition": "to form a ring round",
+          "world_new": [
+            "form"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "A fence ringed the pond.",
+              "world_new": [
+                "fence",
+                "pond"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "khoanh tròn",
+          "definition": "to put, draw etc a ring round (something)",
+          "world_new": [
+            "draw"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He has ringed all your errors.",
+              "world_new": [
+                "your"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đeo vòng vào chân chim",
+          "definition": "to put a ring on the leg of (a bird) as a means of identifying it.",
+          "world_new": [
+            "leg",
+            "means"
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "reo",
+          "definition": "to (cause to) sound",
+          "world_new": [
+            "sound"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The doorbell rang",
+              "world_new": [
+                "doorbell"
+              ]
+            },
+            {
+              "ex_of_definition": "He rang the doorbell",
+              "world_new": [
+                "doorbell"
+              ]
+            },
+            {
+              "ex_of_definition": "The telephone rang.",
+              "world_new": [
+                "telephone"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "gọi điện cho ai",
+          "definition": "(often with up) to telephone (someone)",
+          "world_new": [
+            "telephone"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I’ll ring you (up) tonight.",
+              "world_new": [
+                "tonight"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "rung chuông cửa",
+          "definition": "(often with for) to ring a bell (eg in a hotel) to tell someone to come, to bring something etc",
+          "world_new": [
+            "bell",
+            "tell",
+            "bring"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She rang for the maid.",
+              "world_new": [
+                "maid"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "kêu leng keng",
+          "definition": "(of certain objects) to make a high sound like a bell",
+          "world_new": [
+            "certain",
+            "sound",
+            "bell"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The glass rang as she hit it with a metal spoon.",
+              "world_new": [
+                "glass",
+                "hit",
+                "metal",
+                "spoon"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tràn ngập âm thanh",
+          "definition": "to be filled with sound",
+          "world_new": [
+            "filled",
+            "sound"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The hall rang with the sound of laughter.",
+              "world_new": [
+                "hall",
+                "sound",
+                "laughter"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "giọng sang sảng",
+          "definition": "(often with out) to make a loud, clear sound",
+          "world_new": [
+            "loud",
+            "clear",
+            "sound"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "His voice rang through the house",
+              "world_new": [
+                "voice",
+                "house"
+              ]
+            },
+            {
+              "ex_of_definition": "A shot rang out.",
+              "world_new": [
+                "shot"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "tiếng rung",
+          "definition": "the act or sound of ringing",
+          "world_new": [
+            "act",
+            "sound"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the ring of a telephone.",
+              "world_new": [
+                "telephone"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "cuộc gọi điện thoại",
+          "definition": "a telephone call",
+          "world_new": [
+            "telephone",
+            "call"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I’ll give you a ring."
+            }
+          ]
+        },
+        {
+          "mean_english": "cảm giác",
+          "definition": "a suggestion, impression or feeling",
+          "world_new": [
+            "suggestion",
+            "impression",
+            "feeling"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "His story has a ring of truth about it.",
+              "world_new": [
+                "story",
+                "truth"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Soon after this the annular ring also becomes unstable and breaks up into somewhat larger droplets.",
+    "Even single bells could be rung in different ways, slowly or rapidly, mechanically or with a bell-rope or hammer.",
+    "In the first experiment the subjects grasped the handle with the thumb, index, middle and ring fingers.",
+    "During lignification, phenyl rings of lignin precursors align to the cellulose molecule surfaces in a controlled and ordered process.",
+    "The ring, once completed, would have been able to take any hoop stresses that arose from the next course to be erected.",
+    "The feet have five toes each and rest on a ring below which extends a 16.5 cm long cylindrical peg base.",
+    "If an action in the script did not ring true, the actor had to imagine circumstances that made it meaningful.",
+    "Inverted pigeonite is often enclosed by clinopyroxene (augite) and contains her ring bone-like augite lamellae."
+  ],
+  "list_see_also": [
+    "ring binder",
+    "ringlet",
+    "ring finger",
+    "ringleader",
+    "ringmaster",
+    "ring road",
+    "run rings round"
+  ],
+  "list_browse": [
+    "rim",
+    "rimless",
+    "rimmed",
+    "rind",
+    "ring",
+    "ring a bell",
+    "ring back",
+    "ring binder",
+    "ring finger"
+  ]
+}

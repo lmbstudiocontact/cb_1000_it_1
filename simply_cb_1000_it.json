@@ -1,0 +1,79 @@
+{
+  "english": "simply",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "adverb",
+      "list_definition": [
+        {
+          "mean_english": "duy nhất, chỉ",
+          "definition": "only",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I do it simply for the money.",
+              "world_new": [
+                "I",
+                "money"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "hoàn toàn, cực kì",
+          "definition": "absolutely",
+          "world_new": [
+            "absolutely"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Alison’s wedding dress is simply beautiful.",
+              "world_new": [
+                "wedding",
+                "dress",
+                "beautiful"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "giản dị, mộc mạc",
+          "definition": "in a simple manner",
+          "world_new": [
+            "simple",
+            "manner"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She was always very simply dressed.",
+              "world_new": [
+                "dressed"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "An opponent of this sort, however, would simply reject (i).",
+    "The algorithm is simply articulated in the following steps.",
+    "The basic traditional weight distinction is simply the distinction between one and more-than-one.",
+    "We simply asked which letter would be most effective.",
+    "A score of two indicated a more sophisticated perspective-taking ability ; the ability to accurately, but simply, reflect the perspective of another.",
+    "From now on, the qualification 'algebraic' will often be omitted, and we will simply write g -calculus for algebraic g -calculus.",
+    "The supply-related approach not simply considers the number of health care facilities available to the population, but also their degree of specialization.",
+    "A system is simply a set of productions."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "simplified",
+    "simplify",
+    "simplistic",
+    "simplistically",
+    "simply",
+    "simulate",
+    "simulated",
+    "simulation",
+    "simulator"
+  ]
+}

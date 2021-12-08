@@ -1,0 +1,101 @@
+{
+  "english": "nod",
+  "phat_am": "nod",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "gật đầu",
+          "definition": "to make a quick forward and downward movement of the head to show agreement, as a greeting etc",
+          "world_new": [
+            "quick",
+            "forward",
+            "downward",
+            "movement",
+            "head",
+            "agreement",
+            "greeting"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I asked him if he agreed and he nodded (his head)",
+              "world_new": [
+                "I",
+                "agreed"
+              ]
+            },
+            {
+              "ex_of_definition": "He nodded to the man as he passed him in the street.",
+              "world_new": [
+                "street"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "gà gật",
+          "definition": "to let the head fall forward and downward when sleepy",
+          "world_new": [
+            "let",
+            "head",
+            "fall",
+            "forward",
+            "downward",
+            "sleepy"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Grandmother sat nodding by the fire.",
+              "world_new": [
+                "fire"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự gật đầu",
+          "definition": "a nodding movement of the head",
+          "world_new": [
+            "movement",
+            "head"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He answered with a nod."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "They also give at least a nod toward the notion that innate architectures coordinate readings of cost-benefit analyses of competing choices.",
+    "The types of behaviors we included were : points or other waves to the object and head nods to the direction of the object.",
+    "Presenters rely on jurors' nods, disapprovals, verbal reactions and other gestural cues as guides for tailoring their presentations.",
+    "They acknowledge the veterans carrying the flags, who stand quietly, nodding, growing weary of their burdens.",
+    "Before the concert they give a few perfunctory nods or make no expression at all.",
+    "Some group research interviews were undertaken, and when a summarising label was used by one resident, the others usually nodded in agreement.",
+    "The book does nod in the direction of another very different sort of elucidation.",
+    "Gesturally, adults sharply bob back their heads or nod rhythmically to infants, again presenting an exaggeration of head movements that conventionally signal affiliation in adults."
+  ],
+  "list_see_also": [
+    "nod off"
+  ],
+  "list_browse": [
+    "nobleman",
+    "nobly",
+    "nobody",
+    "nocturnal",
+    "nod",
+    "nod off",
+    "node",
+    "nodule",
+    "Noel"
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "english": "quote",
+  "phat_am": "kwəut",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "trích dẫn",
+          "definition": "to repeat the exact words of a person as they were said or written",
+          "world_new": [
+            "repeat",
+            "exact",
+            "person"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "to quote Shakespeare / Shakespeare’s words / from Shakespeare, ‘Is this a dagger which I see before me?’",
+              "world_new": [
+                "dagger",
+                "I",
+                "see"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "định giá",
+          "definition": "to name (a price)",
+          "world_new": [
+            "name"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The plumber quoted us a ridiculous price to fix the boiler.",
+              "world_new": [
+                "plumber",
+                "ridiculous",
+                "price",
+                "fix",
+                "boiler"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "nêu ra để hỗ trợ cho một câu hỏi",
+          "definition": "to mention or state in support of an argument",
+          "world_new": [
+            "mention",
+            "state",
+            "support",
+            "argument"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "to quote an example.",
+              "world_new": [
+                "example"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "quotation",
+    "quotation marks"
+  ],
+  "list_browse": [
+    "quorum",
+    "quota",
+    "quotation",
+    "quotation marks",
+    "quote",
+    "quotient",
+    "R",
+    "rabbi",
+    "rabbit"
+  ]
+}

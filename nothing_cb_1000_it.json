@@ -1,0 +1,93 @@
+{
+  "english": "nothing",
+  "phat_am": "ˈnaθiŋ",
+  "list_english": [
+    {
+      "type_word": "pronoun",
+      "list_definition": [
+        {
+          "mean_english": "không có gì",
+          "definition": "no thing; not anything",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "There was nothing in the cupboard",
+              "world_new": [
+                "cupboard"
+              ]
+            },
+            {
+              "ex_of_definition": "I have nothing new to say.",
+              "world_new": [
+                "I"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "số không",
+          "definition": "the number 0; nought",
+          "world_new": [
+            "number",
+            "nought"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The final score was five – nothing (= 5 – 0).",
+              "world_new": [
+                "final",
+                "score"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "adverb",
+      "list_definition": [
+        {
+          "mean_english": "không có gì",
+          "definition": "not at all",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He’s nothing like his father.",
+              "world_new": [
+                "father"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "nothingness",
+    "come to nothing",
+    "for nothing",
+    "have nothing to do with",
+    "make nothing of",
+    "mean nothing to",
+    "next to nothing",
+    "nothing but",
+    "nothing doing!",
+    "there is nothing to it",
+    "",
+    ""
+  ],
+  "list_browse": [
+    "notepad",
+    "notepaper",
+    "noteworthiness",
+    "noteworthy",
+    "nothing",
+    "nothing / not much to choose between",
+    "nothing but",
+    "nothing doing!",
+    "nothing is sacred (to him/them etc)"
+  ]
+}

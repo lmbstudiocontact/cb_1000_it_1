@@ -1,0 +1,71 @@
+{
+  "english": "manifest",
+  "phat_am": "ˈmӕnifest",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "biểu lộ",
+          "definition": "to show (clearly)",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The illness can manifest itself in various different ways.",
+              "world_new": [
+                "illness",
+                "various"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "rõ ràng",
+          "definition": "easily seen by the eye or understood by the mind; obvious",
+          "world_new": [
+            "easily",
+            "eye",
+            "obvious"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "manifest stupidity.",
+              "world_new": [
+                "stupidity"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Furthermore, children manifested a marked increase in pretend-play with toy objects that were replicas of real objects specifically designed to stand for other objects.",
+    "This article argues that the ' ghost ' first manifested itself almost immediately after the alliance's death.",
+    "And this is because the community manifests equal concern, and the rule is integral in defining rights and roles in the community.",
+    "Frailty manifests the following core clinical features: loss of strength, weight loss, low levels of activity, poor endurance or fatigue, and slowed performance.",
+    "The essays are all admirably clear, with copious footnotes which manifest a wide range of relevant reading.",
+    "It is perhaps less clear how the effect of task difficulty manifests itself in test scores.",
+    "The invasion has manifested itself at three different levels.",
+    "The oath protects the neighbour, makes the truth manifest, and brings innocence to light."
+  ],
+  "list_see_also": [
+    "manifestly",
+    "manifestation"
+  ],
+  "list_browse": [
+    "maniac",
+    "manic",
+    "manicure",
+    "manicurist",
+    "manifest",
+    "manifestation",
+    "manifestly",
+    "manifesto",
+    "manipulate"
+  ]
+}

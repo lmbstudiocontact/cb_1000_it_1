@@ -1,0 +1,52 @@
+{
+  "english": "noisy",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "ồn ào",
+          "definition": "making a loud noise",
+          "world_new": [
+            "loud",
+            "noise"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "noisy children"
+            },
+            {
+              "ex_of_definition": "a noisy engine.",
+              "world_new": [
+                "engine"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The bites are painful, but rare, owing to the noisy habits of the insect.",
+    "The addition of foreign voices to the ongoing noisy conversation among different political commentators enhances the boisterous, 'temple fair' atmosphere.",
+    "The covariance propagation in ref. [71] is based on the concatenation of a finite number of noisy motions.",
+    "Which customer did the mechanic fix the really noisy motorbike for two weeks ago?",
+    "Also, these experimental results show that the proposed algorithm works effectively in noisy images too.",
+    "Shipping in aggregate is expensive and inconvenient; however, onsite quarrying and crushing is noisy, produces dust and creates a permanent scar on the landscape.",
+    "Unfortunately, the measured force signal is very noisy and derivatives of such signal cannot be used in the real-time control applications.",
+    "Since the signal from the three-axis compass is noisy, an average of the measured data is used."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "noise",
+    "noiseless",
+    "noiselessly",
+    "noisily",
+    "noisy",
+    "nomad",
+    "nomadic",
+    "nomadically",
+    "nominal"
+  ]
+}

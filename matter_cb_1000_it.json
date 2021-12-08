@@ -1,0 +1,122 @@
+{
+  "english": "matter",
+  "phat_am": "ˈmӕtə",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "chất; vật chất",
+          "definition": "solids, liquids and/or gases in any form, from which everything physical is made",
+          "world_new": [
+            "form",
+            "physical"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The entire universe is made up of different kinds of matter.",
+              "world_new": [
+                "entire",
+                "universe"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "chủ đề",
+          "definition": "a subject or topic (of discussion etc)",
+          "world_new": [
+            "subject",
+            "topic",
+            "discussion"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a private matter",
+              "world_new": [
+                "private"
+              ]
+            },
+            {
+              "ex_of_definition": "money matters.",
+              "world_new": [
+                "money"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "mủ",
+          "definition": "pus",
+          "world_new": [
+            "pus"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The wound was infected and full of matter.",
+              "world_new": [
+                "wound",
+                "infected",
+                "full"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "có ý nghĩa quan trọng",
+          "definition": "to be important",
+          "world_new": [
+            "important"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "That car matters a great deal to him",
+              "world_new": [
+                "car",
+                "great",
+                "deal"
+              ]
+            },
+            {
+              "ex_of_definition": "It doesn’t matter."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Most of what matters are relations of degree.",
+    "Such a status exempts citizens from the law of the land in matters that are of the greatest importance to them (typically, participation in combat).",
+    "The medical colleges and hospitals were rigidly controlled by the funding agency (state government or municipal corporation), which had the final say in all matters.",
+    "All matters were discussed in public, from education, diet and dress to love marriages, divorce and sources of women's inferiority.",
+    "Twelve thought this mattered and twelve did not.",
+    "There are scientific and secular frameworks within which to understand these matters.",
+    "In the directly occupied northern zone maintaining sovereignty in policing matters took on a different and much more negative form.",
+    "However, they introduced a new conceptual framework which was henceforth referred to on all matters of authority and identity at the settlement level."
+  ],
+  "list_see_also": [
+    "matter-of-fact",
+    "be the matter",
+    "a matter of course",
+    "a matter of opinion",
+    "no matter",
+    "no matter who/what/where etc"
+  ],
+  "list_browse": [
+    "matrimony",
+    "matron",
+    "matronly",
+    "matted",
+    "matter",
+    "matter-of-fact",
+    "matting",
+    "mattress",
+    "mature"
+  ]
+}

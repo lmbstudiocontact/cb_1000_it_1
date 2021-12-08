@@ -1,0 +1,53 @@
+{
+  "english": "populate",
+  "phat_am": "ˈpopjuleit",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "đến định cư",
+          "definition": "to fill with people",
+          "world_new": [
+            "fill",
+            "people"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "That part of the world used to be populated by wandering tribes.",
+              "world_new": [
+                "part",
+                "world"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Moving kilns away from densely populated residential neighborhoods is frequently advocated as a means of reducing exposure to kiln emissions.",
+    "Why this fer tile area appears to have been so lightly populated in the prehistoric past is not known.",
+    "The region is mountainous, with large wooded and un populated areas.",
+    "Consider a persistent multi-agent system, where new agents enter a world already populated with experienced agents.",
+    "The producibility is checked using a \"just-press-the-button\" method in which the database is automatically queried, the tolerances evaluated, and 0 or variation models populated.",
+    "The different categories are unevenly populated, ranging from a couple of hundreds for geographical areas to four thousands for company names.",
+    "Thereafter, exhibit authoring is concerned with populating the database with more entities.",
+    "In the 1960s, a single field, cybernetics, was populated by information theorists, computer scientists, and neuroscientists, all studying common problems."
+  ],
+  "list_see_also": [
+    "population",
+    "populous"
+  ],
+  "list_browse": [
+    "popular",
+    "popularity",
+    "popularize",
+    "popularly",
+    "populate",
+    "population",
+    "populous",
+    "porcelain",
+    "porch"
+  ]
+}

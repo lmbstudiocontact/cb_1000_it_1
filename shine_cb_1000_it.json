@@ -1,0 +1,158 @@
+{
+  "english": "shine",
+  "phat_am": "ʃain",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "chiếu sáng",
+          "definition": "to (cause to) give out light; to direct such light towards someone or something",
+          "world_new": [
+            "direct",
+            "light"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The light shone from the window",
+              "world_new": [
+                "light",
+                "window"
+              ]
+            },
+            {
+              "ex_of_definition": "The policeman shone his torch",
+              "world_new": [
+                "policeman",
+                "torch"
+              ]
+            },
+            {
+              "ex_of_definition": "He shone a torch on the body.",
+              "world_new": [
+                "torch",
+                "body"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sáng, bóng",
+          "definition": "to be bright",
+          "world_new": [
+            "bright"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She polished the silver till it shone.",
+              "world_new": [
+                "polished",
+                "silver"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đánh bóng",
+          "definition": "(past tense, past participle shined) to polish",
+          "world_new": [
+            "polish"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He tries to make a living by shining shoes.",
+              "world_new": [
+                "living",
+                "shining"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "giỏi, trội",
+          "definition": "(often with at) to be very good (at something)",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He shines at games",
+              "world_new": [
+                "games"
+              ]
+            },
+            {
+              "ex_of_definition": "You really shone in yesterday’s match.",
+              "world_new": [
+                "match"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "độ sáng",
+          "definition": "brightness; the state of being well polished",
+          "world_new": [
+            "state",
+            "polished"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He likes a good shine on his shoes"
+            },
+            {
+              "ex_of_definition": "a ray of sunshine.",
+              "world_new": [
+                "ray",
+                "sunshine"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sự đánh bóng",
+          "definition": "an act of polishing",
+          "world_new": [
+            "act"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I’ll just give my shoes a shine.",
+              "world_new": [
+                "my"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "With the sun shining and with time off, that is lovely.",
+    "The quality of academic knowledge shines through from the wide array of academic contributors.",
+    "She was a shining example of a person who lived by the possibly outmoded work ethic.",
+    "She has arrived like a knight in shining armour at the eleventh hour, and she should be congratulated for that.",
+    "The first two derive from the sun, which shines on every roof in every town.",
+    "Good teachers with small classes in our schools are better than bad teachers with large classes in nice, new, shining schools.",
+    "If we were to emulate that shining example of fairness, that £500 million in 1976 would today require us to deny those people £925 million—nearly £1 billion.",
+    "The sun shines, and the sky is blue."
+  ],
+  "list_see_also": [
+    "shining",
+    "shiny",
+    "shininess"
+  ],
+  "list_browse": [
+    "shifty",
+    "shilling",
+    "shimmer",
+    "shin",
+    "shine",
+    "shingle",
+    "shingles",
+    "shininess",
+    "shining"
+  ]
+}

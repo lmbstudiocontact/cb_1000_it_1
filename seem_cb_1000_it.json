@@ -1,0 +1,67 @@
+{
+  "english": "seem",
+  "phat_am": "siːm",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "dường như",
+          "definition": "to have the appearance or give the impression of being or doing",
+          "world_new": [
+            "appearance",
+            "impression"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "A thin person always seems (to be) taller than he really is",
+              "world_new": [
+                "thin",
+                "person"
+              ]
+            },
+            {
+              "ex_of_definition": "She seems kind",
+              "world_new": [
+                "kind"
+              ]
+            },
+            {
+              "ex_of_definition": "He seemed to hesitate for a minute.",
+              "world_new": [
+                "hesitate",
+                "minute"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "It seems that the instantiation of the primary entities is not a random process.",
+    "Singing seemed to influence their psychological well-being and mental states significantly.",
+    "It tells us what events around us seem to be attributable to our authorship.",
+    "In fact, it seems likely that removing any edge from a graph should decrease this average, or at least not increase it.",
+    "One patient was refused because the fact that she already had a 4-month baby did not by itself seem a sufficiently strong indication.",
+    "And the variety produced is of a richness that seems to belie the smooth, unobtrusive functioning of the instrument.",
+    "The full patent does not seem to have survived.",
+    "For genes that are evolutionarily more conserved, the use of the rice genome seems to be more promising."
+  ],
+  "list_see_also": [
+    "seeming",
+    "seemingly",
+    "seemly"
+  ],
+  "list_browse": [
+    "seedy",
+    "Seeing Eye Dog",
+    "seeing that",
+    "seek",
+    "seem",
+    "seeming",
+    "seemingly",
+    "seemly",
+    "seep"
+  ]
+}

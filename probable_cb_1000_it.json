@@ -1,0 +1,60 @@
+{
+  "english": "probable",
+  "phat_am": "ˈprobəbl",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "có thể",
+          "definition": "that may be expected to happen or be true; likely",
+          "world_new": [
+            "happen",
+            "likely"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the probable result",
+              "world_new": [
+                "result"
+              ]
+            },
+            {
+              "ex_of_definition": "Such an outcome is possible, but not probable.",
+              "world_new": [
+                "outcome",
+                "possible"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "However, it is probable that these volumes are unrealistic in routine clinical practice with a mix of patient acuities.",
+    "We thus do not see, how a \"probable diversity\" of the subjects could be responsible for our results.",
+    "The probable type of receptor present was inferred based upon differential relative affinities of the drug for each of the receptor subtypes.",
+    "Finally, practical discussion on the teaching of specific spoken genres is reviewed and probable future directions are discussed.",
+    "This cutoff was therefore used to identify probable depression in the current study.",
+    "But the results obtained here concerning the non-uniqueness and hysteresis indicate a probable mechanism for the sudden appearance and disappearance of strong localized atmospheric vortices.",
+    "It is also possible that septic or sewage treatment systems are probable environmental sources of giardia cyst contamination.",
+    "It is probable that their influences on domestic group decisions grew increasingly weaker in some places, but not in others."
+  ],
+  "list_see_also": [
+    "probably",
+    "probability",
+    "in all probability"
+  ],
+  "list_browse": [
+    "privy",
+    "prize",
+    "pro-",
+    "probability",
+    "probable",
+    "probably",
+    "probation",
+    "probation officer",
+    "probationary"
+  ]
+}

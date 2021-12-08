@@ -1,0 +1,61 @@
+{
+  "english": "threaten",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "đe dọa",
+          "definition": "to make or be a threat (to)",
+          "world_new": [
+            "threat"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She threatened to kill herself",
+              "world_new": [
+                "kill"
+              ]
+            },
+            {
+              "ex_of_definition": "He threatened me with violence / with a gun",
+              "world_new": [
+                "violence",
+                "gun"
+              ]
+            },
+            {
+              "ex_of_definition": "A storm is threatening.",
+              "world_new": [
+                "storm"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "However, this objection proves too much, since, given the sea of injustices that has characterized human history, this threatens to undermine almost all current ownership.",
+    "When she 'heard' her thoughts, she was frightened, felt out of control and her idyllic child-like environment threatened.",
+    "In concert, they besieged the municipal offices to demand reimbursement in cash and threatened to withdraw their labour if this was not conceded.",
+    "Moreover, they threatened to excommunicate anybody who disagreed with them.",
+    "At times, legal services workers have been threatened with charges of trespass.",
+    "Whether an innovation is adopted can depend on whether a specialism can use it without threatening dominant interests in the occupation.",
+    "We were threatening to take the bread away, and so, we felt that we had to give a \"laborious\" proof to persuade them.",
+    "As these threatening practices accumulate, they make it more likely that eventually a crisis or militarized dispute will occur that escalates to war."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "thrashing",
+    "thread",
+    "threadbare",
+    "threat",
+    "threaten",
+    "three",
+    "three-dimensional",
+    "three-quarter",
+    "three-year-old"
+  ]
+}

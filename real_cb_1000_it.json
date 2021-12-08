@@ -1,0 +1,127 @@
+{
+  "english": "real",
+  "phat_am": "riəl",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "thực sự",
+          "definition": "which actually exists",
+          "world_new": [
+            "actually"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "They say that there’s a real monster in that cave.",
+              "world_new": [
+                "monster",
+                "cave"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "thật",
+          "definition": "not imitation; genuine",
+          "world_new": [
+            "genuine"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "real leather",
+              "world_new": [
+                "leather"
+              ]
+            },
+            {
+              "ex_of_definition": "Is that diamond real?",
+              "world_new": [
+                "diamond"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "thực tế",
+          "definition": "actual",
+          "world_new": [
+            "actual"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He may own the factory, but it’s his manager who is the real boss.",
+              "world_new": [
+                "factory",
+                "manager",
+                "boss"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "lớn",
+          "definition": "great",
+          "world_new": [
+            "great"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a real surprise/problem."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "adverb",
+      "list_definition": [
+        {
+          "mean_english": "thực sự",
+          "definition": "very; really",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a real nice house.",
+              "world_new": [
+                "nice",
+                "house"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The order will be induced by the standard ordering of the reals.",
+    "Instead, we use the notion of integration, denoting a choice over a subset of the time domain of the non-negative reals.",
+    "Finally, let us consider what happens when we move up to the reals.",
+    "By the middle of this decade, the price jumps to 11.5 reales, and remains there until 1780, when the price of maize jumps again to reach 12.5 reales.",
+    "They enable scientists to be open to real-world influences' (161).",
+    "The distribution is again right skewed with the mean at 302 and the median at only 162 in 1992, expressed in 1994 monthly reals.",
+    "Interval constraint solving over reals has a number of subtleties which can trip up naive users and these are well explored.",
+    "In our work, cohomologous orderings will play much the same role that the rationals play in defining the reals."
+  ],
+  "list_see_also": [
+    "realist",
+    "realism",
+    "realistic",
+    "realistically",
+    "reality",
+    "really",
+    "real estate",
+    "for real",
+    "in reality"
+  ],
+  "list_browse": [
+    "ready cash",
+    "ready money",
+    "ready-made",
+    "ready-to-wear",
+    "real",
+    "real estate",
+    "realism",
+    "realist",
+    "realistic"
+  ]
+}

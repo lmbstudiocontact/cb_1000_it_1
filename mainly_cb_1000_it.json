@@ -1,0 +1,51 @@
+{
+  "english": "mainly",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "adverb",
+      "list_definition": [
+        {
+          "mean_english": "chủ yếu; phần lớn",
+          "definition": "more (of) the thing mentioned than anything else; mostly or largely",
+          "world_new": [
+            "mostly",
+            "largely"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "This skirt is mainly dark grey.",
+              "world_new": [
+                "skirt",
+                "dark",
+                "grey"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The differences in survival were mainly due to risk factors which developed in the early stage of disease.",
+    "It gives insight into the format of experts' knowledge structures; experts turn out to use mainly frame representations.",
+    "The forests are mainly used for extracting reed - a material used both by traditional artisans and the paper-pulp industry.",
+    "Costs are made during transitions (mainly the fitting of hearing aids).",
+    "Sensitivity analysis showed that the value of prevalence was sensitive mainly to variations in vaccination and screening costs.",
+    "As a supplementary policy, the government permitted pricing based on costs for new health services, mainly high-technology services.",
+    "Indications for surgery were considered appropriate in 59% of cases, uncertain in 32%, and inappropriate in 8%, mainly in the osteoarthritis group.",
+    "We refer mainly to vowels in monosyllabic words but extend the discussion to disyllabic words later on."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "main",
+    "main line",
+    "mainframe",
+    "mainland",
+    "mainly",
+    "mainspring",
+    "mainstream",
+    "maintain",
+    "maintenance"
+  ]
+}

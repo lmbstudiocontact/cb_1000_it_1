@@ -1,0 +1,67 @@
+{
+  "english": "straightforward",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "không phức tạp, không khó khăn",
+          "definition": "without difficulties or complications; simple",
+          "world_new": [
+            "simple"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a straightforward task.",
+              "world_new": [
+                "task"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "thẳng thắn, minh bạch",
+          "definition": "(of a person, his manner etc) frank and honest",
+          "world_new": [
+            "person",
+            "manner",
+            "frank",
+            "honest"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a nice straightforward boy.",
+              "world_new": [
+                "nice",
+                "boy"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Using this principle would result in treatment of comparatively fewer patients than using a straightforward utilitarian principle.",
+    "The gender differences are fairly modest, particularly among non-married older people, for whom the interpretation is most straightforward.",
+    "The common wisdom is straightforward: children are more able to learn another language than adults are.",
+    "The analysis is based on a straightforward perturbation about uniform flow of unit dimensionless speed along the x-axis.",
+    "Differences in acculturation and socioeconomic status produced high levels of intragroup variability that hindered a straightforward application of the categorical approach.",
+    "After all, the extrapolation of general features from specific instances is not a straightforward exercise.",
+    "Moreover, there are other generalizations to be made which a syntactic analysis has no straightforward way to capture.",
+    "There is a fairly straightforward answer to this question, which is intimately tied to their concept of iteration."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "(straight) from the horse’s mouth",
+    "straighten",
+    "straighten out",
+    "straighten up",
+    "straightforward",
+    "straightforwardly",
+    "straightforwardness",
+    "straightness",
+    "strain"
+  ]
+}

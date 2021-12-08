@@ -1,0 +1,97 @@
+{
+  "english": "realize",
+  "phat_am": "ˈriəlaiz",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "nhận ra",
+          "definition": "to know; to understand",
+          "world_new": [
+            "understand"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I realize that I can’t have everything I want",
+              "world_new": [
+                "I",
+                "I",
+                "I",
+                "want"
+              ]
+            },
+            {
+              "ex_of_definition": "I realized my mistake.",
+              "world_new": [
+                "I",
+                "my",
+                "mistake"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "thực hiện",
+          "definition": "to make real; to make (something) come true",
+          "world_new": [
+            "true"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He realized his ambition to become an astronaut",
+              "world_new": [
+                "ambition",
+                "become",
+                "astronaut"
+              ]
+            },
+            {
+              "ex_of_definition": "My worst fears were realized.",
+              "world_new": [
+                "worst"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "kiếm được",
+          "definition": "to make (money) by selling something",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He realized $60,000 on the sale of his apartment.",
+              "world_new": [
+                "sale",
+                "apartment"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "At the same time, astrophysically relevant experiments and equation of state experiments in the multimegabar regime have been realized, helping our comprehension of the universe.",
+    "In fact, it is difficult to run one's eye over these listings without realizing - and regretting - how seldom they have been put to use.",
+    "Rehabilitation is about realizing potential, with both a positive attitude and a broad-brush approach.",
+    "Still, it has to be realized that in allopolyploid species and species with a polyploid origin, homeology across the genome may impede such conclusions.",
+    "If we are committed to realizing designs as physical artifacts, then ultimately we are committed to their intentionality.",
+    "However, they do not internalize the welfare gains associated with the reform, given the time those take to be realized.",
+    "I described the forms in (20b) as showing the second person suffix realized as /st/.",
+    "The challenge here is rather small, and trivial for any theory of grammar which allows one word to be realized in more than one way."
+  ],
+  "list_see_also": [
+    "realization"
+  ],
+  "list_browse": [
+    "realistic",
+    "realistically",
+    "reality",
+    "realization",
+    "realize",
+    "really",
+    "realm",
+    "realtor",
+    "ream"
+  ]
+}

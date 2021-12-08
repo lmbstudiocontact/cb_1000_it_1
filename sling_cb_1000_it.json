@@ -1,0 +1,113 @@
+{
+  "english": "sling",
+  "phat_am": "sliŋ",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "băng đeo",
+          "definition": "a type of bandage hanging from the neck or shoulders to support an injured arm",
+          "world_new": [
+            "type",
+            "bandage",
+            "hanging",
+            "neck",
+            "support",
+            "injured",
+            "arm"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He had his broken arm in a sling.",
+              "world_new": [
+                "broken",
+                "arm"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "dây đeo súng",
+          "definition": "a band of cloth etc worn over the shoulder for supporting a rifle etc on the back.",
+          "world_new": [
+            "band",
+            "cloth",
+            "worn",
+            "shoulder",
+            "supporting",
+            "rifle"
+          ]
+        },
+        {
+          "mean_english": "dây quàng, dây đeo",
+          "definition": "a looped arrangement of ropes, chains etc for supporting, hoisting, carrying and lowering heavy objects.",
+          "world_new": [
+            "arrangement",
+            "supporting",
+            "lowering",
+            "heavy"
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "quăng, ném mạnh",
+          "definition": "to throw violently",
+          "world_new": [
+            "throw",
+            "violently"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The boy slung a stone at the dog.",
+              "world_new": [
+                "boy",
+                "stone",
+                "dog"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đeo, treo, móc",
+          "definition": "to support, hang or swing by means of a strap, sling etc",
+          "world_new": [
+            "support",
+            "hang",
+            "swing",
+            "means",
+            "strap"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He had a camera and binoculars slung round his neck.",
+              "world_new": [
+                "camera",
+                "binoculars",
+                "neck"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "slingshot"
+  ],
+  "list_browse": [
+    "sliminess",
+    "slimming",
+    "slimness",
+    "slimy",
+    "sling",
+    "slingshot",
+    "slink",
+    "slip",
+    "slip into"
+  ]
+}

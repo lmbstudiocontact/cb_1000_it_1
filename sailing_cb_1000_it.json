@@ -1,0 +1,55 @@
+{
+  "english": "sailing",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự đi thuyền",
+          "definition": "the activity or sport of navigating a ship or boat that has sails",
+          "world_new": [
+            "activity",
+            "sport",
+            "ship",
+            "boat"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Sailing is one of his hobbies."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "prefix",
+      "list_definition": [
+        {
+          "mean_english": "thuyền buồm",
+          "definition": "having a sail or sails",
+          "world_new": [
+            "sail"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "sailing-boat."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "sago",
+    "sail",
+    "sailboard",
+    "sailboat",
+    "sailing",
+    "sailor",
+    "saint",
+    "saintliness",
+    "saintly"
+  ]
+}

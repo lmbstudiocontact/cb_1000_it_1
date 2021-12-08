@@ -1,0 +1,91 @@
+{
+  "english": "represent",
+  "phat_am": "reprəˈzent",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "đại diện",
+          "definition": "to speak or act on behalf of",
+          "world_new": [
+            "speak",
+            "act",
+            "behalf"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "You have been chosen to represent our association at the conference.",
+              "world_new": [
+                "our",
+                "association",
+                "conference"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tượng trưng",
+          "definition": "to be a sign, symbol, picture etc of",
+          "world_new": [
+            "sign",
+            "symbol",
+            "picture"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "In this play, the man in black represents Death and the young girl Life.",
+              "world_new": [
+                "play",
+                "black",
+                "young",
+                "girl"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "thể hiện",
+          "definition": "to be a good example of; to show or illustrate",
+          "world_new": [
+            "example",
+            "illustrate"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "What he said represents the feelings of many people.",
+              "world_new": [
+                "people"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "We will now define a function/, which represents such a multiplexing processor.",
+    "Each point represents the mean values of these 2 variables measured on 2 large hooks from each of 10 protoscoleces from a single isolate.",
+    "In addition, the dielectric constant in the pore region should be set to 1 where the water molecules are represented explicitly (but see discussion below).",
+    "Moreover, each design module can be represented at three levels of hierarchy.",
+    "The black circle represents an area of fibrinolysis developed by the egg extract after incubation.",
+    "The inclusion of the terms representing associations allows for the infection with multiple species to be non-independent.",
+    "The policy network representing the interests of the mainland heavy industry (most importantly the metallurgical industry) comes very close to the ideal type policy community.",
+    "The first loop is based on a pole placement scheme, the second loop represents a simple integral action."
+  ],
+  "list_see_also": [
+    "representation",
+    "representative"
+  ],
+  "list_browse": [
+    "reporter",
+    "repose",
+    "reprehensible",
+    "reprehensibly",
+    "represent",
+    "representation",
+    "representative",
+    "repress",
+    "repression"
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "english": "shall",
+  "phat_am": "ʃəl",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "chỉ các dự đoán trong tương lai",
+          "definition": "used to form future tenses of other verbs when the subject is I or we",
+          "world_new": [
+            "form",
+            "future",
+            "subject"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We shall be leaving tomorrow",
+              "world_new": [
+                "tomorrow"
+              ]
+            },
+            {
+              "ex_of_definition": "I shall have arrived by this time tomorrow.",
+              "world_new": [
+                "I",
+                "time",
+                "tomorrow"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "chỉ sự ý chí, chỉ sự quyết tâm",
+          "definition": "used to show the speaker’s intention",
+          "world_new": [
+            "intention"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I shan’t be late tonight.",
+              "world_new": [
+                "I",
+                "tonight"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đề nghị, gợi ý",
+          "definition": "used in questions, the answer to which requires a decision",
+          "world_new": [
+            "answer",
+            "decision"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Shall I tell him, or shan’t I?",
+              "world_new": [
+                "I",
+                "tell",
+                "I"
+              ]
+            },
+            {
+              "ex_of_definition": "Shall we go now?"
+            }
+          ]
+        },
+        {
+          "mean_english": "chỉ mệnh lệnh hoặc lời hướng dẫn",
+          "definition": "used as a form of command",
+          "world_new": [
+            "form",
+            "command"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "You shall go if I say you must.",
+              "world_new": [
+                "I"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "shakiness",
+    "shaking",
+    "shaky",
+    "shale",
+    "shall",
+    "shallow",
+    "shallowness",
+    "shallows",
+    "sham"
+  ]
+}

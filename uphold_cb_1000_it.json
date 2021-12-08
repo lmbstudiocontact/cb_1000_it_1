@@ -1,0 +1,86 @@
+{
+  "english": "uphold",
+  "phat_am": "apˈhəuld",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "ủng hộ, tán thành",
+          "definition": "to support (a person’s action)",
+          "world_new": [
+            "support"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "His family upholds (him in) his present action.",
+              "world_new": [
+                "family",
+                "present",
+                "action"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "xác nhận, phê chuẩn",
+          "definition": "to confirm (eg a claim, legal judgement etc)",
+          "world_new": [
+            "confirm",
+            "claim",
+            "legal",
+            "judgement"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The decision of the judge was upheld by the court.",
+              "world_new": [
+                "decision",
+                "judge",
+                "court"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "duy trì, giữ gìn",
+          "definition": "to maintain (eg a custom)",
+          "world_new": [
+            "maintain"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The old traditions are still upheld in this village.",
+              "world_new": [
+                "old",
+                "village"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "When it could not, the existence of property that was the subject of the suit was invoked to uphold the claims of temple dancing girls.",
+    "In many cases, the commitment to upholding the value of equal membership may be invoked to explain the diversity of need-oriented distributive arrangements.",
+    "This creates a duty to train professionals who understand and uphold the duty to regulate their colleagues internally.",
+    "Reciprocity was sustained both immediately and over time, and may be interpreted as a means of upholding dignity in a dependent situation.",
+    "There was also a general concern that subscribers should uphold the good name of the organization through their wider deportment on the urban stage.",
+    "The disparity produces cognitive dissonance, particularly among younger adults who are the most likely to uphold the ideal notions of elder care.",
+    "The state court had upheld the livestock classification on the grounds that it was well-known that sheep, unlike cattle, damaged pasture land.",
+    "Timing may vary dramatically between performers or stylistic schools, depending on the aesthetics upheld by the guru."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "update",
+    "upgrade",
+    "upheaval",
+    "uphill",
+    "uphold",
+    "upholster",
+    "upholstered",
+    "upholsterer",
+    "upholstery"
+  ]
+}

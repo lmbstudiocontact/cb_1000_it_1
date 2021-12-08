@@ -1,0 +1,88 @@
+{
+  "english": "shop",
+  "phat_am": "ʃop",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cửa hàng",
+          "definition": "a place where goods are sold",
+          "world_new": [
+            "place",
+            "goods"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a baker’s shop."
+            }
+          ]
+        },
+        {
+          "mean_english": "phân xưởng",
+          "definition": "a workshop, or a place where any kind of industry is carried on",
+          "world_new": [
+            "workshop",
+            "place",
+            "kind",
+            "industry"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a machine-shop."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "đi mua hàng ở chợ",
+          "definition": "(often go shopping) to visit shops for the purpose of buying",
+          "world_new": [
+            "visit",
+            "purpose"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We shop on Saturdays"
+            },
+            {
+              "ex_of_definition": "She goes shopping once a week.",
+              "world_new": [
+                "shopping",
+                "once",
+                "week"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "shopper",
+    "shopping",
+    "shop assistant",
+    "shop floor",
+    "shopkeeper",
+    "shoplifter",
+    "shoplifting",
+    "shopping centre",
+    "shopping mall",
+    "shop around"
+  ],
+  "list_browse": [
+    "shoot down",
+    "shoot rapids",
+    "shoot system",
+    "shoot up",
+    "shop",
+    "shop around",
+    "shop assistant",
+    "shop floor",
+    "shopkeeper"
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "english": "phrase",
+  "phat_am": "freiz",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cụm từ",
+          "definition": "a small group of words (usually without a finite verb) which forms part of an actual or implied sentence",
+          "world_new": [
+            "small",
+            "group",
+            "finite",
+            "part",
+            "actual",
+            "sentence"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a noun phrase.",
+              "world_new": [
+                "noun"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đoản khúc",
+          "definition": "a small group of musical notes which follow each other to make a definite individual section of a melody",
+          "world_new": [
+            "small",
+            "group",
+            "musical",
+            "follow",
+            "definite",
+            "individual",
+            "section",
+            "melody"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the opening phrase of the overture.",
+              "world_new": [
+                "opening",
+                "overture"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "diễn đạt",
+          "definition": "to express (something) in words",
+          "world_new": [
+            "express"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I phrased my explanations in simple language.",
+              "world_new": [
+                "I",
+                "my",
+                "simple",
+                "language"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "In the discussion which follows, we will use the phrase ' depends on ' in a technical sense.",
+    "When a word or phrase is placed in inverted commas, it allows us a provisional use of it.",
+    "It might be objected that a phrase requiring, for example, \"reasonable scientific foundation\" of a suspicion to trigger precautionary measures is not very precise.",
+    "After three or four repetitions, children understood the desired pattern of responses and phrased their answers accordingly.",
+    "The first category comprised single phrase utterances, minimally containing a preposition and a noun.",
+    "Most of the recurring verbs (have, do, make) do not establish useful selectional preferences, and most of the noun phrases are actually semantically weak pronouns.",
+    "Although a low presence of cue phrases can lead to many undiscovered relations, they can serve as a reference for annotators.",
+    "Therefore, a noun phrase containing its head noun plus a postnominal genitive nominal in fact consisted of two noun phrases."
+  ],
+  "list_see_also": [
+    "phraseology",
+    "phrasing",
+    "phrasal verb"
+  ],
+  "list_browse": [
+    "phototropic",
+    "phototropism",
+    "photovoltaic",
+    "phrasal verb",
+    "phrase",
+    "phraseology",
+    "phrasing",
+    "physical",
+    "physical education"
+  ]
+}

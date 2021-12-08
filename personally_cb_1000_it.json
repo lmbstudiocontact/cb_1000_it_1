@@ -1,0 +1,52 @@
+{
+  "english": "personally",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "adverb",
+      "list_definition": [
+        {
+          "mean_english": "về phần tôi",
+          "definition": "in one’s own opinion",
+          "world_new": [
+            "opinion"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Personally, I prefer the other one.",
+              "world_new": [
+                "I",
+                "prefer"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "với tư cách cá nhân",
+          "definition": "doing something oneself, not having or letting someone else do it on one’s behalf",
+          "world_new": [
+            "else",
+            "behalf"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He thanked me personally."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "personal watercraft",
+    "personality",
+    "personalize",
+    "personalized",
+    "personally",
+    "personnel",
+    "perspective",
+    "perspiration",
+    "perspire"
+  ]
+}

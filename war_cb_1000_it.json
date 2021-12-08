@@ -1,0 +1,87 @@
+{
+  "english": "war",
+  "phat_am": "woː",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "chiến tranh",
+          "definition": "(an) armed struggle, especially between nations",
+          "world_new": [
+            "armed",
+            "struggle"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Their leader has declared war on Britain",
+              "world_new": [
+                "leader"
+              ]
+            },
+            {
+              "ex_of_definition": "The larger army will win the war",
+              "world_new": [
+                "army",
+                "win"
+              ]
+            },
+            {
+              "ex_of_definition": "the horrors of war"
+            },
+            {
+              "ex_of_definition": "(also adjective) He is guilty of war crimes.",
+              "world_new": [
+                "guilty"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "gây chiến",
+          "definition": "to fight",
+          "world_new": [
+            "fight"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The two countries have been warring with each other for generations."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "warlike",
+    "warrior",
+    "war correspondent",
+    "war cry",
+    "war dance",
+    "warfare",
+    "warhead",
+    "warhorse",
+    "warlord",
+    "warmonger",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "list_browse": [
+    "wanted",
+    "wanton",
+    "wantonly",
+    "wantonness",
+    "war",
+    "war correspondent",
+    "war cry",
+    "war dance",
+    "war of nerves"
+  ]
+}

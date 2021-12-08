@@ -1,0 +1,69 @@
+{
+  "english": "usual",
+  "phat_am": "ˈjuːʒuəl",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "thông thường",
+          "definition": "done, happening etc most often; customary",
+          "world_new": [
+            "happening",
+            "customary"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Are you going home by the usual route?",
+              "world_new": [
+                "home",
+                "route"
+              ]
+            },
+            {
+              "ex_of_definition": "There are more people here than usual",
+              "world_new": [
+                "people"
+              ]
+            },
+            {
+              "ex_of_definition": "Such behaviour is quite usual with children of that age",
+              "world_new": [
+                "behaviour",
+                "quite",
+                "age"
+              ]
+            },
+            {
+              "ex_of_definition": "As usual, he was late."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The notion of proof-net thus obtained is also proved to be stable with respect to the usual cut-elimination steps.",
+    "It includes both the usual -rules, where an introduction is followed by an elimination, and -rules, where an elimination is followed by an introduction.",
+    "This was the usual method of payment for artists.",
+    "As usual with generative probabilistic models, translation is performed by inverting the channel.",
+    "In both there was usual atrial arrangement with concordant atrioventricular and ventriculoarterial connections.",
+    "The calibration of two- or three-period overlapping generations economies is not very usual in the literature.",
+    "This form of ' differentiation ' would not be picked up using the usual sources of social history such as assessments of wealth or occupation.",
+    "The threshold model encourages an appreciation of the individualistic risk factors and the usual multiplicity of etiology, particularly in palliative care patients."
+  ],
+  "list_see_also": [
+    "usually"
+  ],
+  "list_browse": [
+    "user",
+    "user guide",
+    "user-friendly",
+    "usher",
+    "usual",
+    "usually",
+    "usurp",
+    "usurper",
+    "utensil"
+  ]
+}

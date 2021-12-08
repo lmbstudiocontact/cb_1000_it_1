@@ -1,0 +1,51 @@
+{
+  "english": "mislay",
+  "phat_am": "misˈlei",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "để thất lạc",
+          "definition": "to lose",
+          "world_new": [
+            "lose"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I seem to have mislaid my wallet.",
+              "world_new": [
+                "I",
+                "seem",
+                "my",
+                "wallet"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Unfortunately, these have been mislaid and the whole question deferred.",
+    "How can one mislay half a billion dollars?",
+    "It is not the general practice to give rewards for the return of documents mislaid.",
+    "The couple had, however, been returning early for repeat prescriptions and on two occasions had claimed that some of their tablets had been mislaid.",
+    "They are afraid they may get lost or mislaid.",
+    "This disability was compounded by the fact that hearing aids were not worn or were mislaid.",
+    "You are spending more money on keeping track of all this furniture than you could possibly lose if it were mislaid.",
+    "Results were often delayed or mislaid or fell foul of technical problems and tests would have to be repeated."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "misgiving",
+    "mishap",
+    "misinform",
+    "misjudge",
+    "mislay",
+    "mislead",
+    "misleading",
+    "misplace",
+    "misprint"
+  ]
+}

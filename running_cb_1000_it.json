@@ -1,0 +1,66 @@
+{
+  "english": "running",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "để chạy",
+          "definition": "of or for running",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "running shoes."
+            }
+          ]
+        },
+        {
+          "mean_english": "tiếp tục",
+          "definition": "continuous",
+          "world_new": [
+            "continuous"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a running commentary on the football match.",
+              "world_new": [
+                "commentary",
+                "football",
+                "match"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "adverb",
+      "list_definition": [
+        {
+          "mean_english": "nối tiếp",
+          "definition": "one after another; continuously",
+          "world_new": [
+            "continuously"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We travelled/traveled for four days running."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "runaway",
+    "rung",
+    "runner",
+    "runner-up",
+    "running",
+    "runny",
+    "runway",
+    "rupee",
+    "rupture"
+  ]
+}

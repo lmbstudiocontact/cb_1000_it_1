@@ -1,0 +1,195 @@
+{
+  "english": "there",
+  "phat_am": "ðeə",
+  "list_english": [
+    {
+      "type_word": "adverb",
+      "list_definition": [
+        {
+          "mean_english": "(dùng sau giới từ) đó, ở đó",
+          "definition": "(at, in, or to) that place",
+          "world_new": [
+            "place"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He lives there"
+            },
+            {
+              "ex_of_definition": "Don’t go there."
+            }
+          ]
+        },
+        {
+          "mean_english": "có",
+          "definition": "used to introduce sentences in which a state, fact etc is being announced",
+          "world_new": [
+            "introduce",
+            "state",
+            "fact"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "There has been an accident at the factory",
+              "world_new": [
+                "accident",
+                "factory"
+              ]
+            },
+            {
+              "ex_of_definition": "There seems to be something wrong",
+              "world_new": [
+                "wrong"
+              ]
+            },
+            {
+              "ex_of_definition": "I don’t want there to be any mistakes in this.",
+              "world_new": [
+                "I",
+                "want"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "ở điểm đó",
+          "definition": "at that time; at that point in a speech, argument etc",
+          "world_new": [
+            "point",
+            "speech",
+            "argument"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "There I cannot agree with you",
+              "world_new": [
+                "I",
+                "agree"
+              ]
+            },
+            {
+              "ex_of_definition": "Don’t stop there – tell me what happened next!",
+              "world_new": [
+                "stop",
+                "tell"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đây rồi (thu hút sự chú ý)",
+          "definition": "(with the subject of the sentence following the verb except when it is a pronoun) used at the beginning of a sentence, usually with be or go, to draw attention to, or point out, someone or something",
+          "world_new": [
+            "subject",
+            "sentence",
+            "following",
+            "verb",
+            "beginning",
+            "sentence",
+            "draw",
+            "attention",
+            "point"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "There she goes now! There it is!"
+            }
+          ]
+        },
+        {
+          "mean_english": "tại đó",
+          "definition": "used for emphasis or to point out someone or something",
+          "world_new": [
+            "emphasis",
+            "point"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "That book there is the one you need.",
+              "world_new": [
+                "book"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "interjection",
+      "list_definition": [
+        {
+          "mean_english": "dùng để dỗ dành",
+          "definition": "used to calm or comfort",
+          "world_new": [
+            "calm",
+            "comfort"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "There, now. Things aren’t as bad as they seem.",
+              "world_new": [
+                "bad",
+                "seem"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "thấy chưa (bày tỏ sự đắc thắng, sự phấn khích)",
+          "definition": "used when a person has been shown to be correct, when something bad happens, or when something has been completed",
+          "world_new": [
+            "person",
+            "correct",
+            "bad"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "There! I told you he would do it!",
+              "world_new": [
+                "I"
+              ]
+            },
+            {
+              "ex_of_definition": "There! That’s that job done",
+              "world_new": [
+                "job"
+              ]
+            },
+            {
+              "ex_of_definition": "There! I said you would hurt yourself!",
+              "world_new": [
+                "I",
+                "hurt"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "There's a lot to be said for the innocent ear.",
+    "Well, that is rather a romantic poem; there's even less reservation in that.",
+    "There's a question of how much market we can afford, without destroying the social ties that make the market possible.",
+    "There's a liturgical detachment from the three statements previous to it and the last one, and there's a subjectivity that fills the gap.",
+    "All of this makes me think that there's considerable scope for a third party services market around the whole people-search area.",
+    "There's that fear of losing your partner to a younger woman.",
+    "There's bound to be some conflicts, especially between me and the in-laws.",
+    "A lot of kids- when there's any bother they all start running."
+  ],
+  "list_see_also": [
+    "thereabouts",
+    "therefore"
+  ],
+  "list_browse": [
+    "theory",
+    "therapeutic",
+    "therapist",
+    "therapy",
+    "there",
+    "there is nothing to it",
+    "there’s no love lost between them",
+    "there’s no saying/knowing etc",
+    "there’s no telling"
+  ]
+}

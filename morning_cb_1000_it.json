@@ -1,0 +1,48 @@
+{
+  "english": "morning",
+  "phat_am": "ˈmoːniŋ",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "buổi sáng",
+          "definition": "the first part of the day, approximately up to noon",
+          "world_new": [
+            "part",
+            "day",
+            "approximately",
+            "noon"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "this morning"
+            },
+            {
+              "ex_of_definition": "tomorrow morning.",
+              "world_new": [
+                "tomorrow"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "morning-after pill",
+    "morning glory",
+    "morning dress"
+  ],
+  "list_browse": [
+    "more or less",
+    "moreover",
+    "morgue",
+    "morn",
+    "morning",
+    "morning dress",
+    "morning glory",
+    "morning-after pill",
+    "moron"
+  ]
+}

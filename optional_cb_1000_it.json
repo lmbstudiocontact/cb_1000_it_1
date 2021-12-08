@@ -1,0 +1,56 @@
+{
+  "english": "optional",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "tuỳ ý",
+          "definition": "a matter of choice",
+          "world_new": [
+            "matter",
+            "choice"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Music is optional at our school",
+              "world_new": [
+                "our",
+                "school"
+              ]
+            },
+            {
+              "ex_of_definition": "an optional subject.",
+              "world_new": [
+                "subject"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The final (optional) element of the sequence gives the values of the syntactic functions, adjuncts and specifiers (in any order, distinguished by their role names).",
+    "This was accomplished by defining optional matrix columns.",
+    "Up until 1945, the optional referendum represented an efficient veto point for groups opposing the welfare state to dilute state-interventionist social policies.",
+    "For these children, then, we have no reason to suspect that agreement was an optional element in the children's grammars.",
+    "In section 3.2, we develop an implementation for permutations without optional elements, and in section 3.3 extend this solution to cover optionality.",
+    "A postgraduate diploma option can be obtained after completion of the core and optional modules or a master's degree after an additional research project dissertation.",
+    "One-quarter of the states lacked any special program for the poor elderly, and some states with such programs made them county optional.",
+    "We show how to extend any existing parser combinator library with support for parsing permutations of typed, potentially optional elements."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "optimistically",
+    "optimize",
+    "optimum",
+    "option",
+    "optional",
+    "opulence",
+    "opulent",
+    "opulently",
+    "or"
+  ]
+}

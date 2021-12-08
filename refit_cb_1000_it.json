@@ -1,0 +1,49 @@
+{
+  "english": "refit",
+  "phat_am": "riːˈfit",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "sửa lại; trang bị lại",
+          "definition": "to repair or fit new parts to (a ship)",
+          "world_new": [
+            "repair",
+            "fit"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "They are refitting the liner.",
+              "world_new": [
+                "liner"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The set of six measurements were then repeated after the subject had been removed from the mask, allowed to walk around the room and then refitted into the same mask.",
+    "It is now common for archaeologists to refit cores by placing the flakes back together in a kind of three-dimensional jigsaw puzzle.",
+    "Finally, the material remains in at least several of the sites which are used as case-studies to test the 'ring and sector' method, have been the subject of refitting analysis.",
+    "Submarines in refit and not required for sea duty have a reduced ship's company fluctuation around a core of eight officers and 58 men.",
+    "If the model is not consistent with the data, it may be modified, refitted, and re-evaluated.",
+    "They are identical to those applied to all nuclear reactor systems towards the end of a refit where the submarine has been refuelled.",
+    "The whole model is then being refitted after removal of residual autocorrelation.",
+    "A backward deletion stage iteratively removes the basis functions that contribute least to model fit and is repeated, after refitting the model, until all terms have been removed."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "refine",
+    "refined",
+    "refinement",
+    "refinery",
+    "refit",
+    "reflect",
+    "reflecting",
+    "reflection",
+    "reflective"
+  ]
+}

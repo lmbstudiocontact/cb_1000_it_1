@@ -1,0 +1,51 @@
+{
+  "english": "misunderstand",
+  "phat_am": "misandəˈstӕnd",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "hiểu sai",
+          "definition": "to take a wrong meaning from",
+          "world_new": [
+            "wrong",
+            "meaning"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She misunderstood what I said.",
+              "world_new": [
+                "I"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "If he changed the discipline, it was because the discipline misunderstood him.",
+    "English drama had long been highly political, though the nature of its politicality has often been misunderstood or distorted.",
+    "In a design team, most conflicts occur due to misunderstanding of one's assessment of specifications and contexts.",
+    "The target article's criticisms of the latter model are founded on misunderstanding its application to natural language processing.",
+    "Even in cooperative settings without misunderstanding, alignment may be used strategically - language is used in the pursuit of individual goals.",
+    "As a result, linguists have been misunderstood in public debate, so that the level of public debate about language remains low.",
+    "In turn, the loss of documents leads to misunderstanding or oblivion.",
+    "There is scope for misunderstanding liable relatives rules within local authorities."
+  ],
+  "list_see_also": [
+    "misunderstanding"
+  ],
+  "list_browse": [
+    "mistrust",
+    "mistrustful",
+    "mistrustfully",
+    "misty",
+    "misunderstand",
+    "misunderstanding",
+    "misuse",
+    "mite",
+    "mitosis"
+  ]
+}

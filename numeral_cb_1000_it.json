@@ -1,0 +1,62 @@
+{
+  "english": "numeral",
+  "phat_am": "ˈnjuːmərəl",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "chữ số",
+          "definition": "a figure used to express a number",
+          "world_new": [
+            "figure",
+            "express",
+            "number"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "1, 10, 50 are Arabic numerals",
+              "world_new": [
+                "Arabic"
+              ]
+            },
+            {
+              "ex_of_definition": "I, X, L are Roman numerals.",
+              "world_new": [
+                "I",
+                "X",
+                "L",
+                "Roman"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Also, in the definitions, the different complements are marked with roman numerals.",
+    "For the plural, the exchange of grammatical information would have to be displayed through numerals and endings on the adjective.",
+    "Such unexpected forms of the ordinal numerals naturally arouse one's curiosity.",
+    "More novel are the applications to text 'preprocessing', in particular numeral expansion and word segmentation.",
+    "Turning now to the numerals, we find the same inflectional variation and the same lack of morpho-syntactic agreement.",
+    "Adjectives, pronouns, numerals, adverbs, verbs, and other classes do not.",
+    "The syntax-pragmatics interface accounts for the position of parenthetical what immediately preceding the numeral, thus restricting the linear order in the syntactic string.",
+    "Arabic numerals under certain notes of the chant segment signal pitches that find no correspondence in the tenor melody."
+  ],
+  "list_see_also": [
+    "numerical",
+    "numerically"
+  ],
+  "list_browse": [
+    "number-plate",
+    "numberless",
+    "numbly",
+    "numbness",
+    "numeral",
+    "numerate",
+    "numerator",
+    "numerical",
+    "numerically"
+  ]
+}

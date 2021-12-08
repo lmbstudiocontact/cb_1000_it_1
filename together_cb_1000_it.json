@@ -1,0 +1,78 @@
+{
+  "english": "together",
+  "phat_am": "təˈɡeðə",
+  "list_english": [
+    {
+      "type_word": "adverb",
+      "list_definition": [
+        {
+          "mean_english": "cùng",
+          "definition": "with someone or something else; in company",
+          "world_new": [
+            "company"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "They travelled together."
+            }
+          ]
+        },
+        {
+          "mean_english": "cùng lúc",
+          "definition": "at the same time",
+          "world_new": [
+            "time"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "They all arrived together."
+            }
+          ]
+        },
+        {
+          "mean_english": "ghép lại",
+          "definition": "so as to be joined or united",
+          "world_new": [
+            "united"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He nailed/fitted/stuck the pieces of wood together.",
+              "world_new": [
+                "wood"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "giống nhau",
+          "definition": "by action with one or more other people",
+          "world_new": [
+            "action",
+            "people"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Together we persuaded him."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "togetherness",
+    "together with"
+  ],
+  "list_browse": [
+    "toe the line",
+    "toenail",
+    "toffee",
+    "toga",
+    "together",
+    "together with",
+    "togetherness",
+    "toil",
+    "toilet"
+  ]
+}

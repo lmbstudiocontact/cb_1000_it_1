@@ -1,0 +1,48 @@
+{
+  "english": "prevent",
+  "phat_am": "priˈvent",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "ngăn chặn",
+          "definition": "to stop (someone doing something or something happening)",
+          "world_new": [
+            "stop"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He prevented me from going."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "This simple mechanism prevents the optimizer from trying to run through walls.",
+    "Unfortunately, the logarithm prevents every useful factorization of such an average and makes this method impracticable.",
+    "Here we just recall the basic definitions to prevent confusion.",
+    "However, as local tumour control improves, approaches that prevent secondary or delayed metastasis may play a significant role in cancer therapy.",
+    "Ximelagatran acts by binding directly to free and clot-bound thrombin, thereby preventing the conversion of fibrinogen to fibrin, the primary component of blood clots (28).",
+    "Demonstrating and debating this diversity is a necessary step in preventing the violations that are so capably exposed by the author.",
+    "An intending swimmer is prevented from entering the sea, because (it is reasonable to suppose) this person does not realize that the tides are dangerous.",
+    "Note that this phenomenon has a purely inertial character; viscous forces cannot prevent it, although these forces guarantee the space regularity of the solution."
+  ],
+  "list_see_also": [
+    "prevention",
+    "preventive"
+  ],
+  "list_browse": [
+    "prevail on",
+    "prevailing",
+    "prevalence",
+    "prevalent",
+    "prevent",
+    "prevention",
+    "preventive",
+    "preview",
+    "previous"
+  ]
+}

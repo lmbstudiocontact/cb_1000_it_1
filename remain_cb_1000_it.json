@@ -1,0 +1,95 @@
+{
+  "english": "remain",
+  "phat_am": "rəˈmein",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "còn lại",
+          "definition": "to be left",
+          "world_new": [
+            "left"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Only two tins of soup remain",
+              "world_new": [
+                "soup"
+              ]
+            },
+            {
+              "ex_of_definition": "Very little remained of the cinema after the fire",
+              "world_new": [
+                "cinema",
+                "fire"
+              ]
+            },
+            {
+              "ex_of_definition": "A great many things still remain to be done.",
+              "world_new": [
+                "great"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "ở lại",
+          "definition": "to stay; not to leave",
+          "world_new": [
+            "leave"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I shall remain here.",
+              "world_new": [
+                "I"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tiếp tục tồn tại",
+          "definition": "to continue to be",
+          "world_new": [
+            "continue"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The problem remains unsolved.",
+              "world_new": [
+                "problem",
+                "remains"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The remaining fourteen had moved into private enterprise, mostly with firms specializing in the field of their former ministries.",
+    "Of the remaining variable sites, 183 were phylogenetically informative.",
+    "What remains is to argue for (3) and discuss the upshot of this defence.",
+    "In any case, this remains an important consideration for future work.",
+    "They remained with us two or three days, consuming over 60 steers per diem.",
+    "All that remains is the claim that (a) the resurrection body is the same person as the earthly body.",
+    "However, the evidence for their universal validity remains meager.",
+    "The ' incorrigibles ', by contrast, remained on the lowest stage."
+  ],
+  "list_see_also": [
+    "remainder",
+    "remains"
+  ],
+  "list_browse": [
+    "reluctance",
+    "reluctant",
+    "reluctantly",
+    "rely",
+    "remain",
+    "remainder",
+    "remains",
+    "remand",
+    "remark"
+  ]
+}

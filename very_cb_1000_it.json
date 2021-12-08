@@ -1,0 +1,147 @@
+{
+  "english": "very",
+  "phat_am": "ˈveri",
+  "list_english": [
+    {
+      "type_word": "adverb",
+      "list_definition": [
+        {
+          "mean_english": "rất, lắm, hết sức",
+          "definition": "to a great degree",
+          "world_new": [
+            "great",
+            "degree"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He’s very clever",
+              "world_new": [
+                "clever"
+              ]
+            },
+            {
+              "ex_of_definition": "You came very quickly",
+              "world_new": [
+                "quickly"
+              ]
+            },
+            {
+              "ex_of_definition": "I’m not feeling very well.",
+              "world_new": [
+                "feeling"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "một cách chính xác",
+          "definition": "absolutely; in the highest degree",
+          "world_new": [
+            "degree"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The very first thing you must do is ring the police",
+              "world_new": [
+                "ring",
+                "police"
+              ]
+            },
+            {
+              "ex_of_definition": "She has a car of her very own.",
+              "world_new": [
+                "car"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "chính, thực sự, đúng là như vậy",
+          "definition": "exactly or precisely the thing, person etc mentioned",
+          "world_new": [
+            "exactly",
+            "precisely",
+            "person"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "You’re the very man I want to see",
+              "world_new": [
+                "I",
+                "want",
+                "see"
+              ]
+            },
+            {
+              "ex_of_definition": "At that very minute the door opened.",
+              "world_new": [
+                "minute",
+                "door"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tột cùng, tận, chính",
+          "definition": "extreme",
+          "world_new": [
+            "extreme"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "at the very end of the day",
+              "world_new": [
+                "day"
+              ]
+            },
+            {
+              "ex_of_definition": "at the very top of the tree.",
+              "world_new": [
+                "top",
+                "tree"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "thực sự, riêng",
+          "definition": "used for emphasis in other ways",
+          "world_new": [
+            "emphasis"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The very suggestion of a sea voyage makes her feel seasick.",
+              "world_new": [
+                "suggestion",
+                "sea",
+                "voyage",
+                "feel",
+                "seasick"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "very well"
+  ],
+  "list_browse": [
+    "vertex",
+    "vertical",
+    "vertically",
+    "vertigo",
+    "very",
+    "very well",
+    "vesicle",
+    "vessel",
+    "vest"
+  ]
+}

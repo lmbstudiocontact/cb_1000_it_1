@@ -1,0 +1,55 @@
+{
+  "english": "vein",
+  "phat_am": "vein",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "tĩnh mạch",
+          "definition": "any of the tubes that carry the blood back to the heart",
+          "world_new": [
+            "carry",
+            "blood",
+            "heart"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "varicose veins."
+            }
+          ]
+        },
+        {
+          "mean_english": "gân lá",
+          "definition": "a similar-looking line on a leaf.",
+          "world_new": [
+            "line",
+            "leaf"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "All right and the left lower pulmonary veins connected to the right-sided atrium.",
+    "Along the veins, the cells are elongate, up to c. 100 m long and 20 m wide.",
+    "Measurements were made of bore and medial thickness of the pulmonary veins.",
+    "Cerebral atrophy increases the vulnerability of bridging veins to shearing forces and so the elderly are more susceptible.",
+    "Earlier fabrics, cross-cut by the veins, are more ductile in nature and may reflect the aseismic stage of the fault history.",
+    "During cardiac catheterization it was documented that both femoral veins were obstructed with no reconstitution of the caval venous system until the renal veins.",
+    "The veins are often only a metre or two wide.",
+    "Embolization or ligation of internal iliac artery or bilateral mass ligation of uterine arteries and veins should be considered."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "vehemently",
+    "vehicle",
+    "veil",
+    "veiled",
+    "vein",
+    "Velcro",
+    "velocity",
+    "velvet",
+    "velvety"
+  ]
+}

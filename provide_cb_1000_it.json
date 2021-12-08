@@ -1,0 +1,78 @@
+{
+  "english": "provide",
+  "phat_am": "prəˈvaid",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "cung cấp",
+          "definition": "to give or supply",
+          "world_new": [
+            "supply"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He provided the wine for the meal",
+              "world_new": [
+                "provided",
+                "wine",
+                "meal"
+              ]
+            },
+            {
+              "ex_of_definition": "He provided them with a bed for the night.",
+              "world_new": [
+                "provided",
+                "bed",
+                "night"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "chu cấp",
+          "definition": "(with for) to have enough money to supply what is necessary",
+          "world_new": [
+            "money",
+            "supply",
+            "necessary"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He is unable to provide for his family.",
+              "world_new": [
+                "unable",
+                "family"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The results, presenting both qualitative and quantitative analyses, provide interesting insights into the responses of the students to the experiment itself.",
+    "He thus sought to rehabilitate the doctrine of five principles for his project of philosophical chemistry by providing them with a corpuscular ontology.",
+    "Farmers often prefer farm plans that provide a satisfactory level of security even if this means sacrificing average income.",
+    "Using this medium, we originally planned to provide a sound treatment of side-effects that would be more effective than systematic residualization.",
+    "This would provide a qualitative description of the mixing of single-particle and collective effects.",
+    "The aim is to provide insight into the more rigorous formalization that will be provided in the following sections.",
+    "In this sense, then, control relies on planning to provide an adequate efference copy.",
+    "Moreover, we provide complexity bounds for the problem in question and sketch a possible implementation method making use of dedicated systems for checking ordinary equivalence."
+  ],
+  "list_see_also": [
+    "provided"
+  ],
+  "list_browse": [
+    "proven",
+    "proverb",
+    "proverbial",
+    "proverbially",
+    "provide",
+    "provided",
+    "province",
+    "provincial",
+    "provision"
+  ]
+}

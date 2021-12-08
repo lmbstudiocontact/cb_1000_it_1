@@ -1,0 +1,76 @@
+{
+  "english": "spoil",
+  "phat_am": "spoil",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "làm hỏngt",
+          "definition": "to damage or ruin; to make bad or useless",
+          "world_new": [
+            "damage",
+            "bad",
+            "useless"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "If you touch that drawing, you’ll spoil it.",
+              "world_new": [
+                "touch",
+                "drawing"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "làm hư, làm hại tính cách",
+          "definition": "to give (a child etc) too much of what he wants and possibly make his character, behaviour/behavior etc worse by doing so",
+          "world_new": [
+            "child",
+            "possibly",
+            "character",
+            "worse"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "They spoil that child dreadfully and she’s becoming unbearable!",
+              "world_new": [
+                "child",
+                "dreadfully",
+                "becoming",
+                "unbearable"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Why fruits rot, seeds mold, and meat spoils.",
+    "First, the politicians may want to enjoy their spoils.",
+    "Together, these data suggest that he is a man of action rather than subtle discussion, acts impulsively and is spoilt.",
+    "They returned to the tent with ample food and plaster bandages - but the plaster proved useless, spoiled by the damp.",
+    "The easiest cases are spoils which only lack nutrients, and which after fertilization support good growth.",
+    "If ticks are roughly removed, an important part-the \" false head \"-will be left behind, embedded in the host's skin, and the specimen spoiled.",
+    "Further, he said that he had no space to store the scientific collections other than on deck, where they might be spoiled.",
+    "The well-to-do class of our society is dragging its women out of their homes to be infected by the same germs of westernism that have already spoiled our male population."
+  ],
+  "list_see_also": [
+    "spoils",
+    "spoilt",
+    "spoilsport"
+  ],
+  "list_browse": [
+    "split hairs",
+    "split second",
+    "split-level",
+    "splitting headache",
+    "spoil",
+    "spoils",
+    "spoilsport",
+    "spoilt",
+    "spoke"
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "english": "pollute",
+  "phat_am": "pəˈluːt",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "ô nhiễm",
+          "definition": "to make dirty",
+          "world_new": [
+            "dirty"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Chemicals are polluting the air.",
+              "world_new": [
+                "air"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The realized pollution is determined jointly by the demand for polluting rights or environmental absorption capacity and the supply of these rights.",
+    "In addition, polluting assets can be retrofitted, or retired early.",
+    "Inlining annotations, however, could pollute the module interface with additional binding-time specifications.",
+    "He is himself contaminated, polluted, and must die.",
+    "With free trade, countries with a comparative advantage in pollution-intensive goods will pollute more-giving them an advantage in the environmental bargaining game.",
+    "Heavily polluted means that the index is between 1 and 2, making the water unsuitable for body contact.",
+    "Furthermore, he found that there were only a few alien species that polluted the catch, inferring that most spiders were involved in local dispersal episodes.",
+    "This is a reasonable concept of convergence since, besides convergence of the eigenmodes, it also contains the information that no spurious eigenmodes pollute the spectrum."
+  ],
+  "list_see_also": [
+    "pollutant",
+    "polluted",
+    "pollution"
+  ],
+  "list_browse": [
+    "pollination",
+    "polling booth",
+    "polling station",
+    "pollutant",
+    "pollute",
+    "polluted",
+    "pollution",
+    "polo",
+    "polo-neck"
+  ]
+}

@@ -1,0 +1,143 @@
+{
+  "english": "say",
+  "phat_am": "sei",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "nói, thốt ra",
+          "definition": "to speak or utter",
+          "world_new": [
+            "speak",
+            "utter"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "What did you say?"
+            },
+            {
+              "ex_of_definition": "She said ‘Yes’."
+            }
+          ]
+        },
+        {
+          "mean_english": "phát biểu, tuyên bố",
+          "definition": "to tell, state or declare",
+          "world_new": [
+            "tell",
+            "state",
+            "declare"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She said how she had enjoyed meeting me",
+              "world_new": [
+                "meeting"
+              ]
+            },
+            {
+              "ex_of_definition": "She is said to be very beautiful.",
+              "world_new": [
+                "beautiful"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "nhắc lại",
+          "definition": "to repeat",
+          "world_new": [
+            "repeat"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The child says her prayers every night.",
+              "world_new": [
+                "child",
+                "night"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tiên đoán",
+          "definition": "to guess or estimate",
+          "world_new": [
+            "guess",
+            "estimate"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I can’t say when he’ll return.",
+              "world_new": [
+                "I",
+                "return"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cơ hội để nói",
+          "definition": "the right or opportunity to state one’s opinion",
+          "world_new": [
+            "right",
+            "opportunity",
+            "state",
+            "opinion"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I haven’t had my say yet",
+              "world_new": [
+                "I",
+                "my",
+                "yet"
+              ]
+            },
+            {
+              "ex_of_definition": "We have no say in the decision.",
+              "world_new": [
+                "decision"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "We say that is right eresolving if the right resolving condition holds, but with the uniqueness condition replaced by existence.",
+    "That is to say, their \"grammar\" becomes thinner.",
+    "The net free energy change then represents the difference between several large-value terms, and no single component can be said to dominate.",
+    "One might even say that if the brain does not use localist representations then evolution has missed an excellent trick.",
+    "I said it took time for people to react - but they did.",
+    "We can repeat this argument to construct infinitely many equilibrium paths and, therefore, the original equilibrium is said to be indeterminate.",
+    "That principle, to recall, said that an agent should per form those actions demanded by plans it was optimal to adopt.",
+    "The children were told they would be shown two pictures, and that the experimenter would say a description of one of the pictures."
+  ],
+  "list_see_also": [
+    "saying",
+    "have (something, nothing etc) to say for oneself",
+    "I wouldn’t say no to",
+    "(let’s) say",
+    "say the word",
+    "that is to say"
+  ],
+  "list_browse": [
+    "sawdust",
+    "sawmill",
+    "saxophone",
+    "saxophonist",
+    "say",
+    "say the word",
+    "saying",
+    "scab",
+    "scabbard"
+  ]
+}

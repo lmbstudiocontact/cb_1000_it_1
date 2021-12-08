@@ -1,0 +1,118 @@
+{
+  "english": "suppose",
+  "phat_am": "səˈpəuz",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "cho là, tin rằng",
+          "definition": "to think probable; to believe or guess",
+          "world_new": [
+            "think",
+            "believe",
+            "guess"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Who do you suppose telephoned today?"
+            },
+            {
+              "ex_of_definition": "‘I suppose you’ll be going to the meeting?’ ‘Yes, I suppose so / No, I don’t suppose so.’",
+              "world_new": [
+                "meeting",
+                "I",
+                "I"
+              ]
+            },
+            {
+              "ex_of_definition": "Do you suppose she’ll win?",
+              "world_new": [
+                "win"
+              ]
+            },
+            {
+              "ex_of_definition": "‘Surely her statement can’t be correct?’ ‘No, I suppose not’.",
+              "world_new": [
+                "statement",
+                "correct",
+                "I"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "giả định, giả sử",
+          "definition": "to accept as true for the sake of argument; to consider as a possibility",
+          "world_new": [
+            "accept",
+            "true",
+            "sake",
+            "consider",
+            "possibility"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "(Let’s) suppose we each had $100 to spend",
+              "world_new": [
+                "spend"
+              ]
+            },
+            {
+              "ex_of_definition": "Suppose the train’s late – what shall we do?"
+            }
+          ]
+        },
+        {
+          "mean_english": "coi như một lời đề nghị",
+          "definition": "used to make a suggestion or give an order in a polite way",
+          "world_new": [
+            "suggestion",
+            "order",
+            "polite"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Suppose we have lunch now!",
+              "world_new": [
+                "lunch"
+              ]
+            },
+            {
+              "ex_of_definition": "Suppose you make us a cup of tea!",
+              "world_new": [
+                "cup",
+                "tea"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Ideally, the medium is supposed to be precisely what the word indicates: a neutral, transparent conduit between the two worlds.",
+    "The back of the menu, like the club name, inverted another old female stereotype, this time women's supposed cattiness among themselves.",
+    "One supposes that the formation of the adult array of b-cells is not so different from that of a-cells.",
+    "She is supposed to represent herself (and write representations of) normal ways of behaving and thinking.",
+    "The challenge has come from what was supposed to be the heart of the mechanistic world view - from physics.",
+    "Even though this approach has focused on negotiation, the framework is supposed to be generic enough to accept different types of dialogue.",
+    "Agent interactions: how agents of different meta-models are supposed to interact using communications or the environment.",
+    "The body of every future organism was supposed to have been created in that first moment of time."
+  ],
+  "list_see_also": [
+    "supposing",
+    "be supposed to (be/do)"
+  ],
+  "list_browse": [
+    "support",
+    "supporter",
+    "supporting",
+    "supportive",
+    "suppose",
+    "supposing",
+    "suppress",
+    "suppression",
+    "supremacy"
+  ]
+}

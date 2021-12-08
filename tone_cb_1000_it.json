@@ -1,0 +1,119 @@
+{
+  "english": "tone",
+  "phat_am": "təun",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "giọng",
+          "definition": "(the quality of) a sound, especially a voice",
+          "world_new": [
+            "quality",
+            "sound",
+            "voice"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He spoke in a low/angry/gentle tone",
+              "world_new": [
+                "spoke"
+              ]
+            },
+            {
+              "ex_of_definition": "He told me about it in tones of disapproval",
+              "world_new": [
+                "disapproval"
+              ]
+            },
+            {
+              "ex_of_definition": "That singer/violin/piano has very good tone."
+            }
+          ]
+        },
+        {
+          "mean_english": "màu nhạt",
+          "definition": "a shade of colour/color",
+          "world_new": [
+            "shade"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "various tones of green.",
+              "world_new": [
+                "various",
+                "green"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sự chắc cơ",
+          "definition": "firmness of body or muscle",
+          "world_new": [
+            "body",
+            "muscle"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Your muscles lack tone – you need exercise.",
+              "world_new": [
+                "lack",
+                "exercise"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "quãng trường",
+          "definition": "in music, one of the larger intervals in an octave eg between C and D.",
+          "world_new": [
+            "music",
+            "octave",
+            "C",
+            "D"
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "phù hợp",
+          "definition": "to fit in well; to blend",
+          "world_new": [
+            "fit",
+            "blend"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The brown sofa tones (in) well with the walls.",
+              "world_new": [
+                "brown",
+                "sofa"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "tonal",
+    "toneless",
+    "tonelessly",
+    "tone down"
+  ],
+  "list_browse": [
+    "tomcat",
+    "tomorrow",
+    "ton",
+    "tonal",
+    "tone",
+    "tone down",
+    "toneless",
+    "tonelessly",
+    "tongs"
+  ]
+}

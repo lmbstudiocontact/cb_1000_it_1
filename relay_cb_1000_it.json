@@ -1,0 +1,60 @@
+{
+  "english": "relay",
+  "phat_am": "riˈlei",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "tiếp âm",
+          "definition": "to receive and pass on (news, a message, a television programme/program etc).",
+          "world_new": [
+            "receive",
+            "pass",
+            "message",
+            "television"
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "",
+      "list_definition": [
+        {
+          "mean_english": "chương trình tiếp âm",
+          "definition": "(the sending out of) a radio, television etc signal or programme/program which has been received (from another place).",
+          "world_new": [
+            "radio",
+            "television",
+            "signal"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The projector and camera entered the garden house, projecting on everything including out through the windows and continually relaying the images from the camera back to the main space.",
+    "The primary sensory thalamic nuclei appear to be pure, first order relays.",
+    "I think that these books would work best as additional teacher's material which could be relayed to students verbally or through interactive whiteboard and audio examples.",
+    "Connections of higher order visual relays in the thalamus: a study of corticothalamic pathways in cats.",
+    "Three other kinds of input are shown that are common to all other thalamic relays.",
+    "In this system, the optic tectum relays retinal input to the nucleus rotundus, which then ascends to the ectostriatum of the telencephalon.",
+    "Such recommendations have been relayed to the public through the media (26;27).",
+    "In addition, loss or disruption of elements in the neural pathway, from the retina to the visual cortex, reduce proficiency in receiving, relaying and interpreting visual information."
+  ],
+  "list_see_also": [
+    "relay race",
+    "in relays"
+  ],
+  "list_browse": [
+    "relax",
+    "relaxation",
+    "relaxed",
+    "relaxing",
+    "relay",
+    "relay race",
+    "release",
+    "relegate",
+    "relegation"
+  ]
+}

@@ -1,0 +1,183 @@
+{
+  "english": "wing",
+  "phat_am": "wiŋ",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cánh",
+          "definition": "one of the arm-like limbs of a bird or bat, which it usually uses in flying, or one of the similar limbs of an insect",
+          "world_new": [
+            "bird",
+            "bat",
+            "similar",
+            "insect"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The eagle spread his wings and flew away",
+              "world_new": [
+                "eagle",
+                "spread",
+                "wings"
+              ]
+            },
+            {
+              "ex_of_definition": "The bird cannot fly as it has an injured wing",
+              "world_new": [
+                "bird",
+                "fly",
+                "injured"
+              ]
+            },
+            {
+              "ex_of_definition": "These butterflies have red and brown wings.",
+              "world_new": [
+                "red",
+                "brown",
+                "wings"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "cánh máy bay",
+          "definition": "a similar structure jutting out from the side of an aeroplane",
+          "world_new": [
+            "similar",
+            "structure",
+            "side",
+            "aeroplane"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the wings of a jet.",
+              "world_new": [
+                "wings",
+                "jet"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "chái nhà",
+          "definition": "a section built out to the side of a (usually large) house",
+          "world_new": [
+            "section",
+            "side",
+            "house"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the west wing of the hospital.",
+              "world_new": [
+                "west",
+                "hospital"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "hông xe",
+          "definition": "any of the corner sections of a motor vehicle",
+          "world_new": [
+            "corner",
+            "motor",
+            "vehicle"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The rear left wing of the car was damaged.",
+              "world_new": [
+                "rear",
+                "left",
+                "car",
+                "damaged"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "cánh tả; cánh hữu",
+          "definition": "a section of a political party or of politics in general",
+          "world_new": [
+            "section",
+            "political",
+            "party",
+            "politics",
+            "general"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the Left/Right wing."
+            }
+          ]
+        },
+        {
+          "mean_english": "cánh (trong bóng đá)",
+          "definition": "one side of a football etc field",
+          "world_new": [
+            "side",
+            "football",
+            "field"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He made a great run down the left wing.",
+              "world_new": [
+                "great",
+                "run",
+                "left"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "cầu thủ chạy biên",
+          "definition": "in rugby and hockey, a player who plays mainly down one side of the field.",
+          "world_new": [
+            "rugby",
+            "hockey",
+            "player",
+            "mainly",
+            "side",
+            "field"
+          ]
+        },
+        {
+          "mean_english": "phi đội",
+          "definition": "in the air force, a group of three squadrons of aircraft.",
+          "world_new": [
+            "air",
+            "force",
+            "group",
+            "aircraft"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "winged",
+    "-winged",
+    "winger",
+    "wingless",
+    "wings",
+    "wing commander",
+    "wingspan",
+    "on the wing",
+    "take under one’s wing"
+  ],
+  "list_browse": [
+    "windswept",
+    "windward",
+    "windy",
+    "wine",
+    "wing",
+    "wing commander",
+    "winged",
+    "winger",
+    "wingless"
+  ]
+}

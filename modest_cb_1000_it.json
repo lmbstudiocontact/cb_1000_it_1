@@ -1,0 +1,72 @@
+{
+  "english": "modest",
+  "phat_am": "ˈmodist",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "khiêm tốn",
+          "definition": "not having, or showing, too high an opinion of one’s abilities etc",
+          "world_new": [
+            "opinion"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He’s very modest about his success.",
+              "world_new": [
+                "success"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "giản dị",
+          "definition": "decent, or showing good taste; not shocking",
+          "world_new": [
+            "decent",
+            "shocking"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "modest clothing.",
+              "world_new": [
+                "clothing"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "bình thường",
+          "definition": "not very large; moderate",
+          "world_new": [
+            "moderate"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She’s a person of modest ambitions.",
+              "world_new": [
+                "person"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "modestly",
+    "modesty"
+  ],
+  "list_browse": [
+    "modernity",
+    "modernization",
+    "modernize",
+    "modernness",
+    "modest",
+    "modestly",
+    "modesty",
+    "modicum",
+    "modification"
+  ]
+}

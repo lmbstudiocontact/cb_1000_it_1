@@ -1,0 +1,362 @@
+{
+  "english": "over",
+  "phat_am": "ˈəuvə",
+  "list_english": [
+    {
+      "type_word": "preposition",
+      "list_definition": [
+        {
+          "mean_english": "trên",
+          "definition": "higher than; above in position, number, authority etc",
+          "world_new": [
+            "position",
+            "number",
+            "authority"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Hang that picture over the fireplace",
+              "world_new": [
+                "picture",
+                "fireplace"
+              ]
+            },
+            {
+              "ex_of_definition": "He’s over 90 years old.",
+              "world_new": [
+                "old"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "bên trên",
+          "definition": "from one side to another, on or above the top of; on the other side of",
+          "world_new": [
+            "side",
+            "top",
+            "side"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He jumped over the gate",
+              "world_new": [
+                "gate"
+              ]
+            },
+            {
+              "ex_of_definition": "She fell over the cat",
+              "world_new": [
+                "fell",
+                "cat"
+              ]
+            },
+            {
+              "ex_of_definition": "My friend lives over the street.",
+              "world_new": [
+                "friend",
+                "street"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "lên",
+          "definition": "covering",
+          "world_new": [
+            "covering"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He put his handkerchief over his face.",
+              "world_new": [
+                "handkerchief",
+                "face"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "trên khắp",
+          "definition": "across",
+          "world_new": [
+            "across"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "You find people like him all over the world.",
+              "world_new": [
+                "find",
+                "people",
+                "world"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "về vấn đề gì",
+          "definition": "about",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a quarrel over money.",
+              "world_new": [
+                "quarrel",
+                "money"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "bằng; qua",
+          "definition": "by means of",
+          "world_new": [
+            "means"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He spoke to her over the telephone.",
+              "world_new": [
+                "spoke",
+                "telephone"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "trong suốt (thời gian)",
+          "definition": "during",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Over the years, she grew to hate her husband.",
+              "world_new": [
+                "hate",
+                "husband"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "trong khi",
+          "definition": "while having etc",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He fell asleep over his dinner.",
+              "world_new": [
+                "fell",
+                "asleep",
+                "dinner"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "adverb",
+      "list_definition": [
+        {
+          "mean_english": "bên trên",
+          "definition": "higher, moving etc above",
+          "world_new": [
+            "moving"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The plane flew over about an hour ago.",
+              "world_new": [
+                "plane",
+                "hour"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đảo; lật",
+          "definition": "used to show movement, change of position",
+          "world_new": [
+            "movement",
+            "change",
+            "position"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He rolled over on his back"
+            },
+            {
+              "ex_of_definition": "He turned over the page.",
+              "world_new": [
+                "page"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sang",
+          "definition": "across",
+          "world_new": [
+            "across"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He went over and spoke to them.",
+              "world_new": [
+                "spoke"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "xuống",
+          "definition": "downwards",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He fell over.",
+              "world_new": [
+                "fell"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "trở lên",
+          "definition": "higher in number etc",
+          "world_new": [
+            "number"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The film is suitable for people aged eighteen and over.",
+              "world_new": [
+                "film",
+                "suitable",
+                "people",
+                "aged"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "còn lại",
+          "definition": "remaining",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "There are two cakes for each of us, and two over."
+            }
+          ]
+        },
+        {
+          "mean_english": "khắp; toàn bộ",
+          "definition": "through from beginning to end, carefully",
+          "world_new": [
+            "beginning",
+            "carefully"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Read it over"
+            },
+            {
+              "ex_of_definition": "Talk it over between you."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "kết thúc",
+          "definition": "finished",
+          "world_new": [
+            "finished"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The affair is over now.",
+              "world_new": [
+                "affair"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cú giao bóng",
+          "definition": "(in cricket) a certain number of balls bowled from one end of the wicket",
+          "world_new": [
+            "certain",
+            "number",
+            "wicket"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He bowled thirty overs in the match.",
+              "world_new": [
+                "match"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "",
+      "list_definition": [
+        {
+          "mean_english": "làm quá nhiều",
+          "definition": "too (much), as in overdo."
+        },
+        {
+          "mean_english": "trên đầu",
+          "definition": "in a higher position, as in overhead.",
+          "world_new": [
+            "position"
+          ]
+        },
+        {
+          "mean_english": "áo khoác ngoài",
+          "definition": "covering, as in overcoat.",
+          "world_new": [
+            "covering"
+          ]
+        },
+        {
+          "mean_english": "lật đổ",
+          "definition": "down from an upright position, as in overturn.",
+          "world_new": [
+            "upright",
+            "position"
+          ]
+        },
+        {
+          "mean_english": "vượt qua",
+          "definition": "completely, as in overcome.",
+          "world_new": [
+            "completely"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "overly",
+    "over again",
+    "over and done with"
+  ],
+  "list_browse": [
+    "oval",
+    "ovary",
+    "ovation",
+    "oven",
+    "over",
+    "over again",
+    "over and done with",
+    "overall",
+    "overalls"
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "english": "thoughtful",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "suy nghĩ cẩn thận",
+          "definition": "(appearing to be) thinking deeply",
+          "world_new": [
+            "deeply"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "You look thoughtful",
+              "world_new": [
+                "look"
+              ]
+            },
+            {
+              "ex_of_definition": "a thoughtful mood.",
+              "world_new": [
+                "mood"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "chu đáo",
+          "definition": "thinking of other people; consideration",
+          "world_new": [
+            "consideration"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "It was very thoughtful of you to do that."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "We thank the commentators for their thoughtful observations about our target article.",
+    "There are a variety of thoughtful comprehension studies in the literature.",
+    "We need diverse, thoughtful research perspectives to triangulate on this manyfaceted issue.",
+    "Together, these books provide a comprehensive, thoughtful synthesis of our current understanding of one of the most important processes in evolution.",
+    "The module system is subtle; thoughtful readers of these books will be left with unanswered questions.",
+    "I am also grateful for the thoughtful and detailed responses of two anonymous reviewers and for the assistance of the journal editors.",
+    "We are grateful to the authors of the 31 thoughtful commentaries on our target article.",
+    "Bearing in mind the sensitive nature of this topic, thoughtful preparation of such questions is necessary if respondent co-operation is to be obtained."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "though",
+    "thought",
+    "thought bubble",
+    "-thought-out",
+    "thoughtful",
+    "thoughtfully",
+    "thoughtfulness",
+    "thoughtless",
+    "thoughtlessly"
+  ]
+}

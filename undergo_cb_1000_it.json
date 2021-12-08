@@ -1,0 +1,68 @@
+{
+  "english": "undergo",
+  "phat_am": "andəˈɡəu",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "chịu đựng, trải qua",
+          "definition": "to experience or endure",
+          "world_new": [
+            "experience",
+            "endure"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "They underwent terrible hardships.",
+              "world_new": [
+                "terrible"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "phải trải qua",
+          "definition": "to go through (a process)",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The car is undergoing tests/repairs",
+              "world_new": [
+                "car"
+              ]
+            },
+            {
+              "ex_of_definition": "She has been undergoing medical treatment.",
+              "world_new": [
+                "medical",
+                "treatment"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Those who arrived at older ages underwent more varied experiences and did not necessarily begin university at the same time.",
+    "Along the way, we gain detailed insights into the changes that proofs undergo during cut elimination in the presence of weakening and contraction.",
+    "The first aspect is phonological and relates directly to the asser tion that the inser ted lexeme should undergo a minimum of adjustment.",
+    "The results of the present survey indicate the range of attitudes displayed by men undergoing vasectomy.",
+    "The capital letter consonants represent consonants that undergo voicing assimilation.",
+    "As the pigeon behaves, its body undergoes a continuous series of transformations.",
+    "Seeds are conditionally dormant at maturity, and undergo annual non-dormancy/conditional dormancy cycles when buried outdoors.",
+    "Any given approach thus undergoes a development process that must ultimately come to a natural conclusion, after which researchers turn to new approaches."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "underestimate",
+    "underfed",
+    "underfoot",
+    "undergarment",
+    "undergo",
+    "undergraduate",
+    "underground",
+    "undergrowth",
+    "underline"
+  ]
+}

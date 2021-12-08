@@ -1,0 +1,70 @@
+{
+  "english": "scour",
+  "phat_am": "ˈskauə",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "cọ chùi",
+          "definition": "to clean by hard rubbing",
+          "world_new": [
+            "clean"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The bath needs scouring.",
+              "world_new": [
+                "bath"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "lùng sục",
+          "definition": "to make a thorough search of",
+          "world_new": [
+            "thorough",
+            "search"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "They scoured the woods for the lost child.",
+              "world_new": [
+                "lost",
+                "child"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Imports have been encouraged and the world has been scoured for goods.",
+    "The wool scouring business is doing much better.",
+    "More elbow grease was applied to the scouring of a pot than, probably, to any other household task.",
+    "The main substances removed by scouring are small deposits of aluminium compounds and ferrous material formed by oxidation.",
+    "I imagine it is those in which soap has to be used in scouring wool yarn.",
+    "We are scouring the world for these supplies of timber, and it is not easy; but we shall go on trying.",
+    "We have not asked for the whole of the heath to be mechanically scoured.",
+    "I am keen to see an increase in the use of the private finance initiative for the scouring of public projects."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "scot-free",
+    "scotch",
+    "Scotch tape",
+    "scoundrel",
+    "scour",
+    "scourge",
+    "scout",
+    "scowl",
+    "Scrabble"
+  ]
+}

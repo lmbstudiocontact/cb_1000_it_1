@@ -1,0 +1,73 @@
+{
+  "english": "organize",
+  "phat_am": "ˈoːɡənaiz",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "tổ chức",
+          "definition": "to arrange or prepare (something), usually requiring some time or effort",
+          "world_new": [
+            "arrange",
+            "prepare",
+            "time",
+            "effort"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "They organized a conference.",
+              "world_new": [
+                "organized",
+                "conference"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "thành lập",
+          "definition": "to make into a society etc",
+          "world_new": [
+            "society"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He organized the workers into a trade union.",
+              "world_new": [
+                "organized",
+                "trade",
+                "union"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "We organized these conferences to try to get people together and discuss the issues in what we thought were useful ways.",
+    "The rest of this paper is organized as follows.",
+    "In a second step, codification tables were created and material was organized according to these themes.",
+    "First, the project is one of a wide scope, involving the collecting, translating and organizing of hundreds of remedies from various sources.",
+    "The remaining sections of this paper is organized as follows.",
+    "The theory prescribed not only how to organize the travel report, but also what was to be visited and asked for.",
+    "The rest of the paper is organized as follows.",
+    "If the cortex were organized in this manner, one would suspect that experimental results would have established such themes, as it has for subcortical structures."
+  ],
+  "list_see_also": [
+    "organizer",
+    "organization",
+    "organized"
+  ],
+  "list_browse": [
+    "organically",
+    "organism",
+    "organist",
+    "organization",
+    "organize",
+    "organized",
+    "organizer",
+    "orgasm",
+    "orgy"
+  ]
+}

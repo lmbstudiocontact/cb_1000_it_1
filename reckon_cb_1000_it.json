@@ -1,0 +1,76 @@
+{
+  "english": "reckon",
+  "phat_am": "ˈrekən",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "cho là",
+          "definition": "to consider",
+          "world_new": [
+            "consider"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He is reckoned (to be / as / as being) the best pianist in Britain.",
+              "world_new": [
+                "best",
+                "pianist"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "nghĩ; định",
+          "definition": "to think; to have decided; to intend",
+          "world_new": [
+            "intend"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Do you reckon we’ll succeed?",
+              "world_new": [
+                "succeed"
+              ]
+            },
+            {
+              "ex_of_definition": "Is he reckoning on coming?",
+              "world_new": [
+                "reckoning"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Along another dimension, we need to reckon with the internal diversity of language, in the bilingual mind now differentiated into (instantiated by) separate networks0 circuits.",
+    "Thus, in reckoning 'discretionary time', the question is not how long people would have to work to pay their current tax bill.",
+    "She cited the practice of reckoning descent equally through males and females as a general and long-standing feature of the area (p. 2).",
+    "Second, the analysis must reckon with the problem of marginal contributions.",
+    "For one thing, they had to reckon with other patrons, and could sometimes be played off against one another.",
+    "Catching an impression or an innovation needs close observation and tends to keep out of the reckoning its effect on an entire performance or production.",
+    "Note that the payoffs in question are longterm ultimate payoffs of strategies, reckoned over the life span of individuals.",
+    "If that retrieval was to happen by force, he must have reckoned, then so be it."
+  ],
+  "list_see_also": [
+    "reckoning",
+    "day of reckoning",
+    "reckon on",
+    "reckon up",
+    "reckon with"
+  ],
+  "list_browse": [
+    "recite",
+    "reckless",
+    "recklessly",
+    "recklessness",
+    "reckon",
+    "reckon on",
+    "reckon up",
+    "reckon with",
+    "reckoning"
+  ]
+}

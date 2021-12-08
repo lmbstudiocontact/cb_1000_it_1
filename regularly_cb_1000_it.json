@@ -1,0 +1,62 @@
+{
+  "english": "regularly",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "adverb",
+      "list_definition": [
+        {
+          "mean_english": "đều đặn",
+          "definition": "at regular times, places etc",
+          "world_new": [
+            "regular",
+            "times"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "His heart was beating regularly.",
+              "world_new": [
+                "heart",
+                "beating"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "một cách thường xuyên",
+          "definition": "frequently",
+          "world_new": [
+            "frequently"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He comes here regularly."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Thereafter, the trainee should take the opportunity regularly to review specimens under expert guidance.",
+    "Discussions among mental health professionals, clients, and community members should be ongoing and occur regularly.",
+    "Moreover, they also regularly bought foodstuffs, livestock and flax from their employer.",
+    "The cuticle is covered in the anterior half with minute regularly arranged spines, but these disappear towards the posterior end of the body.",
+    "Non-scientists regularly assisted in scientific projects, and provided one or more of the three men usually required for safety whenever scientists travelled over the glaciers.",
+    "Second, guidelines would need to be updated regularly since evidence may change over time.",
+    "When the two species oviposited at approximately the same time, irrespective of the sequence, daily dissections revealed that embryogenesis proceeded regularly for both parasitoids.",
+    "At the center their medical condition is regularly checked, and costly acute phases of their chronic conditions are prevented rather than treated."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "regrettable",
+    "regrettably",
+    "regular",
+    "regularity",
+    "regularly",
+    "regulate",
+    "regulation",
+    "regulator",
+    "regurgitate"
+  ]
+}

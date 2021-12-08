@@ -1,0 +1,125 @@
+{
+  "english": "speed",
+  "phat_am": "spiːd",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "tốc độ",
+          "definition": "rate of moving",
+          "world_new": [
+            "rate",
+            "moving"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a slow speed",
+              "world_new": [
+                "slow"
+              ]
+            },
+            {
+              "ex_of_definition": "The car was travelling at high speed.",
+              "world_new": [
+                "car"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sự nhanh chóng",
+          "definition": "quickness of moving",
+          "world_new": [
+            "quickness",
+            "moving"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "speed of movement.",
+              "world_new": [
+                "movement"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "chạy nhanh",
+          "definition": "(past tense, past participles spedspedspeeded) to (cause to) move or progress quickly; to hurry",
+          "world_new": [
+            "move",
+            "progress",
+            "hurry"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The car sped/speeded along the motorway.",
+              "world_new": [
+                "car",
+                "motorway"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "chạy quá tốc độ quy định",
+          "definition": "(past tense, past participle speeded) to drive very fast in a car etc, faster than is allowed by law",
+          "world_new": [
+            "drive",
+            "fast",
+            "car",
+            "law"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The policeman said that I had been speeding.",
+              "world_new": [
+                "policeman",
+                "I",
+                "speeding"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The role of flowcontrol valve and quick exhaust valve are to control the speed of piston.",
+    "We find that for zero or moderate surface tension the speed at which a drop or plume rises increases algebraically with time.",
+    "Even high speed cutting of light metal alloys should be possible with close tolerances.",
+    "This way, it is possible to speed up the data transfer from one application to the other.",
+    "Theoretical links among naming speed, precise timing mechanisms and orthographic skill in dyslexia.",
+    "Increases in computing speed are beginning to make such models tractable, at least in the case of one or two dimensions.",
+    "Empirical studies on the speed of convergence of neural network training using genetic algorithms.",
+    "The transitions in this region emerged with what appears as possibly unparalleled speed."
+  ],
+  "list_see_also": [
+    "speeding",
+    "speedy",
+    "speedily",
+    "speediness",
+    "speedboat",
+    "speed bump",
+    "speed limit",
+    "speed trap",
+    "speedometer",
+    "speed up"
+  ],
+  "list_browse": [
+    "speech marks",
+    "speechless",
+    "speechlessly",
+    "speechlessness",
+    "speed",
+    "speed bump",
+    "speed limit",
+    "speed trap",
+    "speed up"
+  ]
+}

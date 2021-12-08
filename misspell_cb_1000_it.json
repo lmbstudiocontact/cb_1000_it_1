@@ -1,0 +1,46 @@
+{
+  "english": "misspell",
+  "phat_am": "misˈspel",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "viết sai chính tả",
+          "definition": "to spell wrongly",
+          "world_new": [
+            "spell",
+            "wrongly"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "People often misspell the word ‘accommodate’."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "One student noticed that, in the course of a single lecture, she had misspelled the same word in five different ways.",
+    "A user can search for a (misspelled) word or for single or clusters of letters.",
+    "Cross-references are to wrong pages; a line has dropped out at a page turn (23-24), but in compensation another is repeated (123-24); and some ordinary words are misspelled.",
+    "My only comment about it is that in the document \"combating\" is misspelt, in my copy at any rate.",
+    "It may be that because my name has been misspelt, it has slipped under their guard.",
+    "For research purposes, we correct misspelled words by hand.",
+    "Gutman's (sic) name is consistently misspelled.",
+    "Leaving aside the fact that the word \"buildings\"has been misspelled, that paragraph makes one wonder to what body the word\"government\" refers."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "missile",
+    "missing",
+    "mission",
+    "missionary",
+    "misspell",
+    "mist",
+    "mist over",
+    "mistake",
+    "mistaken"
+  ]
+}

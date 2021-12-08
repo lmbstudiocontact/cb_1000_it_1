@@ -1,0 +1,122 @@
+{
+  "english": "rather",
+  "phat_am": "ˈraːθə",
+  "list_english": [
+    {
+      "type_word": "adverb",
+      "list_definition": [
+        {
+          "mean_english": "khá",
+          "definition": "to a certain extent; slightly; a little",
+          "world_new": [
+            "certain"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He’s rather nice",
+              "world_new": [
+                "nice"
+              ]
+            },
+            {
+              "ex_of_definition": "That’s a rather silly question / rather a silly question",
+              "world_new": [
+                "silly",
+                "question",
+                "silly",
+                "question"
+              ]
+            },
+            {
+              "ex_of_definition": "I’ve eaten rather more than I should have.",
+              "world_new": [
+                "I"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "thà; thích hơn, chứ không",
+          "definition": "more willingly; preferably",
+          "world_new": [
+            "preferably"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I’d rather do it now than later"
+            },
+            {
+              "ex_of_definition": "Can we do it now rather than tomorrow?",
+              "world_new": [
+                "tomorrow"
+              ]
+            },
+            {
+              "ex_of_definition": "I’d rather not do it at all"
+            },
+            {
+              "ex_of_definition": "I would/had rather you didn’t do that",
+              "world_new": [
+                "I"
+              ]
+            },
+            {
+              "ex_of_definition": "Wouldn’t you rather have this one?"
+            },
+            {
+              "ex_of_definition": "I’d resign rather than do that.",
+              "world_new": [
+                "resign"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đúng ra",
+          "definition": "more exactly; more correctly",
+          "world_new": [
+            "correctly"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He agreed, or rather he didn’t disagree",
+              "world_new": [
+                "agreed",
+                "disagree"
+              ]
+            },
+            {
+              "ex_of_definition": "One could say he was foolish rather than wicked.",
+              "world_new": [
+                "foolish",
+                "wicked"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "In this sense they corresponded with purely phonological rather than morphosyntactic attributes of the input.",
+    "Clearly, the public health official is not replacing the physician; rather, ethicists now realize a need to be in dialogue with both.",
+    "We can differentiate these categories as purely lexical, rather than syntactic.",
+    "Ground-penetrating radar is also treated rather briefly, with no description of field techniques.",
+    "Past studies have focused on the effects of density on spoken language processing, rather than the effects of density on the structure of lexical representations.",
+    "The intentions of policy thus need to be seen against the plans rather than the outcomes.",
+    "Their connection was purely mechanical, rather than teleological.",
+    "How do you know that said popinjays aren't sitting on the background rather than the stripe (the ordinary)?"
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "rat",
+    "rat race",
+    "rate",
+    "rate of exchange",
+    "rather",
+    "ratification",
+    "ratify",
+    "rating",
+    "ratio"
+  ]
+}

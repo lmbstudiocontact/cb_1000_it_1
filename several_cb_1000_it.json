@@ -1,0 +1,72 @@
+{
+  "english": "several",
+  "phat_am": "ˈsevrəl",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "vài, dăm ba",
+          "definition": "more than one or two, but not a great many",
+          "world_new": [
+            "great"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Several weeks passed before he got a reply to his letter.",
+              "world_new": [
+                "reply",
+                "letter"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "pronoun",
+      "list_definition": [
+        {
+          "mean_english": "vài",
+          "definition": "some or a few",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Several of them are ill",
+              "world_new": [
+                "ill"
+              ]
+            },
+            {
+              "ex_of_definition": "Of the eggs, several were broken.",
+              "world_new": [
+                "broken"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The procedure was repeated several times up to 30 min after the preparation of the final trypanosome suspension.",
+    "Future recombinant antigens will need to contain several antigens to provide protection against challenge by heterologous strains for the majority of the target group.",
+    "There are several ways to correct the drifting in the lateral direction.",
+    "Their proposed solution is the use of complex objects, comprising several components, to express structure and relationships.",
+    "Several of the control variables are also correlated with environmental performance.",
+    "Several causes for absorbance changes are discussed in the text.",
+    "We need a universally successful use of it for coping with the ever-changing demands of life through several times.",
+    "Often, in a single experiment, it is possible to follow the fate of several individual groups that are involved in the reaction."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "seventieth",
+    "seventy",
+    "seventy-year-old",
+    "sever",
+    "several",
+    "severance",
+    "severe",
+    "severely",
+    "severity"
+  ]
+}

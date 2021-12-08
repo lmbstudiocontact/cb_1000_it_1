@@ -1,0 +1,66 @@
+{
+  "english": "rational",
+  "phat_am": "ˈraʃənl",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "có lý trí",
+          "definition": "able to think, reason and judge etc",
+          "world_new": [
+            "think",
+            "reason",
+            "judge"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Man is a rational animal.",
+              "world_new": [
+                "animal"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "hợp lý",
+          "definition": "sensible; reasonable; logical; not (over-) influenced by emotions etc",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "There must be a rational explanation for those strange noises",
+              "world_new": [
+                "explanation",
+                "strange"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "More precisely, suppose that p/q is a rational number, and we search for a continued fraction representation for it.",
+    "I can be perfectly rational in believing that my faculty of vision is keener than my companions.",
+    "Preferences are rational when they are, in a precise sense, consistent.",
+    "For example, it does not demand that the content of the law be reasonable or rational.",
+    "If a player's type can be made common knowledge, rational egoists would not survive.",
+    "Then although it is highly unlikely that your ticket is the winner, this cannot make it rational to accept that your ticket won't win.",
+    "Designers are rational agents trained to follow rational methods.",
+    "I do not think that rational choice theory is always, or even usually, restricted to resiliency accounts."
+  ],
+  "list_see_also": [
+    "rationally",
+    "rationality"
+  ],
+  "list_browse": [
+    "rating",
+    "ratio",
+    "ration",
+    "ration out",
+    "rational",
+    "rationality",
+    "rationally",
+    "rations",
+    "rattle"
+  ]
+}

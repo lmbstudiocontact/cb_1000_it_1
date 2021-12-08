@@ -1,0 +1,63 @@
+{
+  "english": "their",
+  "phat_am": "ðeə",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "của họ",
+          "definition": "belonging to them",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "This is their car",
+              "world_new": [
+                "car"
+              ]
+            },
+            {
+              "ex_of_definition": "Take a note of their names and addresses.",
+              "world_new": [
+                "note"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "dùng thay cho các ngôi, của họ",
+          "definition": "used instead of his, his or her etc where a person of unknown sex or people of both sexes are referred to",
+          "world_new": [
+            "instead",
+            "person",
+            "unknown",
+            "sex",
+            "people"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Everyone should buy his own ticket.",
+              "world_new": [
+                "buy",
+                "ticket"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "theirs"
+  ],
+  "list_browse": [
+    "theatrically",
+    "theatricals",
+    "thee",
+    "theft",
+    "their",
+    "theirs",
+    "them",
+    "theme",
+    "theme park"
+  ]
+}

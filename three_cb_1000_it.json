@@ -1,0 +1,60 @@
+{
+  "english": "three",
+  "phat_am": "θriː",
+  "list_english": [
+    {
+      "type_word": "number",
+      "list_definition": [
+        {
+          "mean_english": "số 3",
+          "definition": "the number or figure 3.",
+          "world_new": [
+            "number",
+            "figure"
+          ]
+        },
+        {
+          "mean_english": "lên ba",
+          "definition": "the age of 3.",
+          "world_new": [
+            "age"
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "prefix",
+      "list_definition": [
+        {
+          "mean_english": "thuộc số ba",
+          "definition": "having three (of something)",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a three-page letter.",
+              "world_new": [
+                "letter"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "three-",
+    "three-dimensional",
+    "three-quarter",
+    "three-year-old"
+  ],
+  "list_browse": [
+    "thread",
+    "threadbare",
+    "threat",
+    "threaten",
+    "three",
+    "three-dimensional",
+    "three-quarter",
+    "three-year-old",
+    "thresh"
+  ]
+}

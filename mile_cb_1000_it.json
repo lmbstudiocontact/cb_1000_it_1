@@ -1,0 +1,62 @@
+{
+  "english": "mile",
+  "phat_am": "mail",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "dặm",
+          "definition": "(sometimes abbreviated to mwhen written) a measure of length equal to 1,760 yards (1.61 km)",
+          "world_new": [
+            "measure",
+            "length",
+            "equal"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We walked ten miles today"
+            },
+            {
+              "ex_of_definition": "70 miles per hour (sometimes written mph)",
+              "world_new": [
+                "per",
+                "hour"
+              ]
+            },
+            {
+              "ex_of_definition": "a ten-mile hike.",
+              "world_new": [
+                "hike"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "My ideal walk would be somewhat longer than six miles, along rougher and less well-marked paths than we prefer as a family.",
+    "Different vehicles will increase or restrict the miles travelled in a given direction, but a vehicle in itself has no preferences.",
+    "Almost a fifth (19 per cent) of the childless had no relative within 50 miles, four times as many as the parents.",
+    "The mean cruising speed of aircraft doubled from 300-350 miles (480-560 km) per hour to 550-650 miles (890-1050 km) per hour.",
+    "The area covered is 65,161 hectares (about 248 square miles) corresponding to a circle of radius 14-4 km or 8-9 miles.",
+    "A statute provides that one may not drive at over 55 miles per hour.",
+    "Local relationships could be up to five miles away.",
+    "Provision was also to be made for the rehabilitation of 600 miles of feeder roads from 1974 to 1977."
+  ],
+  "list_see_also": [
+    "milestone"
+  ],
+  "list_browse": [
+    "migratory",
+    "mild",
+    "mildly",
+    "mildness",
+    "mile",
+    "milestone",
+    "militancy",
+    "militant",
+    "militantly"
+  ]
+}

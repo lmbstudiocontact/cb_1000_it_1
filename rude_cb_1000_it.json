@@ -1,0 +1,50 @@
+{
+  "english": "rude",
+  "phat_am": "ruːd",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "thô lỗ",
+          "definition": "not polite; showing bad manners",
+          "world_new": [
+            "bad"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "rude behaviour/behavior."
+            }
+          ]
+        },
+        {
+          "mean_english": "thiếu thẩm mỹ",
+          "definition": "vulgar; indecent",
+          "world_new": [
+            "indecent"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "rude pictures."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "rudely",
+    "rudeness"
+  ],
+  "list_browse": [
+    "ruby",
+    "rucksack",
+    "rudder",
+    "ruddy",
+    "rude",
+    "rudely",
+    "rudeness",
+    "rudimentary",
+    "rudiments"
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "english": "tread",
+  "phat_am": "tred",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "bước lên",
+          "definition": "to place one’s feet on",
+          "world_new": [
+            "place"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He threw his cigarette on the ground and trod on it.",
+              "world_new": [
+                "cigarette",
+                "ground"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đi lang thang",
+          "definition": "to walk on, along, over etc",
+          "world_new": [
+            "walk"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He trod the streets looking for a job.",
+              "world_new": [
+                "job"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "dẫm bét",
+          "definition": "to crush by putting one’s feet on",
+          "world_new": [
+            "crush"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We watched them treading the grapes."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sưh bước chân",
+          "definition": "a way of walking or putting one’s feet",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I heard his heavy tread.",
+              "world_new": [
+                "I",
+                "heavy"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "ta lông lốp xe",
+          "definition": "the grooved and patterned surface of a tyre/tire",
+          "world_new": [
+            "grooved",
+            "patterned",
+            "surface"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The tread has been worn away.",
+              "world_new": [
+                "worn"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "bậc cầu thang",
+          "definition": "the horizontal part of a step or stair on which the foot is placed.",
+          "world_new": [
+            "horizontal",
+            "part",
+            "step",
+            "stair",
+            "foot"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Once they acquired a following, however informally they were associated, jobbers had to tread warily.",
+    "The circle that mankind must tread, is sufficiently limited and, despite the great standstill that barbarism effected, has more than once completed its course.",
+    "Here the ends of the treads are cut to form the voussoirs of the arch.",
+    "He hath sent from heaven and delivered me: he hath made them a reproach that trod upon me.",
+    "Simmons trod a thin line in seeking to communicate to both races, whether separately or together.",
+    "But circularity makes the sieve definition more delicate, and in several places we must tread carefully to avoid a black hole.",
+    "It must be stressed that there are a lot of unknowns in this crude analysis of a flight made with rebated treads.",
+    "All include mosaic tiled treads and copper flush pipes."
+  ],
+  "list_see_also": [
+    "treadmill",
+    "tread water"
+  ],
+  "list_browse": [
+    "treacherously",
+    "treacherousness",
+    "treachery",
+    "treacle",
+    "tread",
+    "tread water",
+    "treadmill",
+    "treason",
+    "treasure"
+  ]
+}

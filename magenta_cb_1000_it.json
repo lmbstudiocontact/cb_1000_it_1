@@ -1,0 +1,63 @@
+{
+  "english": "magenta",
+  "phat_am": "məˈdʒentə",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "màu hồng sẫm",
+          "definition": "a reddish purple colour/color",
+          "world_new": [
+            "reddish",
+            "purple"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The room was painted in magenta.",
+              "world_new": [
+                "room"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "có màu hồng sẫm",
+          "world_new": [],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a magenta dress/blouse."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The strongly scented flowers are either lilac, pink-purple, magenta, or a rare white, all 46 mm long and produced in clusters.",
+    "Magenta can generate and control magnetic fields, which she can use to move, lift, and manipulate ferrous metals.",
+    "Each flower has small, pointed bractlets beneath larger green, red, or magenta sepals and five white to pinkish petals.",
+    "The young fruits are an attractive magenta or lilac-purple colour and mature to the typical brown later in the summer.",
+    "By this time the outfit had changed to magenta with navy knickerbockers.",
+    "In the print version, the blue may reproduce as dark purple-blue, the cyan as light blue, and the magenta as purple.",
+    "Scapes up to 15 cm tall bearing 4-10 bell-shaped magenta flowers.",
+    "Chromastone is alien made of an extremely durable crystal, and has several shards of magenta crystals."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "madrigal",
+    "maestro",
+    "mafia",
+    "magazine",
+    "magenta",
+    "maggot",
+    "magic",
+    "magical",
+    "magically"
+  ]
+}

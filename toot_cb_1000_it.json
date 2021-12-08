@@ -1,0 +1,73 @@
+{
+  "english": "toot",
+  "phat_am": "tuːt",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "âm thanh ngắn",
+          "definition": "a quick blast of a trumpet, motor-horn etc",
+          "world_new": [
+            "quick",
+            "blast",
+            "trumpet"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the toot of a car horn.",
+              "world_new": [
+                "car",
+                "horn"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "thổi",
+          "definition": "to blow or sound a horn etc",
+          "world_new": [
+            "blow",
+            "sound",
+            "horn"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He tooted (on) the horn.",
+              "world_new": [
+                "horn"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "This morning there is a large notice there asking drivers to toot as they go past if they dislike the community charge.",
+    "Toots died in 1945, and the burial site marker was added about 1970.",
+    "Used primarily for data processing, storage and training, the toot augments a persons learning capability, including the use of assassination programs (for better marksmanship) or translating alien languages.",
+    "I just wanted to be left alone and blow my brains on high-octane toot.",
+    "This land can then be auctioned or tenders can be invited for it and it may be sold for 400 to 500 dollars per square toot.",
+    "The term has been interpreted as the shortened version of the rhyming slang phrase whistle and flute 'toot' (to inhale).",
+    "The majority, however, toot milk.",
+    "The book was hailed by critics and used in schools as tooting literature."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "too",
+    "too bad",
+    "tool",
+    "toolbar",
+    "toot",
+    "tooth",
+    "tooth and nail",
+    "toothache",
+    "toothbrush"
+  ]
+}

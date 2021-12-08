@@ -1,0 +1,79 @@
+{
+  "english": "third",
+  "phat_am": "θəːd",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "một phần ba",
+          "definition": "one of three equal parts",
+          "world_new": [
+            "equal"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a third of the population.",
+              "world_new": [
+                "population"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "số thứ ba",
+          "definition": "(also adjective) the last of three (people, things etc); the next after the second",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the third person in the queue.",
+              "world_new": [
+                "person",
+                "queue"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "adverb",
+      "list_definition": [
+        {
+          "mean_english": "đứng thứ ba",
+          "definition": "in the third position",
+          "world_new": [
+            "position"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "John came first in the race, and I came third.",
+              "world_new": [
+                "race",
+                "I"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "thirdly",
+    "third-class",
+    "third degree",
+    "third party",
+    "third-rate",
+    "the Third World"
+  ],
+  "list_browse": [
+    "think up",
+    "thinker",
+    "thinly",
+    "thinness",
+    "third",
+    "third degree",
+    "third party",
+    "third-class",
+    "third-rate"
+  ]
+}

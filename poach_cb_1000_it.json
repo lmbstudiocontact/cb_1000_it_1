@@ -1,0 +1,74 @@
+{
+  "english": "poach",
+  "phat_am": "pəutʃ",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "kho; rim",
+          "definition": "to cook (eg an egg without its shell, a fish etc) in boiling liquid, especially water or milk",
+          "world_new": [
+            "cook",
+            "egg",
+            "its",
+            "shell",
+            "fish",
+            "liquid",
+            "water",
+            "milk"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "What’s the best method for poaching eggs?",
+              "world_new": [
+                "best",
+                "method"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "săn trộm",
+          "definition": "to hunt (game) or catch (fish) illegally on someone else’s land",
+          "world_new": [
+            "hunt",
+            "catch",
+            "illegally",
+            "land"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We have to discourage people from poaching endangered animals such as the rhino.",
+              "world_new": [
+                "discourage",
+                "people",
+                "endangered",
+                "rhino"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "poached"
+  ],
+  "list_browse": [
+    "pneumatic",
+    "pneumatically",
+    "pneumonia",
+    "PO Box",
+    "poach",
+    "poached",
+    "poacher",
+    "pocket",
+    "pocket money"
+  ]
+}

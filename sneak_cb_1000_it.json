@@ -1,0 +1,88 @@
+{
+  "english": "sneak",
+  "phat_am": "sniːk",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "trốn, lén",
+          "definition": "to go quietly and secretly, especially for a dishonest purpose",
+          "world_new": [
+            "quietly",
+            "secretly",
+            "dishonest",
+            "purpose"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He must have sneaked into my room when no-one was looking and stolen the money.",
+              "world_new": [
+                "my",
+                "room",
+                "no-one",
+                "money"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "ăn trộm, xoáy, lén",
+          "definition": "to take secretly",
+          "world_new": [
+            "secretly"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He sneaked the letter out of her drawer.",
+              "world_new": [
+                "letter",
+                "drawer"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "đứa hớt lẻo",
+          "definition": "a mean, deceitful person, especially a telltale",
+          "world_new": [
+            "mean",
+            "deceitful",
+            "person",
+            "telltale"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He’s a nasty little sneak.",
+              "world_new": [
+                "nasty"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "sneakers",
+    "sneaking",
+    "sneaky",
+    "sneakiness"
+  ],
+  "list_browse": [
+    "snapshot",
+    "snare",
+    "snarl",
+    "snatch",
+    "sneak",
+    "sneakers",
+    "sneakiness",
+    "sneaking",
+    "sneaky"
+  ]
+}

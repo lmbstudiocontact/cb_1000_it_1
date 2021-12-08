@@ -1,0 +1,115 @@
+{
+  "english": "new",
+  "phat_am": "njuː",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "mới",
+          "definition": "having only just happened, been built, made, bought etc",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She is wearing a new dress",
+              "world_new": [
+                "wearing",
+                "dress"
+              ]
+            },
+            {
+              "ex_of_definition": "We are building a new house.",
+              "world_new": [
+                "building",
+                "house"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "chưa từng có",
+          "definition": "only just discovered, experienced etc",
+          "world_new": [
+            "experienced"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Flying in an aeroplane was a new experience for her.",
+              "world_new": [
+                "aeroplane",
+                "experience"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "mới",
+          "definition": "changed",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He is a new man."
+            }
+          ]
+        },
+        {
+          "mean_english": "mới đến",
+          "definition": "just arrived etc",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The schoolchildren teased the new boy.",
+              "world_new": [
+                "boy"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "adverb",
+      "list_definition": [
+        {
+          "mean_english": "mới",
+          "definition": "freshly",
+          "world_new": [
+            "freshly"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "new-laid eggs."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Although establishing new schools is not permitted, there is always a loophole that can be exploited.",
+    "At the third act, he was replaced by a new athlete who at first did marvellously well because he was fresh.",
+    "Most of the new players contributing to the growth in organic production must necessarily be conventional farmers converting to organics.",
+    "In the course of time, these tools were discarded and replaced by new ones made of local flint varieties.",
+    "Our own compendium takes these into account, adding several revisions and new identifications.",
+    "Which farmers and which regions will be the early adopters of the new technology in developing countries?",
+    "One prerequisite is a rigorous evaluation of the new drugs' quality, efficacy, and safety.",
+    "This article reports on the results of those interviews and the development of the new resource."
+  ],
+  "list_see_also": [
+    "newly",
+    "newcomer",
+    "newfangled",
+    "new to",
+    "New Year",
+    "New Year’s Day",
+    "New Year’s Eve"
+  ],
+  "list_browse": [
+    "never",
+    "never mind",
+    "nevermore",
+    "nevertheless",
+    "new",
+    "new to",
+    "New Year",
+    "New Year’s Day",
+    "New Year’s Eve"
+  ]
+}

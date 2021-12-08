@@ -1,0 +1,198 @@
+{
+  "english": "swing",
+  "phat_am": "swiŋ",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "đu đưa qua lại",
+          "definition": "to (cause to) move or sway in a curve (from side to side or forwards and backwards) from a fixed point",
+          "world_new": [
+            "move",
+            "sway",
+            "curve",
+            "side",
+            "side",
+            "fixed",
+            "point"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "You swing your arms when you walk",
+              "world_new": [
+                "your",
+                "arms",
+                "walk"
+              ]
+            },
+            {
+              "ex_of_definition": "The children were swinging on a rope hanging from a tree",
+              "world_new": [
+                "swinging",
+                "rope",
+                "hanging",
+                "tree"
+              ]
+            },
+            {
+              "ex_of_definition": "The door swung open",
+              "world_new": [
+                "door",
+                "open"
+              ]
+            },
+            {
+              "ex_of_definition": "He swung the load on to his shoulder.",
+              "world_new": [
+                "load",
+                "shoulder"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đi nhún nhảy",
+          "definition": "to walk with a stride",
+          "world_new": [
+            "walk",
+            "stride"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He swung along the road.",
+              "world_new": [
+                "road"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "quay ngoắt lại",
+          "definition": "to turn suddenly",
+          "world_new": [
+            "turn",
+            "suddenly"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He swung round and stared at them"
+            },
+            {
+              "ex_of_definition": "He is hoping to swing the voters in his favour.",
+              "world_new": [
+                "favour"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "động tác, nhịp điệu nhún nhảy",
+          "definition": "an act, period, or manner, of swinging",
+          "world_new": [
+            "act",
+            "period",
+            "manner",
+            "swinging"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He was having a swing on the rope",
+              "world_new": [
+                "rope"
+              ]
+            },
+            {
+              "ex_of_definition": "Most golfers would like to improve their swing.",
+              "world_new": [
+                "improve",
+                "their"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "hành động đánh đu trên cái đu",
+          "definition": "a swinging movement",
+          "world_new": [
+            "swinging",
+            "movement"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the swing of the dancers’ skirts."
+            }
+          ]
+        },
+        {
+          "mean_english": "nhạc xuynh",
+          "definition": "a strong dancing rhythm",
+          "world_new": [
+            "strong",
+            "dancing",
+            "rhythm"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The music should be played with a swing.",
+              "world_new": [
+                "music"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sự thay đổi từ ý kiến này sang ý kiến khác",
+          "definition": "a change in public opinion etc",
+          "world_new": [
+            "change",
+            "public",
+            "opinion"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a swing away from the government.",
+              "world_new": [
+                "government"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "cái đu",
+          "definition": "a seat for swinging, hung on ropes or chains from a supporting frame etc.",
+          "world_new": [
+            "seat",
+            "swinging",
+            "supporting",
+            "frame"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "swinging",
+    "swing bridge",
+    "swing door",
+    "be in full swing",
+    "get into the swing (of things)",
+    "go with a swing"
+  ],
+  "list_browse": [
+    "swimsuit",
+    "swindle",
+    "swindler",
+    "swine",
+    "swing",
+    "swing bridge",
+    "swing door",
+    "swinging",
+    "swipe"
+  ]
+}

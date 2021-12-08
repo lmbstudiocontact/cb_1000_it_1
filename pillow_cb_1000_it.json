@@ -1,0 +1,71 @@
+{
+  "english": "pillow",
+  "phat_am": "ˈpiləu",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "cái gối",
+          "definition": "a kind of cushion for the head, especially on a bed",
+          "world_new": [
+            "kind",
+            "cushion",
+            "head",
+            "bed"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She fluffed up the pillows."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "tựa đầu lên cái gì",
+          "definition": "to rest (one’s head)",
+          "world_new": [
+            "rest"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He pillowed his head on her breast.",
+              "world_new": [
+                "head",
+                "breast"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "They cover practically all clothing, boots, shoes, handkerchiefs, braces, furniture, pillows and mattresses.",
+    "Officers and all families have cabins; troops are accommodated in troop decks fitted with folding berths, and they are provided with pillows and blankets.",
+    "Since dust mites depend on moisture to survive, they are most often found in bedding such as pillows and duvets.",
+    "Pillows, for instance, are not upholstery in common parlance; nor are soft toys.",
+    "I examined the beds and pillows very carefully.",
+    "The first tribe to have their large crate onto the finish platform would win pillows, blankets, a hammock, a mat, and immunity.",
+    "Has anybody seen them, and are they there with all their equipment— blankets, sheets, pillows and all the rest of the necessary furnishing?",
+    "There are 5,000 pillows in the same stores."
+  ],
+  "list_see_also": [
+    "pillowcase"
+  ],
+  "list_browse": [
+    "pill",
+    "pillar",
+    "pillar box",
+    "pillion",
+    "pillow",
+    "pillowcase",
+    "pilot",
+    "pilot light",
+    "pimple"
+  ]
+}

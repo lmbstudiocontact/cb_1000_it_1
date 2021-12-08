@@ -1,0 +1,85 @@
+{
+  "english": "particular",
+  "phat_am": "pəˈtikjulə",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "riêng biệt",
+          "definition": "of a single definite person, thing etc thought of separately from all others",
+          "world_new": [
+            "single",
+            "definite",
+            "person",
+            "thought",
+            "separately"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "this particular man/problem."
+            }
+          ]
+        },
+        {
+          "mean_english": "đặc biệt",
+          "definition": "more than ordinary",
+          "world_new": [
+            "ordinary"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Please take particular care of this letter.",
+              "world_new": [
+                "care",
+                "letter"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "cầu kỳ",
+          "definition": "difficult to please",
+          "world_new": [
+            "difficult",
+            "please"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He is very particular about his food.",
+              "world_new": [
+                "food"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "This can perhaps best be illustrated by a particular frame of reference that surrounds the grafted tree.",
+    "As speakers and listeners use particular lexical, semantic, and syntactic representations, some of these representations become bound into routines.",
+    "In particular, we will consider rewrite rules whose 'algebraicability' is independent from systems and contexts.",
+    "In particular, implementation of regulations in the private sector should be taken as a policy opportunity to improve the delivery of health care.",
+    "One of the particular strengths of qualitative research is its capacity to generate unexpected findings.",
+    "In particular, the book is aimed at signal processing practitioners, especially research workers and students working in areas of radar, sonar, telecommunications and biomedical engineering.",
+    "In particular, they form their past tense forms in untypical ways, and they distinguish two types of onset.",
+    "It is commonly supposed that any explicit numerical method with fixed time-step is destabilized by a sufficiently large velocity of any particular atom."
+  ],
+  "list_see_also": [
+    "particularly",
+    "particulars",
+    "in particular"
+  ],
+  "list_browse": [
+    "participate",
+    "participation",
+    "participle",
+    "particle",
+    "particular",
+    "particularly",
+    "particulars",
+    "parting",
+    "partisan"
+  ]
+}

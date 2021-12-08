@@ -1,0 +1,52 @@
+{
+  "english": "moreover",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "adverb",
+      "list_definition": [
+        {
+          "mean_english": "hơn nữa",
+          "definition": "also; what is more important",
+          "world_new": [
+            "important"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I don’t like the idea, and moreover, I think it’s illegal.",
+              "world_new": [
+                "I",
+                "idea",
+                "I",
+                "think",
+                "illegal"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Moreover, to ignore this combination of linguistic and sociocultural factors would degrade psychological research.",
+    "Works that were centrally planned and assigned, moreover, had a better chance of seeing print than did books written on personal initiative.",
+    "Moreover, for random local search the bound has been verified.",
+    "Moreover, such priming effects are tied to representations in the brain.",
+    "Moreover, we shall assume that the surfaces are grey and diffuse.",
+    "In order for the equilibrium notion to do any work for the players, moreover, they should know each other's strategies.",
+    "Moreover, cold temperatures are required to overcome the physiological block present in the embryos of seeds when freshly ripe.",
+    "Moreover, certain psychological phenomena suggest a structural reality underlying prototype effects."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "morbid",
+    "more",
+    "more and more",
+    "more or less",
+    "moreover",
+    "morgue",
+    "morn",
+    "morning",
+    "morning dress"
+  ]
+}

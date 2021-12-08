@@ -1,0 +1,66 @@
+{
+  "english": "spend",
+  "phat_am": "spend",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "tiêu, chi tiêu",
+          "definition": "to use up or pay out (money)",
+          "world_new": [
+            "pay"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He spends more than he earns."
+            }
+          ]
+        },
+        {
+          "mean_english": "tiêu thời gian, dùng thời giờ",
+          "definition": "to pass (time)",
+          "world_new": [
+            "pass"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I spent a week in Spain this summer.",
+              "world_new": [
+                "I",
+                "spent",
+                "week",
+                "summer"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Some other helpers noted that the older people they assisted wanted them to spend more time with them than they felt able to give.",
+    "Table 4 shows that male and female professors spent similar proportions of time performing during the first five years after completing their studies.",
+    "In the last six months, have you spent considerable time advising someone on an important decision in his or her life?",
+    "But not being a hoarder, he spent his cash as fast as he earned it.",
+    "Grad students spent most of their time talking to each other about issues that interested them or the faculty.",
+    "A large amount of effort has been spent on making this code efficient and providing tools for analysing the information produced by the profiler.",
+    "Most people suggested a combination of spending some resources in retirement and saving some for unexpected events later on.",
+    "Through their incessant authorship, the hours spent writing each day, men from the elite adapted their ideas and ordered their thoughts."
+  ],
+  "list_see_also": [
+    "spent",
+    "spendthrift"
+  ],
+  "list_browse": [
+    "spell-check",
+    "spell-checker",
+    "speller",
+    "spelling",
+    "spend",
+    "spendthrift",
+    "spent",
+    "sperm",
+    "spermatozoon"
+  ]
+}

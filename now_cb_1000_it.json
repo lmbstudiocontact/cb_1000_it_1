@@ -1,0 +1,198 @@
+{
+  "english": "now",
+  "phat_am": "nau",
+  "list_english": [
+    {
+      "type_word": "adverb",
+      "list_definition": [
+        {
+          "mean_english": "hiện nay",
+          "definition": "(at) the present period of time",
+          "world_new": [
+            "present",
+            "period",
+            "time"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I am now living in England.",
+              "world_new": [
+                "I",
+                "living"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "ngay lập tức",
+          "definition": "at once; immediately",
+          "world_new": [
+            "immediately"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I can’t do it now – you’ll have to wait.",
+              "world_new": [
+                "I",
+                "wait"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "bây giờ",
+          "definition": "(at) this moment",
+          "world_new": [
+            "moment"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He’ll be at home now",
+              "world_new": [
+                "home"
+              ]
+            },
+            {
+              "ex_of_definition": "From now on, I shall be more careful about what I say to her.",
+              "world_new": [
+                "I",
+                "careful",
+                "I"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "lúc đó",
+          "definition": "(in stories) then; at that time",
+          "world_new": [
+            "time"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We were now very close to the city.",
+              "world_new": [
+                "close",
+                "city"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "nay",
+          "definition": "because of what has happened etc",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I now know better than to trust her.",
+              "world_new": [
+                "I",
+                "know",
+                "better",
+                "trust"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "ngay tức khắc",
+          "definition": "a word in explanations, warnings, commands, or to show disbelief",
+          "world_new": [
+            "disbelief"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Now this is what happened"
+            },
+            {
+              "ex_of_definition": "Stop that, now!"
+            },
+            {
+              "ex_of_definition": "Do be careful, now.",
+              "world_new": [
+                "careful"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "conjunction",
+      "list_definition": [
+        {
+          "mean_english": "vì",
+          "definition": "(often with that) because or since something has happened, is now true etc",
+          "world_new": [
+            "true"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Now that you are here, I can leave",
+              "world_new": [
+                "I",
+                "leave"
+              ]
+            },
+            {
+              "ex_of_definition": "Now you have left school, you will have to find a job.",
+              "world_new": [
+                "left",
+                "school",
+                "find",
+                "job"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "",
+      "list_definition": [
+        {
+          "mean_english": "giờ thì",
+          "definition": "an expression used to warn or rebuke",
+          "world_new": [
+            "expression",
+            "warn",
+            "rebuke"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Now, now! Behave yourself!"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "We can now use the above together with the definitions of and g to do the following calculation.",
+    "Suppose now that there is an eigenvalue in the interval (0, b).",
+    "Now we can proceed to show the following.",
+    "The year 2001 may now also be such a candidate.",
+    "Many of the topical treatments can now be prescribed by extended formulary nurse prescribers.",
+    "The 7 eigenvalues are now those of m2consistent with equations (16).",
+    "Each of the three players is now free to believe that the other two players are correlating their strategy choices.",
+    "We are now going to estimate the original integral (63)."
+  ],
+  "list_see_also": [
+    "nowadays",
+    "for now",
+    "just now",
+    "(every) now and then/again",
+    "now",
+    "now then"
+  ],
+  "list_browse": [
+    "novelist",
+    "novelty",
+    "November",
+    "novice",
+    "now",
+    "now then",
+    "nowadays",
+    "nowhere",
+    "nowhere near"
+  ]
+}

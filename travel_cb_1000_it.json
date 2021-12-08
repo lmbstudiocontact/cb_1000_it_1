@@ -1,0 +1,125 @@
+{
+  "english": "travel",
+  "phat_am": "ˈtrӕvl",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "đi lại",
+          "definition": "to go from place to place; to journey",
+          "world_new": [
+            "place",
+            "journey"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I travelled to Scotland by train",
+              "world_new": [
+                "I",
+                "train"
+              ]
+            },
+            {
+              "ex_of_definition": "He has to travel a long way to school.",
+              "world_new": [
+                "long",
+                "school"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "chuyển động",
+          "definition": "to move",
+          "world_new": [
+            "move"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Light travels in a straight line.",
+              "world_new": [
+                "travels",
+                "straight",
+                "line"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đi thăm",
+          "definition": "to visit places, especially foreign countries",
+          "world_new": [
+            "visit",
+            "foreign"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He has travelled a great deal.",
+              "world_new": [
+                "great",
+                "deal"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "đi lại, di chuyển",
+          "definition": "the act of travelling",
+          "world_new": [
+            "act"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "air travel",
+              "world_new": [
+                "air"
+              ]
+            },
+            {
+              "ex_of_definition": "Travel to and from work can be very tiring.",
+              "world_new": [
+                "work",
+                "tiring"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Overall, however, this is a stimulating and scholarly book that deserves to be known widely by readers researching the history of northern travels.",
+    "In this scheme, the charged particles are trapped by the magnetic field and travels in the direction of the field.",
+    "In particular, an analysis of the derived nonlinear equation will demonstrate the existence of nonlinear travelling waves and oscillating standing waves.",
+    "Along with the harsh conditions in the southern and western circuits, the distance justices traveled in those circuits could itself be grueling.",
+    "Second, the time meteoroids have been travelling in space exposed to cosmic rays is relatively short, typically millions of years.",
+    "The audience travelled by ferry between various wharves where most of the performances took place.",
+    "Other contributors concentrate on imports, transfers and the travels of reformers.",
+    "The validation of the steering controller was conducted on both the steering simulator in the laboratory and on the tractor traveling in the field."
+  ],
+  "list_see_also": [
+    "traveller",
+    "travelogue",
+    "travels",
+    "travel agency",
+    "travel agent",
+    "traveller’s cheque"
+  ],
+  "list_browse": [
+    "trash",
+    "trashcan",
+    "trashy",
+    "trauma",
+    "travel",
+    "travel agency",
+    "travel agent",
+    "travel light",
+    "traveller"
+  ]
+}

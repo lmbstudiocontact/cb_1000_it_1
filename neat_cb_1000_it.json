@@ -1,0 +1,88 @@
+{
+  "english": "neat",
+  "phat_am": "niːt",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "gọn gàng",
+          "definition": "tidy; well-ordered, with everything in the right place",
+          "world_new": [
+            "right",
+            "place"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a neat house",
+              "world_new": [
+                "house"
+              ]
+            },
+            {
+              "ex_of_definition": "She is very neat and tidy.",
+              "world_new": [
+                "tidy"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "gọn",
+          "definition": "skilfully/skillfully done",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He has made a neat job of the repair.",
+              "world_new": [
+                "job",
+                "repair"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "nguyên chất",
+          "definition": "(of drink, especially alcoholic) without added water",
+          "world_new": [
+            "drink",
+            "added",
+            "water"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "neat whisky.",
+              "world_new": [
+                "whisky"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "And with that he divided his circle into neat portions - the kinship groups.",
+    "The neat organization of varieties along this continuum demonstrates that the quality of taste is highly salient among growers.",
+    "The community involved comprized of two wards and hence had a neat geographical location.",
+    "Yet such a neat analysis ignores a startling fact : the mobs were highly selective in their attacks.",
+    "Behind this neat isomorphism of ideas, institutions, and book chapters lurks a venerable interpretation of university history.",
+    "First, lesions rarely restrict themselves to neat anatomical divisions that researchers can isolate.",
+    "The neat division into five discourses, itself somewhat resembling the second, analytical mode, provides clarity but runs the risk of oversimplification.",
+    "When the complexities of such linguistic contexts are restored, the neat and tidy political narrative of language endangerment gives way."
+  ],
+  "list_see_also": [
+    "neatness",
+    "neatly"
+  ],
+  "list_browse": [
+    "nearby",
+    "nearly",
+    "nearness",
+    "nearside",
+    "neat",
+    "neatly",
+    "neatness",
+    "necessarily",
+    "necessary"
+  ]
+}

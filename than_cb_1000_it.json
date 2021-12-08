@@ -1,0 +1,50 @@
+{
+  "english": "than",
+  "phat_am": "ðən",
+  "list_english": [
+    {
+      "type_word": "conjunction",
+      "list_definition": [
+        {
+          "mean_english": "hơn",
+          "definition": "a word used in comparisons",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "It is easier than I thought",
+              "world_new": [
+                "I",
+                "thought"
+              ]
+            },
+            {
+              "ex_of_definition": "I sing better than he does",
+              "world_new": [
+                "I",
+                "sing",
+                "better"
+              ]
+            },
+            {
+              "ex_of_definition": "He sings better than me.",
+              "world_new": [
+                "better"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "text message",
+    "textbook",
+    "textile",
+    "texture",
+    "than",
+    "thank",
+    "thank goodness",
+    "thank heavens",
+    "thank one’s lucky stars"
+  ]
+}

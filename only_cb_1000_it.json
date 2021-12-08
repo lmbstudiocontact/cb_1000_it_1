@@ -1,0 +1,161 @@
+{
+  "english": "only",
+  "phat_am": "ˈəunli",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "chỉ",
+          "definition": "without any others of the same type",
+          "world_new": [
+            "type"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He has no brothers or sisters – he’s an only child",
+              "world_new": [
+                "child"
+              ]
+            },
+            {
+              "ex_of_definition": "the only book of its kind.",
+              "world_new": [
+                "book",
+                "its",
+                "kind"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "adverb",
+      "list_definition": [
+        {
+          "mean_english": "duy nhất",
+          "definition": "not more than",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We have only two cups left",
+              "world_new": [
+                "left"
+              ]
+            },
+            {
+              "ex_of_definition": "He lives only a mile away.",
+              "world_new": [
+                "mile"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "một mình",
+          "definition": "alone",
+          "world_new": [
+            "alone"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Only you can do it."
+            }
+          ]
+        },
+        {
+          "mean_english": "đáng xét nhất",
+          "definition": "showing the one action done, in contrast to other possibilities",
+          "world_new": [
+            "action",
+            "contrast"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I only scolded the child – I did not smack him.",
+              "world_new": [
+                "I",
+                "child",
+                "I",
+                "smack"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "chỉ mới",
+          "definition": "not longer ago than",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I saw him only yesterday.",
+              "world_new": [
+                "I",
+                "saw",
+                "yesterday"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "chắc chắn sẽ",
+          "definition": "showing the one possible result of an action",
+          "world_new": [
+            "possible",
+            "result",
+            "action"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "If you do that, you’ll only make him angry.",
+              "world_new": [
+                "angry"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "conjunction",
+      "list_definition": [
+        {
+          "mean_english": "nhưng",
+          "definition": "except that, but",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I’d like to go, only I have to work.",
+              "world_new": [
+                "I",
+                "work"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "But this is only the first stage of the argument.",
+    "Thus, the only acceptable solution is the forced solution itself.",
+    "The past perfect and the conditional tense, on the other hand, can only be used as relative tenses.",
+    "This only happens in the regime k 0.",
+    "Here we will describe only the first one.",
+    "Second, we must only manipulate the independent variables.",
+    "Major alterations to the text will be accepted only at the author's expense.",
+    "Only four had more than two children and eight had only one."
+  ],
+  "list_see_also": [
+    "only too"
+  ],
+  "list_browse": [
+    "oneself",
+    "ongoing",
+    "onion",
+    "onlooker",
+    "only",
+    "only too",
+    "onomatopoeia",
+    "onomatopoeic",
+    "onset"
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "english": "overdo",
+  "phat_am": "əuvəˈduː",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "hành động thái quá",
+          "definition": "to do, say (something) in an exaggerated way etc",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "They overdid the sympathy.",
+              "world_new": [
+                "sympathy"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "nấu quá nhừ",
+          "definition": "to cook for too long",
+          "world_new": [
+            "cook",
+            "long"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The meat was rather overdone.",
+              "world_new": [
+                "meat",
+                "rather"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Stay active but don't overdo it.",
+    "Student no. 1 tried to reduce the quantity of information processed by overdoing movements and developing exercises based on par ts of the piece.",
+    "I am sure that the constituency angle is overdone.",
+    "Li wants to correct these defects, but some would say that he has overdone it because he teaches students to shout rather than to speak.",
+    "We all want cheering up sometimes, but the thing can be overdone.",
+    "Thus overdo has uses that are hardly related at all to uses of do, as in (100).",
+    "It is overdoing it a bit to suggest that the only issue was cheap fares and that people understood it as such.",
+    "I agree that we should act and react, but we should not overdo it, because we need a balanced approach."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "overcoat",
+    "overcome",
+    "overcrowded",
+    "overcrowding",
+    "overdo",
+    "overdose",
+    "overdraft",
+    "overdrawn",
+    "overdue"
+  ]
+}

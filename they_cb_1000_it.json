@@ -1,0 +1,57 @@
+{
+  "english": "they",
+  "phat_am": "ðei",
+  "list_english": [
+    {
+      "type_word": "pronoun",
+      "list_definition": [
+        {
+          "mean_english": "người vật đã được đề cập đến",
+          "definition": "persons, animals or things already spoken about, being pointed out etc",
+          "world_new": [
+            "spoken",
+            "pointed"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "They are in the garden.",
+              "world_new": [
+                "garden"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "người ta",
+          "definition": "used instead of he, he or she etc when the person’s sex is unknown or when people of both sexes are being referred to",
+          "world_new": [
+            "instead",
+            "sex",
+            "unknown",
+            "people"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "If anyone does that, they are to be severely punished.",
+              "world_new": [
+                "severely"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "thermostatic",
+    "thermostatically",
+    "thesaurus",
+    "thesis",
+    "they",
+    "thick",
+    "thick and fast",
+    "thick-skinned",
+    "thicken"
+  ]
+}

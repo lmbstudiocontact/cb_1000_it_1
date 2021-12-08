@@ -1,0 +1,53 @@
+{
+  "english": "usually",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "adverb",
+      "list_definition": [
+        {
+          "mean_english": "thường xuyên",
+          "definition": "on most occasions",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We are usually at home in the evenings",
+              "world_new": [
+                "home"
+              ]
+            },
+            {
+              "ex_of_definition": "Usually we finish work at 5 o’clock.",
+              "world_new": [
+                "finish",
+                "work",
+                "o’clock"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Such omissions usually happen for pragmatic rather than theoretical reasons.",
+    "Although the convent's credit varied from 200 to 20,000 pesos in single transactions, the average amount was usually between 3,000-5,000 pesos.",
+    "Luminance gradients are usually thought to provide cues about the interactions of light and surfaces that model the volume of the resulting object.",
+    "Researchers could be misled by the publications of the first category because they were usually censored by the government to fit its propaganda purposes.",
+    "This is a reasonable assumption because individual trees serving as parents are usually selected randomly from natural populations.",
+    "The large number of small parties is usually explained in two ways.",
+    "The history of the relationship between insurance and civil society, as usually told, is an anticlimactic narrative.",
+    "Note that intractability assumptions for random instances are much stronger than complexity-theoretic assumptions, which usually refer only to the worst case."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "user guide",
+    "user-friendly",
+    "usher",
+    "usual",
+    "usually",
+    "usurp",
+    "usurper",
+    "utensil",
+    "uterus"
+  ]
+}

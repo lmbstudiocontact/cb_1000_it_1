@@ -1,0 +1,76 @@
+{
+  "english": "skill",
+  "phat_am": "skil",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự khéo léo, sự tinh xảo",
+          "definition": "cleverness at doing something, resulting either from practice or from natural ability",
+          "world_new": [
+            "cleverness",
+            "practice",
+            "natural",
+            "ability"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "This job requires a lot of skill.",
+              "world_new": [
+                "job"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "kĩ năng, kĩ xảo",
+          "definition": "a job or activity that requires training and practice; an art or craft",
+          "world_new": [
+            "job",
+            "activity",
+            "training",
+            "art",
+            "craft"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "the basic skills of reading and writing.",
+              "world_new": [
+                "basic",
+                "reading"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Other representations concerned with technical, cognitive and musical skills may be acquired concurrently.",
+    "Research into semantic skills focuses less on the qualitative aspects of linguistic competence than does research into phonological and morphosyntactic skills.",
+    "Chapters discuss the nature, forms and functions of argument and its role in teaching and learning; several provide ideas for developing the skills of argument.",
+    "The skill of the orchestration is such that the closing fanfare, that makes the loudest noise in the score, involves a mere 12 players.",
+    "The recent theoretical literature attributes the increased education premium of the last decades to skill-biased technological progress.",
+    "By teaching useful strategies in the four skill areas, students will have the ability and confidence needed to decode the target language.",
+    "To replicate simultaneously individual pitches or short melodic patterns after an auditory stimulus involves fewer synthesis skills and requires less self-monitoring over time.",
+    "The inter-personal skills of the teacher also influence teaching effectiveness."
+  ],
+  "list_see_also": [
+    "skilful",
+    "skilfully",
+    "skilfulness",
+    "skilled"
+  ],
+  "list_browse": [
+    "skiing",
+    "skilful",
+    "skilfully",
+    "skilfulness",
+    "skill",
+    "skilled",
+    "skim",
+    "skimmed milk",
+    "skimp"
+  ]
+}

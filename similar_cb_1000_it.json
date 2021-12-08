@@ -1,0 +1,54 @@
+{
+  "english": "similar",
+  "phat_am": "ˈsimilə",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "tương tự",
+          "definition": "(often with to) alike in many (often most) ways",
+          "world_new": [
+            "alike"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "My house is similar to yours",
+              "world_new": [
+                "house"
+              ]
+            },
+            {
+              "ex_of_definition": "Our jobs are similar."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The dissociation levels near the body are similar for the different free-stream conditions.",
+    "The results for 15 %\\25 % selection are similar to those for 20 %\\20 % selection.",
+    "We can now substitute from (62) into the kinematic and dynamic boundary conditions to give equation8 similar to (44) and (45).",
+    "We will check the first statement, the other being similar.",
+    "The results for the remaining four clusters are similar.",
+    "We will prove it for the -limit, the other part being similar.",
+    "For both of these cases, it is clear that the equilibrium interface shape and final equilibrium configuration are very similar for the two cases.",
+    "For the remaining cases the proofs are similar."
+  ],
+  "list_see_also": [
+    "similarity",
+    "similarly"
+  ],
+  "list_browse": [
+    "silt up",
+    "silver",
+    "silver foil",
+    "silvery",
+    "similar",
+    "similarity",
+    "similarly",
+    "simile",
+    "simmer"
+  ]
+}

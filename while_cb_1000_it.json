@@ -1,0 +1,99 @@
+{
+  "english": "while",
+  "phat_am": "wail",
+  "list_english": [
+    {
+      "type_word": "conjunction",
+      "list_definition": [
+        {
+          "mean_english": "trong khi",
+          "definition": "during the time that",
+          "world_new": [
+            "time"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I saw him while I was out walking.",
+              "world_new": [
+                "I",
+                "saw",
+                "I"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "mặc dù",
+          "definition": "although",
+          "world_new": [
+            "although"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "While I sympathize, I can’t really do very much to help.",
+              "world_new": [
+                "I",
+                "sympathize",
+                "I",
+                "help"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "một lúc",
+          "definition": "a space of time",
+          "world_new": [
+            "space",
+            "time"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "It took me quite a while",
+              "world_new": [
+                "quite"
+              ]
+            },
+            {
+              "ex_of_definition": "It’s a long while since we saw her.",
+              "world_new": [
+                "long",
+                "saw"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Twentythree second elections resulted in a lower effective number of parties, while only seven second elections resulted in a higher effective number of parties.",
+    "While the character was absent, another character removed the object from the location, and replaced it with a different object.",
+    "These proscriptions, while useful in economics, may obfuscate important psychological phenomena.",
+    "While purely indefinite examples are hard to come by, verbal gerunds do participate in the ambiguity patterns also found for bare nominal gerunds.",
+    "This indicator aimed to validate teachers' approach to lesson planning while attempting to link teacher thinking and administrator thinking through a shared discourse.",
+    "While it does not necessarily shatter all of our illusions, it surely remains an insurmountable obstacle for any project of self-created human happiness.",
+    "Cycles were considered as fixed effects while year was a random effect.",
+    "The former tries to delay some computations while the second drives different computations through a tree of branching paths."
+  ],
+  "list_see_also": [
+    "while away",
+    "worth one’s while"
+  ],
+  "list_browse": [
+    "which",
+    "which is which(?)",
+    "whichever",
+    "whiff",
+    "while",
+    "while away",
+    "whim",
+    "whimper",
+    "whine"
+  ]
+}

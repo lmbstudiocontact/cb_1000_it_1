@@ -1,0 +1,100 @@
+{
+  "english": "respond",
+  "phat_am": "rəˈspond",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "trả lời",
+          "definition": "to answer with words, a reaction, gesture etc",
+          "world_new": [
+            "answer",
+            "reaction",
+            "gesture"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He didn’t respond to my question",
+              "world_new": [
+                "my",
+                "question"
+              ]
+            },
+            {
+              "ex_of_definition": "I smiled at her, but she didn’t respond.",
+              "world_new": [
+                "I"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "phản ứng",
+          "definition": "to show a good reaction eg to some course of treatment",
+          "world_new": [
+            "reaction",
+            "course",
+            "treatment"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "His illness did not respond to treatment by drugs.",
+              "world_new": [
+                "illness",
+                "treatment"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "chịu sự điều khiển",
+          "definition": "(of vehicles etc) to be guided easily by controls",
+          "world_new": [
+            "easily"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The pilot said the plane did not respond to the controls.",
+              "world_new": [
+                "pilot",
+                "plane"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The task requires the use of word recognition skills to recognize a word or lexical item in order to respond.",
+    "This is an important issue because the underlying reasons for cost differences are crucial to knowing how best to respond to them.",
+    "Caregivers were also asked to identify which health professional strategies helped them prepare for and respond to their relative's death.",
+    "Some stimuli, if responded to, engender reward while others, if responded to, engender punishment.",
+    "The unit responded strongly when the edge was at a 0-pixel disparity in the middle of its receptive field.",
+    "Therefore, it is possible that homonyms would be responded to more accurately than novel words in a task emphasizing lexical representations, such as picture naming.",
+    "It presents the results of scholarly work in an accessible form, while at the same time responding to current events.",
+    "Other stimuli that will contribute to the pattern of responding include passage of time and environment (context)."
+  ],
+  "list_see_also": [
+    "response",
+    "responsibility",
+    "responsible",
+    "responsibly",
+    "responsive",
+    "responsively",
+    "responsiveness",
+    "response partners"
+  ],
+  "list_browse": [
+    "respite",
+    "resplendence",
+    "resplendent",
+    "resplendently",
+    "respond",
+    "response",
+    "response partners",
+    "responsibility",
+    "responsible"
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "english": "symbol",
+  "phat_am": "ˈsimbəl",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "biểu tượng",
+          "definition": "a thing that is regarded as representing or standing for another",
+          "world_new": [
+            "standing"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The dove is the symbol of peace.",
+              "world_new": [
+                "dove",
+                "peace"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Let (k) be the set of bi-infinite sequences on k symbols.",
+    "Indeed, if the symbol of the hunter dominated the ideology of the state, the notion of the blacksmith was more visible in personal\\residential relations.",
+    "The grey area surrounded by a symbol shows the allowable range for the control points to stay within the designated vehicle class.",
+    "Perhaps those mysterious mathematical symbols did mean something after all.",
+    "His flowing graphism is not only an elegant record of the physical movement of the artist's hand, but a symbol of the motion of atoms.",
+    "We also assume that the code of syntactic objects (such as type statements and type derivations) is elementary in the number of symbol-occurrences therein.",
+    "Algorithmic aesthetics are developed based on the aesthetic measure theory, surveys of human preferences, and popular long-lasting symbols.",
+    "Contributions of the visual components of oral symbols to speech comprehension."
+  ],
+  "list_see_also": [
+    "symbolic",
+    "symbolically",
+    "symbolize",
+    "symbolism"
+  ],
+  "list_browse": [
+    "syllabus",
+    "symbiosis",
+    "symbiotic",
+    "symbiotically",
+    "symbol",
+    "symbolic",
+    "symbolically",
+    "symbolism",
+    "symbolize"
+  ]
+}

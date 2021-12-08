@@ -1,0 +1,47 @@
+{
+  "english": "particularly",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "adverb",
+      "list_definition": [
+        {
+          "mean_english": "đặc biệt",
+          "definition": "more than usually",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He was particularly pleased to see his brother.",
+              "world_new": [
+                "pleased",
+                "see",
+                "brother"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "There was a significant relation between reaction times on the identification task and past burden of illness, particularly past number of depressions.",
+    "This was particularly evident among the academically weaker students.",
+    "The geographical metaphor is particularly useful when discussing the internal structure of a program, and hence it tends to predominate in more technical texts.",
+    "This was particularly so for women carers of those with dementia, 47% of whom were depressed compared with 11% of carers of the physically impaired.",
+    "The gender differences are fairly modest, particularly among non-married older people, for whom the interpretation is most straightforward.",
+    "They also reported far less use of hospital services (particularly paediatric outpatients).",
+    "The journal particularly encourages studies which integrate philosophical, historical and sociological considerations.",
+    "Based on this definition, life review is a particularly structured form of reminiscence."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "participation",
+    "participle",
+    "particle",
+    "particular",
+    "particularly",
+    "particulars",
+    "parting",
+    "partisan",
+    "partition"
+  ]
+}

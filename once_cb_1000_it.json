@@ -1,0 +1,98 @@
+{
+  "english": "once",
+  "phat_am": "wans",
+  "list_english": [
+    {
+      "type_word": "adverb",
+      "list_definition": [
+        {
+          "mean_english": "một lần",
+          "definition": "a single time",
+          "world_new": [
+            "single",
+            "time"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He did it once"
+            },
+            {
+              "ex_of_definition": "If I could see her once again I would be happy.",
+              "world_new": [
+                "I",
+                "see",
+                "I",
+                "happy"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đã từng",
+          "definition": "at a time in the past",
+          "world_new": [
+            "time"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I once wanted to be a dancer.",
+              "world_new": [
+                "I",
+                "wanted",
+                "dancer"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "conjunction",
+      "list_definition": [
+        {
+          "mean_english": "khi",
+          "definition": "when; as soon as",
+          "world_new": [
+            "soon"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Once (it had been) unlocked, the door opened easily.",
+              "world_new": [
+                "door",
+                "easily"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "They can then be easily picked up with a small moistened paint-brush and transferred at once to the alcohol in the collecting tubes.",
+    "The designer once again turns on the visual information service and specifies this new problem.",
+    "Once the particles are trapped, streptavidin is introduced in solution at the trap location and bond with the biotin on the particles.",
+    "In this book several main themes are at once apparent.",
+    "Once again, the stimulus will be sufficient to force the correct perception.",
+    "The pieces of maize stems were replaced once every two days.",
+    "Once such a set is deter1 mined on a reference plane, the surfaces are essentially fixed for the entire flow field.",
+    "So once having understood these two different options, why do we need any recourse to economy?"
+  ],
+  "list_see_also": [
+    "at once",
+    "(just) for once",
+    "once and for all",
+    "once in a while"
+  ],
+  "list_browse": [
+    "on vacation",
+    "on view",
+    "on-line",
+    "on/under oath",
+    "once",
+    "once and for all",
+    "once in a blue moon",
+    "once in a while",
+    "oncoming"
+  ]
+}

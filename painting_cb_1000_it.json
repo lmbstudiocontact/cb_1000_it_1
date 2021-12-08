@@ -1,0 +1,55 @@
+{
+  "english": "painting",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "hội hoạ",
+          "definition": "the act or art of using paint",
+          "world_new": [
+            "act",
+            "art",
+            "paint"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Painting is very relaxing.",
+              "world_new": [
+                "relaxing"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "bức hoạ",
+          "definition": "a painted picture",
+          "world_new": [
+            "picture"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "There were four paintings (hanging) on the wall.",
+              "world_new": [
+                "wall"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "paint",
+    "paintbox",
+    "paintbrush",
+    "painter",
+    "painting",
+    "paintwork",
+    "pair",
+    "pal",
+    "palace"
+  ]
+}

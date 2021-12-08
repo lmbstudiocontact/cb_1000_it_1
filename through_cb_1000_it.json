@@ -1,0 +1,175 @@
+{
+  "english": "through",
+  "phat_am": "θruː",
+  "list_english": [
+    {
+      "type_word": "preposition",
+      "list_definition": [
+        {
+          "mean_english": "qua, xuyên qua",
+          "definition": "into from one direction and out of in the other",
+          "world_new": [
+            "direction"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The water flows through a pipe.",
+              "world_new": [
+                "water",
+                "pipe"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "khắp",
+          "definition": "from side to side or end to end of",
+          "world_new": [
+            "side",
+            "side"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He walked (right) through the town.",
+              "world_new": [
+                "town"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "suốt, hết, từ đầu đến cuối",
+          "definition": "from the beginning to the end of",
+          "world_new": [
+            "beginning"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She read through the magazine.",
+              "world_new": [
+                "read",
+                "magazine"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "vì, bởi vì",
+          "definition": "because of",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He lost his job through his own stupidity.",
+              "world_new": [
+                "lost",
+                "job",
+                "stupidity"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "nhờ, bằng cách",
+          "definition": "by way of",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He got the job through a friend.",
+              "world_new": [
+                "job",
+                "friend"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "từ…..đến (thời gian)",
+          "definition": "from … to (inclusive)",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I work Monday through Friday.",
+              "world_new": [
+                "I",
+                "work",
+                "Monday",
+                "Friday"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "adverb",
+      "list_definition": [
+        {
+          "mean_english": "qua, xuyên qua",
+          "definition": "into and out of; from one side or end to the other; from beginning to end",
+          "world_new": [
+            "side",
+            "beginning"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He went straight/right through."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "chạy suốt",
+          "definition": "(of a bus or train) that goes all the way to one’s destination, so that one doesn’t have to change (buses or trains)",
+          "world_new": [
+            "bus",
+            "destination",
+            "change"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "There isn’t a through train – you’ll have to change.",
+              "world_new": [
+                "train",
+                "change"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "kết thúc",
+          "definition": "finished",
+          "world_new": [
+            "finished"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Are you through yet?",
+              "world_new": [
+                "yet"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "throughout",
+    "all through",
+    "soaked/wet through",
+    "through and through",
+    "through with"
+  ],
+  "list_browse": [
+    "thrombosis",
+    "throne",
+    "throng",
+    "throttle",
+    "through",
+    "through and through",
+    "through the (kind) offices of",
+    "through thick and thin",
+    "through with"
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "english": "quite",
+  "phat_am": "kwait",
+  "list_english": [
+    {
+      "type_word": "adverb",
+      "list_definition": [
+        {
+          "mean_english": "hoàn toàn",
+          "definition": "completely; entirely",
+          "world_new": [
+            "entirely"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "This is quite impossible.",
+              "world_new": [
+                "impossible"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "khá",
+          "definition": "fairly; rather; to a certain extent",
+          "world_new": [
+            "certain",
+            "extent"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "It’s quite warm today",
+              "world_new": [
+                "warm"
+              ]
+            },
+            {
+              "ex_of_definition": "He’s quite a good artist",
+              "world_new": [
+                "artist"
+              ]
+            },
+            {
+              "ex_of_definition": "I quite like the idea.",
+              "world_new": [
+                "I",
+                "idea"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "interjection",
+      "list_definition": [
+        {
+          "mean_english": "chính xác",
+          "definition": "exactly; indeed; I agree",
+          "world_new": [
+            "I",
+            "agree"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "‘I think he is being unfair to her.’ ‘Quite’.",
+              "world_new": [
+                "think",
+                "unfair"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The transformation of the body by burning implies quite different things within different eschatologies.",
+    "The method is quite straightforward and is being further developed.",
+    "Second, she shows that the notion that merchant families survived for three successive generations was quite rare.",
+    "Results for this grouping were quite similar to those reported above.",
+    "They found these thresholds to be quite poor in newborns, and substantially immature at the oldest age they tested.",
+    "Imports of raw cotton only gradually took up the slack-and then only in quite erratic fashion.",
+    "After all, these regulations were promulgated quite late.",
+    "Recently my five-yearold returned home from school quite pleased with herself."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "quintuplet",
+    "quip",
+    "quirk",
+    "quit",
+    "quite",
+    "quiver",
+    "quiz",
+    "quiz-master",
+    "quoits"
+  ]
+}

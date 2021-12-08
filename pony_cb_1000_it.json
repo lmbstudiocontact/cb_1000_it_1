@@ -1,0 +1,53 @@
+{
+  "english": "pony",
+  "phat_am": "ˈpəuni",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "ngựa nhỏ pony",
+          "definition": "a small horse",
+          "world_new": [
+            "small",
+            "horse"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The child was riding a brown pony.",
+              "world_new": [
+                "child",
+                "brown"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "There are approximately 140,000 acres of moor on which there are about 5,000 cattle, 2,000 ponies and 40,000 sheep.",
+    "The heterogeneities present in a data set of experimentally infected ponies are examined, and a model of equine influenza that incorporates some of this heterogeneity is derived.",
+    "There is serious overbreeding because many horses, donkeys and ponies are not needed and therefore neglected.",
+    "The ponies with their chisel-like teeth crop very close, and it is very difficult to establish a good sward in these conditions.",
+    "Is it, perhaps, intended to make the breeding of ponies more profitable?",
+    "There is not a colliery owner in this country who keeps his ponies at a mere subsistence level.",
+    "The dealers are interested in the fate of their ponies, and they know the sort of people to whom they sell them.",
+    "They are not fairly described as scrub ponies."
+  ],
+  "list_see_also": [
+    "ponytail",
+    "pony-trekking"
+  ],
+  "list_browse": [
+    "ponder",
+    "pong pong",
+    "pontiff",
+    "pontoon",
+    "pony",
+    "pony-trekking",
+    "ponytail",
+    "poodle",
+    "pool"
+  ]
+}

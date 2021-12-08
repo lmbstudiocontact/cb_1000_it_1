@@ -1,0 +1,53 @@
+{
+  "english": "mow",
+  "phat_am": "məu",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "cắt; gặt",
+          "definition": "to cut (grass etc) with a scythe or mower",
+          "world_new": [
+            "cut",
+            "scythe",
+            "mower"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He mowed the lawn.",
+              "world_new": [
+                "lawn"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "In our experiment, the regenerative capacity of thistles was considerably lower than that of clover when ryegrass- clover ley was mowed and/or mulched.",
+    "The rye was mown and incorporated into the soil by disking in spring 2003.",
+    "The functions of shepherd, pigman, cowman, and so on, must have been more specialised, and 'labourers' could be engaged in more general tasks, probably mowing and haymaking as well.",
+    "A mowing machine, not defined in legislation, is considered to be a vehicle designed and constructed purely for cutting grass.",
+    "They also maintained their orchard floors by mowing resident vegetation and avoiding or reducing tillage, which can be a money-saving strategy.",
+    "Grandsons often did chores such as cutting wood, mowing grass or providing transport.",
+    "Residues were mown prior to corn planting and after corn harvest.",
+    "With their wide, wasteful verges which have to be expensively mown, they use up 40 acres a mile."
+  ],
+  "list_see_also": [
+    "mower",
+    "mow down"
+  ],
+  "list_browse": [
+    "movement",
+    "movie",
+    "moving",
+    "movingly",
+    "mow",
+    "mow down",
+    "mower",
+    "MP",
+    "mpg"
+  ]
+}

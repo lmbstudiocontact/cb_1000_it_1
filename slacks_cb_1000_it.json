@@ -1,0 +1,40 @@
+{
+  "english": "slacks",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun plural",
+      "list_definition": [
+        {
+          "mean_english": "đoạn chùng, chỗ chùng",
+          "definition": "trousers, usually loose-fitting, worn informally by men or women",
+          "world_new": [
+            "trousers",
+            "worn",
+            "informally"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a pair of slacks.",
+              "world_new": [
+                "pair"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "slack",
+    "slacken",
+    "slackly",
+    "slackness",
+    "slacks",
+    "slalom",
+    "slam",
+    "slander",
+    "slang"
+  ]
+}

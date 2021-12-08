@@ -1,0 +1,89 @@
+{
+  "english": "occupy",
+  "phat_am": "ˈokjupai",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "chiếm giữ",
+          "definition": "to be in or fill (time, space etc)",
+          "world_new": [
+            "fill",
+            "space"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "A table occupied the centre of the room.",
+              "world_new": [
+                "table",
+                "centre",
+                "room"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "cư ngụ",
+          "definition": "to live in",
+          "world_new": [
+            "live"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The family occupied a small flat.",
+              "world_new": [
+                "family",
+                "small",
+                "flat"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "bắt giữ",
+          "definition": "to capture",
+          "world_new": [
+            "capture"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The soldiers occupied the town.",
+              "world_new": [
+                "town"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Sheiling settlements, which would have been occupied in the summer months, survive extensively due to their now marginal location.",
+    "Frequently former chiefs occupied posts in the new hierarchies of popular power or the latter co-existed with royal rule by other means.",
+    "The third is stopped, occupying the upper area of the common workspace and constitutes a static obstacle.",
+    "The lead paper in this short book occupies roughly one-third of the total: the remainder consists of commentaries.",
+    "Classes often start late and are shorter than the scheduled hours, and quite frequently, because their teachers are otherwise occupied, classes are postponed or cancelled.",
+    "Any part of the soil surface that is not occupied by crop species is potentially subject to invasion by weedy species.",
+    "In this approach mathematical pattern occupies the first place.",
+    "The area occupied by damaged cells did not exceed 10% of the total surface area occupied by axis cells."
+  ],
+  "list_see_also": [
+    "occupancy",
+    "occupant",
+    "occupation",
+    "occupational",
+    "occupier"
+  ],
+  "list_browse": [
+    "occupant",
+    "occupation",
+    "occupational",
+    "occupier",
+    "occupy",
+    "occur",
+    "occurrence",
+    "ocean",
+    "ochre"
+  ]
+}

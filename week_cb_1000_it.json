@@ -1,0 +1,94 @@
+{
+  "english": "week",
+  "phat_am": "wiːk",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "tuần",
+          "definition": "any sequence of seven days, especially from Sunday to Saturday",
+          "world_new": [
+            "sequence",
+            "Sunday",
+            "Saturday"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "It’s three weeks since I saw her.",
+              "world_new": [
+                "I",
+                "saw"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tuần năm ngày",
+          "definition": "the five days from Monday to Friday inclusive",
+          "world_new": [
+            "Monday",
+            "Friday",
+            "inclusive"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He can’t go during the week, but he’s free on Saturday or Sunday.",
+              "world_new": [
+                "free",
+                "Saturday",
+                "Sunday"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tuần làm việc",
+          "definition": "the amount of time spent working during a period of seven days",
+          "world_new": [
+            "amount",
+            "time",
+            "spent",
+            "period"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He works a forty-eight-hour week.",
+              "world_new": [
+                "works"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "However, the results after three weeks were quite low.",
+    "According to them, the most changeable period for fetal heart rate is between 28 and 30 weeks.",
+    "Plots receiving the drought treatment were also irrigated every 2 weeks until 30 days before anthesis, when water was withdrawn.",
+    "She presented 4 weeks after reoperation with fresh haemoptysis and was subsequently found at delayed emergency surgery to have a leaking false aortic aneurysm.",
+    "The trials were conducted over a period of 8 weeks using five replicates for each treatment.",
+    "Which customer did the mechanic fix the wheel for two weeks ago?",
+    "Plant and ear heights were determined approximately 2 weeks after anthesis.",
+    "In about 2 months, 100% of the subjects showed recovery 2 mild mood symptoms for at least 8 weeks!."
+  ],
+  "list_see_also": [
+    "weekly",
+    "weekday",
+    "weekend",
+    "a week last Friday etc",
+    "a week today/tomorrow"
+  ],
+  "list_browse": [
+    "Wednesday",
+    "weed",
+    "weed out",
+    "weedkiller",
+    "week",
+    "weekday",
+    "weekend",
+    "weekly",
+    "weep"
+  ]
+}

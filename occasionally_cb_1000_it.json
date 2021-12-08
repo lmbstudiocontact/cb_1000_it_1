@@ -1,0 +1,46 @@
+{
+  "english": "occasionally",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "adverb",
+      "list_definition": [
+        {
+          "mean_english": "thỉnh thoảng",
+          "definition": "now and then",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I occasionally go to the theatre.",
+              "world_new": [
+                "I",
+                "theatre"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Many hospitals have clinical ethics committees, which have occasionally been asked to review research protocols.",
+    "Second, though, in the midst of an interesting discussion, a voice occasionally ' trails off ' and fails to respond.",
+    "Only one-fifth (20%) claimed to have participated in these activities regularly, while close to one-third (32 %) attended only occasionally.",
+    "But it is significantly harder to ensure robust behaviour with unsafe interval arithmetic since occasionally the solution is lost, too.",
+    "Many of the more valuable species need large areas (albeit only occasionally) to persist.",
+    "These are, however, minor matters and it is important to acknowledge the book's strengths, as a readable, stimulating and occasionally touching study.",
+    "Extensive studies in the surrounding forest by the authors confirmed that epiphytes occur only occasionally on ant and termite substrate other than ant gardens.",
+    "Nevertheless, there is sometimes an elective affinity between methodological statements and positive claims, although occasionally the same methodological statements are used for opposite purposes."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "obvious",
+    "obviously",
+    "occasion",
+    "occasional",
+    "occasionally",
+    "occipital",
+    "occult",
+    "occupancy",
+    "occupant"
+  ]
+}

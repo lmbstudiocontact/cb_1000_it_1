@@ -1,0 +1,58 @@
+{
+  "english": "training",
+  "phat_am": "",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "sự huấn luyện",
+          "definition": "preparation for a sport",
+          "world_new": [
+            "preparation",
+            "sport"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He has gone into training for the race.",
+              "world_new": [
+                "race"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "khóa huấn luyện",
+          "definition": "the process of learning (the practical side of) a job",
+          "world_new": [
+            "process",
+            "learning",
+            "practical",
+            "side",
+            "job"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "It takes many years of training to be a doctor.",
+              "world_new": [
+                "doctor"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "train",
+    "trained",
+    "trainee",
+    "trainer",
+    "training",
+    "trait",
+    "traitor",
+    "tram",
+    "tramp"
+  ]
+}

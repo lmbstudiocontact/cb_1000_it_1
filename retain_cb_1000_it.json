@@ -1,0 +1,82 @@
+{
+  "english": "retain",
+  "phat_am": "rəˈtein",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "giữ được; nhớ được",
+          "definition": "to continue to have, use, remember etc; to keep in one’s possession, memory etc",
+          "world_new": [
+            "continue",
+            "remember",
+            "keep",
+            "possession",
+            "memory"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He finds it difficult to retain information",
+              "world_new": [
+                "difficult",
+                "information"
+              ]
+            },
+            {
+              "ex_of_definition": "These dishes don’t retain heat very well.",
+              "world_new": [
+                "heat"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "giữ lại",
+          "definition": "to hold (something) back or keep (something) in its place",
+          "world_new": [
+            "hold",
+            "keep",
+            "its",
+            "place"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "This wall was built to retain the water from the river in order to prevent flooding.",
+              "world_new": [
+                "wall",
+                "water",
+                "river",
+                "order",
+                "prevent",
+                "flooding"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "As once essentially residential communities matured, politicians sought to raise their tax revenues whilst retaining small-scale, almost village life, within an increasingly urbanized milieu.",
+    "How were scholars to live in the world while retaining an otherworldly image?",
+    "We retained these items, however, because we wanted to compare the relative influence of family violence on an array of social dimensions including network size.",
+    "The samples from a1 to f1 retain a midline orientation that features tongue retraction.",
+    "These findings indicate that beginning readers retained some visual orthographic features of words in memory even after a 3-day delay.",
+    "At what rate do learners learn and retain new vocabulary from reading a graded reader?",
+    "Whatever its precise nature, however, protolanguage and the other languages that eventually evolved would, forever after, retain some of that melody.",
+    "Authors should retain a copy of the original manuscript."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "resuscitate",
+    "resuscitation",
+    "retail",
+    "retailer",
+    "retain",
+    "retake",
+    "retaliate",
+    "retaliation",
+    "retard"
+  ]
+}

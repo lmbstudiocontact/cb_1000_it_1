@@ -1,0 +1,55 @@
+{
+  "english": "weep",
+  "phat_am": "wiːp",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "nhỏ nước mắt",
+          "definition": "to shed tears",
+          "world_new": [
+            "shed"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She wept when she heard the terrible news",
+              "world_new": [
+                "terrible",
+                "news"
+              ]
+            },
+            {
+              "ex_of_definition": "They wept tears of happiness.",
+              "world_new": [
+                "happiness"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "He told me that he wept for his nation, the nation that he loved.",
+    "Each week, that child screamed, wept and had to be helped out of the class room.",
+    "At that time the bitterest tears were wept over the unfortunate position of the free licence holders.",
+    "His wife comes to him with the weeping child and tells him what she has learned.",
+    "The little boy left the court still weeping bitterly.",
+    "Men and women who have visited my surgery have wept openly because they cannot get a council house or be transferred to another.",
+    "First, there will be children weeping at home this weekend because their parents are not taking them on holiday this year.",
+    "Of course, we all wept copiously and hoped for the best; and now we know what happened."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "week",
+    "weekday",
+    "weekend",
+    "weekly",
+    "weep",
+    "weigh",
+    "weigh anchor",
+    "weigh in",
+    "weigh out"
+  ]
+}

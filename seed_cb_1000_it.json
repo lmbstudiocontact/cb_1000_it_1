@@ -1,0 +1,132 @@
+{
+  "english": "seed",
+  "phat_am": "siːd",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "hạt giống",
+          "definition": "the (part of) the fruit of a tree, plant etc from which a new plant may be grown",
+          "world_new": [
+            "fruit",
+            "tree",
+            "plant",
+            "plant",
+            "grown"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "sunflower seeds",
+              "world_new": [
+                "sunflower"
+              ]
+            },
+            {
+              "ex_of_definition": "grass seed.",
+              "world_new": [
+                "grass"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "mầm mống, nguồn gốc",
+          "definition": "the beginning from which anything grows",
+          "world_new": [
+            "beginning"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "There was already a seed of doubt in her mind.",
+              "world_new": [
+                "doubt",
+                "mind"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đấu thủ hạt giống",
+          "definition": "(in a sporting competition etc) a seeded player",
+          "world_new": [
+            "sporting",
+            "competition",
+            "seeded",
+            "player"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She’s third seed in the competition.",
+              "world_new": [
+                "competition"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "sinh ra hạt",
+          "definition": "(of a plant) to produce seed",
+          "world_new": [
+            "produce"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "A plant seeds after it has flowered.",
+              "world_new": [
+                "plant",
+                "flowered"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "lựa chọn đấu thủ hạt giống",
+          "definition": "in golf, tennis etc, to arrange (good players) in a competition so that they do not compete against each other till the later rounds.",
+          "world_new": [
+            "golf",
+            "tennis",
+            "arrange",
+            "competition",
+            "compete",
+            "rounds"
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "On the other hand, seeds survived longer at lower than at higher temperatures.",
+    "In four instances, the testa was removed from one end of the seed and the fleshy cotyledons eaten from the centre.",
+    "A number of protective mechanisms associated with seed desiccation tolerance have been identified through studies on acquisition and loss of desiccation tolerance in orthodox seeds.",
+    "If the glucosinolate content of rapeseed seed meal remains low, it too can be used as a feed supplement.",
+    "The screening system permitted a population approach for quantification of changes in seed population thermal behaviour in relation to dormancy loss.",
+    "There is also a list of over 40 institutes and individuals working on jackfruit, and 25 pages of recipes using the fruit or seeds.",
+    "Figure 2 summarizes seed selectivities ranked by mass for each granivore class separately.",
+    "Additionally, in desiccation-sensitive seeds, protective antioxidant systems may also fail."
+  ],
+  "list_see_also": [
+    "seeded",
+    "seedling",
+    "seedy",
+    "seediness",
+    "seedbed",
+    "go to seed"
+  ],
+  "list_browse": [
+    "see the light",
+    "see through",
+    "see to",
+    "see/think fit",
+    "seed",
+    "seedbed",
+    "seeded",
+    "seediness",
+    "seedling"
+  ]
+}

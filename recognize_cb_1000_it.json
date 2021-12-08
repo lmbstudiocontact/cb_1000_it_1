@@ -1,0 +1,114 @@
+{
+  "english": "recognize",
+  "phat_am": "ˈrekəɡnaiz",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "nhìn thấy; nghe thấy",
+          "definition": "to see, hear etc (a person, thing etc) and know who or what that person, thing etc is, because one has seen or heard him, it etc before",
+          "world_new": [
+            "see",
+            "hear",
+            "person",
+            "know",
+            "person"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I recognized his voice/handwriting",
+              "world_new": [
+                "I"
+              ]
+            },
+            {
+              "ex_of_definition": "I recognized him by his voice.",
+              "world_new": [
+                "I",
+                "voice"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "thừa nhận; chấp nhận",
+          "definition": "to admit, acknowledge",
+          "world_new": [
+            "admit",
+            "acknowledge"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Everyone recognized his skill.",
+              "world_new": [
+                "skill"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "công nhận",
+          "definition": "to be willing to have political relations with",
+          "world_new": [
+            "willing",
+            "political"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Many countries were unwilling to recognize the new republic.",
+              "world_new": [
+                "unwilling",
+                "republic"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "công nhận tính hợp pháp",
+          "definition": "to accept as valid, well-qualified etc",
+          "world_new": [
+            "accept",
+            "valid"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I don’t recognize the authority of this court.",
+              "world_new": [
+                "I",
+                "authority",
+                "court"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "However, in interpreting the results of chaotic advection, it must be recognized that solutes diffuse and solid particles move relative to the fluid locally.",
+    "First, word forms can be accessed and recognized via the mental representations of their constituent morphemes.",
+    "The order of these terms is consistent in always placing all ingredient terms before the only recognized plant-type modifiers.",
+    "Although those with more moderate illness remained in the community, they were not necessarily recognized as having a mental illness.",
+    "Let us now consider why it suffices to recognize just one verbal suffix that forms participles.",
+    "Additionally, these plans serve to identify possible problems and recognize ineffective designs.",
+    "Furthermore, because the virtual figures become easier to recognize, the time needed for recognition becomes shorter.",
+    "We recognize that these variables could have important effects on the level of stock holdings."
+  ],
+  "list_see_also": [
+    "recognizable",
+    "recognizably",
+    "recognition"
+  ],
+  "list_browse": [
+    "recluse",
+    "recognition",
+    "recognizable",
+    "recognizably",
+    "recognize",
+    "recoil",
+    "recollect",
+    "recollection",
+    "recommend"
+  ]
+}

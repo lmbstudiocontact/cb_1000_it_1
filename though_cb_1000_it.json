@@ -1,0 +1,71 @@
+{
+  "english": "though",
+  "phat_am": "ðəu",
+  "list_english": [
+    {
+      "type_word": "conjunction",
+      "list_definition": [
+        {
+          "mean_english": "mặc dù",
+          "definition": "(rare abbreviation tho’) despite the fact that; although",
+          "world_new": [
+            "despite",
+            "fact",
+            "although"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He went out, (even) though it was raining."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "adverb",
+      "list_definition": [
+        {
+          "mean_english": "tuy nhiên",
+          "definition": "however",
+          "world_new": [
+            "however"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I wish I hadn’t done it, though.",
+              "world_new": [
+                "I",
+                "wish",
+                "I"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "To promote ease of presentation, this path diagram represents only one twin in a pair (though the results are identical for the co-twin).",
+    "In addition, children and non-citizens are represented in a democracy even though they do not have the right to vote.",
+    "Such symbolic associations are 'ideological' through and through, though this latter word is problematic.",
+    "There is a theoretical (though unknown) value (l) that society would be willing to place on each of these units of outcome.",
+    "Though participants' responses on the set of practice items would not enter into our analysis, the responses are telling.",
+    "All the others were competent, though too often telling us what we have long known already.",
+    "The problem remains with respect to (6b) though.",
+    "Both are large-scale genres, often - though not necessarily - showcasing either the orchestra as a whole or individual players or sections within it."
+  ],
+  "list_see_also": [
+    "as though"
+  ],
+  "list_browse": [
+    "thoroughfare",
+    "thoroughly",
+    "thoroughness",
+    "thou",
+    "though",
+    "thought",
+    "thought bubble",
+    "-thought-out",
+    "thoughtful"
+  ]
+}

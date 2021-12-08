@@ -1,0 +1,118 @@
+{
+  "english": "resolve",
+  "phat_am": "rəˈzolv",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "kiên quyết",
+          "definition": "to make a firm decision (to do something)",
+          "world_new": [
+            "firm",
+            "decision"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I’ve resolved to stop smoking.",
+              "world_new": [
+                "resolved",
+                "stop",
+                "smoking"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "thông qua",
+          "definition": "to pass (a resolution)",
+          "world_new": [
+            "pass"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "It was resolved that women should be allowed to join the society.",
+              "world_new": [
+                "resolved",
+                "join",
+                "society"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "giải quyết",
+          "definition": "to take away (a doubt, fear etc) or produce an answer to (a problem, difficulty etc).",
+          "world_new": [
+            "doubt",
+            "fear",
+            "produce",
+            "answer",
+            "problem",
+            "difficulty"
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "kiên quyết",
+          "definition": "determination to do what one has decided to do",
+          "world_new": [
+            "determination"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He showed great resolve.",
+              "world_new": [
+                "great"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "sự quyết tâm",
+          "definition": "a firm decision",
+          "world_new": [
+            "firm",
+            "decision"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "It is his resolve to become a director of this firm.",
+              "world_new": [
+                "become",
+                "director",
+                "firm"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Disagreements were resolved by the more experienced coder reviewing the videotape.",
+    "There are at least two ways in which this problem can be resolved.",
+    "617 scientific analysis of the arguments, and of how the controversy evolved and was eventually resolved.",
+    "The use of the notion of \"intrinsic reinforcement,\" which has never been resolved satisfactorily, is one concern.",
+    "Disagreements were resolved by a third naive rater.",
+    "Discrepancies in the transcription were resolved by consensus.",
+    "Secondary biliary cirrhosis resolved upon the relief of such obstruction.",
+    "Thus, each test was coded at least twice, and all discrepancies were resolved."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "resolute",
+    "resolutely",
+    "resoluteness",
+    "resolution",
+    "resolve",
+    "resolved",
+    "resonance",
+    "resonant",
+    "resort"
+  ]
+}

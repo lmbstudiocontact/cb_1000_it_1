@@ -1,0 +1,90 @@
+{
+  "english": "strange",
+  "phat_am": "streindʒ",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "xa lạ",
+          "definition": "not known, seen etc before; unfamiliar or foreign",
+          "world_new": [
+            "unfamiliar",
+            "foreign"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "What would you do if you found a strange man in your house?",
+              "world_new": [
+                "found",
+                "your",
+                "house"
+              ]
+            },
+            {
+              "ex_of_definition": "Whenever you’re in a strange country, you should take the opportunity of learning the language.",
+              "world_new": [
+                "country",
+                "opportunity",
+                "learning",
+                "language"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "lạ thường, lập dị",
+          "definition": "unusual, odd or queer",
+          "world_new": [
+            "unusual",
+            "odd",
+            "queer"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She had a strange look on her face",
+              "world_new": [
+                "look",
+                "face"
+              ]
+            },
+            {
+              "ex_of_definition": "a strange noise.",
+              "world_new": [
+                "noise"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "After a meteorite fall, people scour the country, expecting to see something strange.",
+    "One of the intriguing things was how people's characters came over in these strange languages.",
+    "Seasonal workers, or 'strange farmers ', were similarly considered as highly desirable and were liable for a special rent.",
+    "They sit on the edges of the speech community's own position, strange to speakers but there as attention-holding presences in their lives.",
+    "The phrase \"stranger danger\" is intended to sum up the danger associated with adults whom children do not know.",
+    "Perhaps it is good to have this objectively established, but surely it would be strange if it were not so?",
+    "Thus, dogs who cannot acquire approbation in their dealings with strange dogs cannot trade.",
+    "One woman we interviewed explained how strange it would have been to consider playing a musical instrument when she was a girl."
+  ],
+  "list_see_also": [
+    "strangely",
+    "strangeness",
+    "stranger",
+    "strange to say/tell/relate",
+    "strangely enough"
+  ],
+  "list_browse": [
+    "strait",
+    "strait-jacket",
+    "strait-laced",
+    "strand",
+    "strange",
+    "strange to say/tell/relate",
+    "strangely",
+    "strangely enough",
+    "strangeness"
+  ]
+}

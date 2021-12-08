@@ -1,0 +1,134 @@
+{
+  "english": "west",
+  "phat_am": "west",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "hướng tây",
+          "definition": "the direction in which the sun sets or any part of the earth lying in that direction",
+          "world_new": [
+            "direction",
+            "sun",
+            "part",
+            "earth",
+            "direction"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "They travelled towards the west"
+            },
+            {
+              "ex_of_definition": "The wind is blowing from the west",
+              "world_new": [
+                "wind"
+              ]
+            },
+            {
+              "ex_of_definition": "Heavy showers are forecast for the west of Britain.",
+              "world_new": [
+                "forecast"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "Hướng Tây trên la bàn",
+          "definition": "(often with capital",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "also W) one of the four main points of the compass.",
+              "world_new": [
+                "main",
+                "points",
+                "compass"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "phía tây",
+          "definition": "in the west",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She’s in the west wing of the hospital.",
+              "world_new": [
+                "wing",
+                "hospital"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "từ hướng tây",
+          "definition": "from the direction of the west",
+          "world_new": [
+            "direction"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a west wind.",
+              "world_new": [
+                "wind"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "adverb",
+      "list_definition": [
+        {
+          "mean_english": "về phía tây",
+          "definition": "towards the west",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The cliffs face west.",
+              "world_new": [
+                "face"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The east has a longer history of settlement and is more urbanized than the west, which is somewhat of a frontier zone.",
+    "The study area is surrounded by large expanses (>200 km) of mainly continuous forest to the west, north and east.",
+    "The main reason why farming in the west was fraught with risk is simply that the region was so arid.",
+    "Four additional concentrations are lined up in a row along the west side of the platform.",
+    "From there they began gradually to move west sometime in the late eighteenth century.",
+    "Soldattorpet on the west coast provides a comparable vertical stratigraphy for the same period.",
+    "The severity of famine gradually increased in the east which slowly proceeded from west through the decades.",
+    "Abundant preliminary evidence has already been marshaled for the participation of gold in the seventeenth-century money transfer from west to east."
+  ],
+  "list_see_also": [
+    "westerly",
+    "western",
+    "westernmost",
+    "westward",
+    "westward(s)",
+    "go west",
+    "the West",
+    "the Wild West"
+  ],
+  "list_browse": [
+    "well-wisher",
+    "well/badly- etc behaved",
+    "wellingtons",
+    "welt",
+    "west",
+    "westerly",
+    "western",
+    "westernmost",
+    "westward"
+  ]
+}

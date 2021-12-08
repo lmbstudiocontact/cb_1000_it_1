@@ -1,0 +1,116 @@
+{
+  "english": "succeed",
+  "phat_am": "səkˈsiːd",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "thành công",
+          "definition": "to manage to do what one is trying to do; to achieve one’s aim or purpose",
+          "world_new": [
+            "manage",
+            "trying",
+            "achieve",
+            "aim",
+            "purpose"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He succeeded in persuading her to do it"
+            },
+            {
+              "ex_of_definition": "He’s happy to have succeeded in his chosen career",
+              "world_new": [
+                "happy",
+                "career"
+              ]
+            },
+            {
+              "ex_of_definition": "She tried three times to pass her driving-test, and at last succeeded",
+              "world_new": [
+                "times",
+                "pass"
+              ]
+            },
+            {
+              "ex_of_definition": "Our new teaching methods seem to be succeeding.",
+              "world_new": [
+                "teaching",
+                "seem"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "kế tục, kế tiếp",
+          "definition": "to follow next in order, and take the place of someone or something else",
+          "world_new": [
+            "follow",
+            "order",
+            "place",
+            "else"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He succeeded his father as manager of the firm / as king",
+              "world_new": [
+                "father",
+                "manager",
+                "firm",
+                "king"
+              ]
+            },
+            {
+              "ex_of_definition": "The cold summer was succeeded by a stormy autumn",
+              "world_new": [
+                "cold",
+                "summer",
+                "stormy",
+                "autumn"
+              ]
+            },
+            {
+              "ex_of_definition": "If the duke has no children, who will succeed to (= inherit) his property?",
+              "world_new": [
+                "duke",
+                "property"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The book succeeds on the first two counts, but falls short of providing a satisfying analysis of social relations.",
+    "He succeeded in piloting the ship into an unfamiliar fjord and signalled for assistance.",
+    "During the succeeding reunion, the infant stilled against the parent with eyes dazed for over 1 full min, and was, of course, judged disorganized.",
+    "For her project to succeed fully, she would need to be able to vindicate both her historical and philosophical claims.",
+    "I argue in the next two sections that two of the putative mechanisms do not succeed.",
+    "They succeeded in challenging the authority of the petro-military alliance and its fragmented offspring.",
+    "This observation provides us with a simple mechanism for filtering out unifications that cannot possibly succeed.",
+    "The book succeeds in the first case, although attention to the practical application of the research in this area is less well considered."
+  ],
+  "list_see_also": [
+    "success",
+    "successful",
+    "successfully",
+    "succession",
+    "successive",
+    "successively",
+    "successor",
+    "in succession"
+  ],
+  "list_browse": [
+    "subversion",
+    "subversive",
+    "subvert",
+    "subway",
+    "succeed",
+    "success",
+    "successful",
+    "successfully",
+    "succession"
+  ]
+}

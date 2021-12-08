@@ -1,0 +1,73 @@
+{
+  "english": "specify",
+  "phat_am": "ˈspesifai",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "ghi rõ, định rõ",
+          "definition": "to mention particularly",
+          "world_new": [
+            "mention",
+            "particularly"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He specified the main illnesses that are caused by poverty.",
+              "world_new": [
+                "main",
+                "poverty"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "chỉ rõ",
+          "definition": "to order specially",
+          "world_new": [
+            "order",
+            "specially"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She ordered a cake from the baker and specified green icing.",
+              "world_new": [
+                "cake",
+                "baker",
+                "green",
+                "icing"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Similarly, the model specifies no checkerboard contributions to content until that date, then requires them afterwards.",
+    "Reports should specify why an assessment has been undertaken and, where appropriate, who has requested this work.",
+    "To represent finite trees we need to be able to specify initial values for the instance variables which indicate the absence of subtrees.",
+    "The macroscopic, coarse-grained description is less precise than the microscopic one, but simpler and accurate to within a level specified by the noise.",
+    "The question is then how the conditions on reference are in fact to be adequately specified.",
+    "Although neither prediction is specified in detail, we are confident they will ultimately guide new research.",
+    "The designer, who draws walls or furniture or writes captions, never specifies the significance of his or her actions.",
+    "In the following, unless otherwise specified, we consider the ordered semantics."
+  ],
+  "list_see_also": [
+    "specific",
+    "specifically",
+    "specifics"
+  ],
+  "list_browse": [
+    "species",
+    "specific",
+    "specifically",
+    "specifics",
+    "specify",
+    "specimen",
+    "speck",
+    "speckle",
+    "speckled"
+  ]
+}

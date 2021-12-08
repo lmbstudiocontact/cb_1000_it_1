@@ -1,0 +1,96 @@
+{
+  "english": "sentence",
+  "phat_am": "ˈsentəns",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "câu",
+          "definition": "a number of words forming a complete statement",
+          "world_new": [
+            "number",
+            "complete",
+            "statement"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "‘I want it’, and ‘Give it to me!’ are sentences."
+            }
+          ]
+        },
+        {
+          "mean_english": "lời tuyên án",
+          "definition": "a punishment imposed by a law court",
+          "world_new": [
+            "punishment",
+            "law",
+            "court"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a sentence of three years’ imprisonment",
+              "world_new": [
+                "imprisonment"
+              ]
+            },
+            {
+              "ex_of_definition": "He is under sentence of death.",
+              "world_new": [
+                "death"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "kết án",
+          "definition": "(usually with to) legal to condemn to a particular punishment",
+          "world_new": [
+            "condemn",
+            "particular",
+            "punishment"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He was sentenced to life imprisonment.",
+              "world_new": [
+                "life",
+                "imprisonment"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "However, since these effects were not consistent across ages, whether co-referencing complexity alone is driving sentence-processing speed is unclear.",
+    "These were 4 x 6 color photographs of figurines positioned to correspond to the events described in the sentence stimuli.",
+    "The participants read 60 sentences in random order in a sentence reading task.",
+    "Such sentences with an active sentence construction but a reversal of thematic roles were absent from the data.",
+    "Accepting the purely syntactic part of this extremely simple analysis, let us consider the semantics of the sentence.",
+    "The 'could' in the first sentence is worth noting but, passing quickly over this point, the 10 per cent figure seems arbitrary, at best.",
+    "The language is stilted, typical 'translatorese', so much so that some sentences are virtually incomprehensible.",
+    "Likewise, the identical rater training scheme employed only 2 words and 2 sentences."
+  ],
+  "list_see_also": [
+    "sentence builder",
+    "sentence stems"
+  ],
+  "list_browse": [
+    "sensuality",
+    "sensually",
+    "sensuous",
+    "sensuously",
+    "sentence",
+    "sentence builder",
+    "sentence stems",
+    "sentiment",
+    "sentimental"
+  ]
+}

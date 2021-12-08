@@ -1,0 +1,216 @@
+{
+  "english": "most",
+  "phat_am": "məust",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "đa số",
+          "definition": "(the) greatest number or quantity of",
+          "world_new": [
+            "number",
+            "quantity"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Which of the students has read the most books?",
+              "world_new": [
+                "read"
+              ]
+            },
+            {
+              "ex_of_definition": "Reading is what gives me most enjoyment.",
+              "world_new": [
+                "enjoyment"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "phần lớn",
+          "definition": "the majority or greater part of",
+          "world_new": [
+            "majority",
+            "part"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Most children like playing games",
+              "world_new": [
+                "games"
+              ]
+            },
+            {
+              "ex_of_definition": "Most modern music is difficult to understand.",
+              "world_new": [
+                "modern",
+                "music",
+                "difficult",
+                "understand"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "adverb",
+      "list_definition": [
+        {
+          "mean_english": "so sánh nhất",
+          "definition": "used to form the superlative of many adjectives and adverbs, especially those of more than two syllables",
+          "world_new": [
+            "form",
+            "superlative"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Of all the women I know, she’s the most beautiful",
+              "world_new": [
+                "I",
+                "know",
+                "beautiful"
+              ]
+            },
+            {
+              "ex_of_definition": "the most delicious cake I’ve ever tasted",
+              "world_new": [
+                "delicious",
+                "cake",
+                "ever"
+              ]
+            },
+            {
+              "ex_of_definition": "We see her mother or father sometimes, but we see her grandmother most frequently.",
+              "world_new": [
+                "see",
+                "mother",
+                "father",
+                "see",
+                "frequently"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "hơn cả",
+          "definition": "to the greatest degree or extent",
+          "world_new": [
+            "degree",
+            "extent"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "They like sweets and biscuits, but they like ice-cream most of all."
+            }
+          ]
+        },
+        {
+          "mean_english": "nhất",
+          "definition": "very or extremely",
+          "world_new": [
+            "extremely"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I’m most grateful to you for everything you’ve done",
+              "world_new": [
+                "grateful"
+              ]
+            },
+            {
+              "ex_of_definition": "a most annoying child.",
+              "world_new": [
+                "annoying",
+                "child"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "hầu hết",
+          "definition": "almost",
+          "world_new": [
+            "almost"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Most everyone I know has read that book.",
+              "world_new": [
+                "I",
+                "know",
+                "read",
+                "book"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "pronoun",
+      "list_definition": [
+        {
+          "mean_english": "nhiều nhất",
+          "definition": "the greatest number or quantity",
+          "world_new": [
+            "number",
+            "quantity"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I ate two cakes, but Mary ate more, and John ate (the) most.",
+              "world_new": [
+                "I"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đa số",
+          "definition": "the greatest part; the majority",
+          "world_new": [
+            "majority"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He’ll be at home for most of the day",
+              "world_new": [
+                "home",
+                "day"
+              ]
+            },
+            {
+              "ex_of_definition": "Most of these students speak English",
+              "world_new": [
+                "speak",
+                "English"
+              ]
+            },
+            {
+              "ex_of_definition": "Everyone is leaving – most have gone already."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "mostly",
+    "at (the) most",
+    "for the most part",
+    "make the most of (something)"
+  ],
+  "list_browse": [
+    "mosque",
+    "mosquito",
+    "moss",
+    "mossy",
+    "most",
+    "mostly",
+    "MOT",
+    "motel",
+    "moth"
+  ]
+}

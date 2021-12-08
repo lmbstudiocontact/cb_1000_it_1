@@ -1,0 +1,110 @@
+{
+  "english": "she",
+  "phat_am": "ʃiː",
+  "list_english": [
+    {
+      "type_word": "pronoun",
+      "list_definition": [
+        {
+          "mean_english": "nó, bà, chị, cô ấy…",
+          "definition": "a female person or animal already spoken about",
+          "world_new": [
+            "female",
+            "person",
+            "animal",
+            "spoken"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "When the girl saw us, she asked the time.",
+              "world_new": [
+                "girl",
+                "saw",
+                "time"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "bất kì người phụ nữ nào",
+          "definition": "any female person",
+          "world_new": [
+            "female",
+            "person"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "She who runs the fastest will be the winner.",
+              "world_new": [
+                "winner"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "đàn bà, con gái, động vật cái",
+          "definition": "a female person or animal",
+          "world_new": [
+            "female",
+            "person",
+            "animal"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Is a cow a he or a she?",
+              "world_new": [
+                "cow"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "prefix",
+      "list_definition": [
+        {
+          "mean_english": "cái",
+          "definition": "female",
+          "world_new": [
+            "female"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a she-wolf."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "She argues that these differences are the reflex of different underlying representations for the two types of possessor relations.",
+    "We know you will, she told him, surprised by the turn of his talk.",
+    "With her words she helplessly returns to the past, but she can't recall the right tunes any more.",
+    "Assertives engage the speaker regarding the truth of the statement he/she is making : the psychological state being expressed is a belief.",
+    "She finds that the scope of consultation has little or no effect on reducing violence.",
+    "That is, she finally, with secret persistence, taught herself to read.",
+    "For her project to succeed fully, she would need to be able to vindicate both her historical and philosophical claims.",
+    "The rules at the university where he taught that student barred his giving her a grade before she had finished her paper."
+  ],
+  "list_see_also": [
+    "she-"
+  ],
+  "list_browse": [
+    "shaven",
+    "shaver",
+    "shavings",
+    "shawl",
+    "she",
+    "sheaf",
+    "shear",
+    "shears",
+    "sheath"
+  ]
+}

@@ -1,0 +1,149 @@
+{
+  "english": "separate",
+  "phat_am": "ˈsepəreit",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "tách rời ra",
+          "definition": "(sometimes with intoor from) to place, take, keep or force apart",
+          "world_new": [
+            "place",
+            "keep",
+            "force",
+            "apart"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He separated the money into two piles",
+              "world_new": [
+                "money"
+              ]
+            },
+            {
+              "ex_of_definition": "A policeman tried to separate the men who were fighting.",
+              "world_new": [
+                "policeman",
+                "fighting"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "tách rời nhau",
+          "definition": "to go in different directions",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "We all walked along together and separated at the crossroads.",
+              "world_new": [
+                "crossroads"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "ly thân",
+          "definition": "(of a husband and wife) to start living apart from each other by choice",
+          "world_new": [
+            "husband",
+            "start",
+            "living",
+            "apart",
+            "choice"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The couple separated last year.",
+              "world_new": [
+                "couple",
+                "year"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "",
+      "list_definition": [
+        {
+          "mean_english": "tách rời nhau",
+          "definition": "divided; not joined",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He sawed the wood into four separate pieces",
+              "world_new": [
+                "wood"
+              ]
+            },
+            {
+              "ex_of_definition": "The garage is separate from the house.",
+              "world_new": [
+                "garage",
+                "house"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "khác nhau",
+          "definition": "different or distinct",
+          "world_new": [
+            "distinct"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "This happened on two separate occasions"
+            },
+            {
+              "ex_of_definition": "I like to keep my job and my home life separate.",
+              "world_new": [
+                "I",
+                "keep",
+                "my",
+                "job",
+                "my",
+                "home",
+                "life"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "The digested samples were electrophoretically separated on 8% polyacrylamide gels.",
+    "Genes abut one another or are separated by short intergenic sequences.",
+    "They further argue that there is \"no time and no task\" in which reasoning can be separated from perceiving, acting, and remembering.",
+    "She just yelled through the open door that separated the reception area from his office.",
+    "We say that this approach is effector-based because it makes effector knowledge explicit, and separates it from the rest of the planning knowledge.",
+    "Each time the roller passed over the flax stem some of the shive separated from the fibre.",
+    "In physical health problems there may be a desire to identify a disease entity that can be diagnosed and separated from the sense of self.",
+    "How well separated could we expect the factors in a factorization to be?"
+  ],
+  "list_see_also": [
+    "separateness",
+    "separable",
+    "separately",
+    "separates",
+    "separation",
+    "separatist",
+    "separatism",
+    "separate off",
+    "separate out",
+    "separate up"
+  ],
+  "list_browse": [
+    "sentinel",
+    "sentry",
+    "sentry box",
+    "separable",
+    "separate",
+    "separate off",
+    "separate out",
+    "separate up",
+    "separately"
+  ]
+}

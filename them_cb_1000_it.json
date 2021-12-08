@@ -1,0 +1,65 @@
+{
+  "english": "them",
+  "phat_am": "ðəm",
+  "list_english": [
+    {
+      "type_word": "pronoun",
+      "list_definition": [
+        {
+          "mean_english": "chúng nó, họ",
+          "definition": "people, animals, things etc already spoken about, being pointed out etc",
+          "world_new": [
+            "people",
+            "spoken",
+            "pointed"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Let’s invite them to dinner",
+              "world_new": [
+                "invite",
+                "dinner"
+              ]
+            },
+            {
+              "ex_of_definition": "What will you do with them?"
+            }
+          ]
+        },
+        {
+          "mean_english": "họ, chúng",
+          "definition": "used instead of him, him or her etc where a person of unknown sex or people of both sexes are referred to",
+          "world_new": [
+            "instead",
+            "person",
+            "unknown",
+            "sex",
+            "people"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "If anyone touches that, I’ll hit them.",
+              "world_new": [
+                "hit"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "themselves"
+  ],
+  "list_browse": [
+    "thee",
+    "theft",
+    "their",
+    "theirs",
+    "them",
+    "theme",
+    "theme park",
+    "themselves",
+    "then"
+  ]
+}

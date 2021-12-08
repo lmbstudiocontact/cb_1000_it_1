@@ -1,0 +1,208 @@
+{
+  "english": "that",
+  "phat_am": "ðӕt",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "ấy, đó, kia",
+          "definition": "used to indicate a person, thing etc spoken of before, not close to the speaker, already known to the speaker and listener etc",
+          "world_new": [
+            "indicate",
+            "person",
+            "spoken",
+            "close",
+            "speaker",
+            "speaker",
+            "listener"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Don’t take this book – take that one",
+              "world_new": [
+                "book"
+              ]
+            },
+            {
+              "ex_of_definition": "At that time, I was living in Italy",
+              "world_new": [
+                "time",
+                "I",
+                "living"
+              ]
+            },
+            {
+              "ex_of_definition": "When are you going to return those books?",
+              "world_new": [
+                "return"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "pronoun",
+      "list_definition": [
+        {
+          "mean_english": "ấy, đó, kia",
+          "definition": "used to indicate a thing etc, or (in plural or with the verb be) person or people, spoken of before, not close to the speaker, already known to the speaker and listener etc",
+          "world_new": [
+            "indicate",
+            "verb",
+            "person",
+            "people",
+            "spoken",
+            "close",
+            "speaker",
+            "speaker",
+            "listener"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "What is that you’ve got in your hand?",
+              "world_new": [
+                "your",
+                "hand"
+              ]
+            },
+            {
+              "ex_of_definition": "Who is that?"
+            },
+            {
+              "ex_of_definition": "That is the Prime Minister"
+            },
+            {
+              "ex_of_definition": "Those present at the concert included the composer and his wife.",
+              "world_new": [
+                "present",
+                "concert",
+                "composer",
+                "wife"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "",
+      "list_definition": [
+        {
+          "mean_english": "người ấy, cái ấy, cái kia…",
+          "definition": "used to refer to a person, thing etc mentioned in a preceding clause in order to distinguish it from others",
+          "world_new": [
+            "refer",
+            "person",
+            "preceding",
+            "clause",
+            "order",
+            "distinguish"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Where is the parcel that arrived this morning?",
+              "world_new": [
+                "parcel",
+                "morning"
+              ]
+            },
+            {
+              "ex_of_definition": "Who is the man (that) you were talking to?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "",
+      "list_definition": [
+        {
+          "mean_english": "rằng, là, để mà",
+          "definition": "(often omitted) used to report what has been said etc or to introduce other clauses giving facts, reasons, results etc",
+          "world_new": [
+            "report",
+            "introduce"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I know (that) you didn’t do it",
+              "world_new": [
+                "I",
+                "know"
+              ]
+            },
+            {
+              "ex_of_definition": "I was surprised (that) he had gone.",
+              "world_new": [
+                "I",
+                "surprised"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "ước, mong muốn",
+          "definition": "used to introduce expressions of sorrow, wishes etc",
+          "world_new": [
+            "introduce",
+            "sorrow"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "That I should be accused of murder!",
+              "world_new": [
+                "I",
+                "murder"
+              ]
+            },
+            {
+              "ex_of_definition": "Oh, that I were with her now!",
+              "world_new": [
+                "I"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "",
+      "list_definition": [
+        {
+          "mean_english": "đến mức mà",
+          "definition": "so; to such an extent",
+          "world_new": [
+            "extent"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I didn’t realize she was that ill.",
+              "world_new": [
+                "I",
+                "realize",
+                "ill"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [
+    "like that",
+    "that’s that"
+  ],
+  "list_browse": [
+    "thanklessness",
+    "thanks",
+    "thanks to",
+    "Thanksgiving",
+    "that",
+    "that is to say",
+    "that’d",
+    "that’s that",
+    "that’s the stuff!"
+  ]
+}

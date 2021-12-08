@@ -1,0 +1,68 @@
+{
+  "english": "prefer",
+  "phat_am": "priˈfəː",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "thích hơn",
+          "definition": "to like better",
+          "world_new": [
+            "better"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Which do you prefer – tea or coffee?",
+              "world_new": [
+                "tea",
+                "coffee"
+              ]
+            },
+            {
+              "ex_of_definition": "I prefer reading to watching television",
+              "world_new": [
+                "I",
+                "reading",
+                "television"
+              ]
+            },
+            {
+              "ex_of_definition": "She would prefer to come with you rather than stay here.",
+              "world_new": [
+                "rather",
+                "stay"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Note that the presence of weak constraints has no influence on the worst-case complexity of deciding the existence of (preferred) answer sets.",
+    "Depending on the particular problem and the actual stage of development of a given science, one type may be preferred to another.",
+    "I would have preferred saying nothing about it.",
+    "Double-peaked histograms of velocity fluctuations imply that the velocity has two preferred states.",
+    "Where the mediator is chosen, therefore, the equally uninterested will be preferred (other things being equal) to the equally interested.",
+    "While we preferred the first solution for its elegance, we chose the second for pragmatic reasons.",
+    "The use of two flour layers should be preferred to the use of a single layer.",
+    "The cane-cutters preferred the twelve-month cane; the 24-month cane was reported to be harder to cut, had lodged and was infested with weeds."
+  ],
+  "list_see_also": [
+    "preferable",
+    "preferably",
+    "preference"
+  ],
+  "list_browse": [
+    "preen",
+    "prefabricated",
+    "preface",
+    "prefect",
+    "prefer",
+    "preferable",
+    "preferably",
+    "preference",
+    "prefix"
+  ]
+}

@@ -1,0 +1,160 @@
+{
+  "english": "should",
+  "phat_am": "ʃud",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "diễn tả sự ngạc nhiên",
+          "definition": "past tense of shall",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I thought I should never see you again.",
+              "world_new": [
+                "I",
+                "thought",
+                "I",
+                "see"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "diễn tả cái gì phải, nên xảy ra hoặc được làm",
+          "definition": "used to state that something ought to happen, be done etc",
+          "world_new": [
+            "state",
+            "happen"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "You should hold your knife in your right hand",
+              "world_new": [
+                "hold",
+                "your",
+                "knife",
+                "your",
+                "right",
+                "hand"
+              ]
+            },
+            {
+              "ex_of_definition": "You shouldn’t have said that."
+            }
+          ]
+        },
+        {
+          "mean_english": "diễn tả cái gì có thể xảy ra",
+          "definition": "used to state that something is likely to happen etc",
+          "world_new": [
+            "state",
+            "likely",
+            "happen"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "If you leave now, you should arrive there by six o’clock.",
+              "world_new": [
+                "leave",
+                "arrive",
+                "o’clock"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "dùng sau sự biểu thị ngạc nhiên hay đau khổ",
+          "definition": "used after certain expressions of sorrow, surprise etc",
+          "world_new": [
+            "certain",
+            "sorrow",
+            "surprise"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I’m surprised you should think that.",
+              "world_new": [
+                "surprised",
+                "think"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "dùng sau“if” diễn tả một điều kiện",
+          "definition": "used after if to state a condition",
+          "world_new": [
+            "state",
+            "condition"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "If anything should happen to me, I want you to remember everything I have told you today.",
+              "world_new": [
+                "happen",
+                "I",
+                "want",
+                "remember",
+                "I"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "diễn tả ước muốn khả thi của ai đó",
+          "definition": "(with Ior we) used to state that a person wishes something was possible",
+          "world_new": [
+            "state",
+            "person",
+            "possible"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I should love to go to France (if only I had enough money).",
+              "world_new": [
+                "I",
+                "love",
+                "I"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "diễn tả một sự kiện khá gây ngạc nhiên",
+          "definition": "used to refer to an event etc which is rather surprising",
+          "world_new": [
+            "refer",
+            "event",
+            "rather",
+            "surprising"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I was just about to get on the bus when who should come along but John, the very person I was going to visit.",
+              "world_new": [
+                "I",
+                "bus",
+                "person",
+                "I",
+                "visit"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "shortness",
+    "shorts",
+    "shot",
+    "shotgun",
+    "should",
+    "should/would like",
+    "shoulder",
+    "shoulder to shoulder",
+    "shoulder-blade"
+  ]
+}

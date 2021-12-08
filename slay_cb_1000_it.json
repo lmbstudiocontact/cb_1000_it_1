@@ -1,0 +1,39 @@
+{
+  "english": "slay",
+  "phat_am": "slei",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "giết chết",
+          "definition": "to kill",
+          "world_new": [
+            "kill"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Cain slew his brother Abel.",
+              "world_new": [
+                "slew",
+                "brother"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "slaughter",
+    "slaughter-house",
+    "slave",
+    "slavery",
+    "slay",
+    "sleaze",
+    "sleazy",
+    "sledge",
+    "sledgehammer"
+  ]
+}

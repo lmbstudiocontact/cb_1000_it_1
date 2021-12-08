@@ -1,0 +1,65 @@
+{
+  "english": "overrun",
+  "phat_am": "əuvəˈran",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "chiếm hữu",
+          "definition": "to fill, occupy or take possession of",
+          "world_new": [
+            "fill",
+            "occupy",
+            "possession"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The house was overrun with mice.",
+              "world_new": [
+                "house"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "vượt quá",
+          "definition": "to continue longer than intended",
+          "world_new": [
+            "continue"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The programme overran by five minutes.",
+              "world_new": [
+                "programme"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "There were concerns about the management and supervision of contractors, project cost overruns and the organisation's financial viability.",
+    "They have all been characterised by huge delays and vast cost overruns.",
+    "They are heavy loss makers and cost overruns are big.",
+    "In the latter case, the budget act requires that the government suggest countermeasures in case overruns are foreseen.",
+    "As for making procurement cheaper, 13 projects have exceeded their original cost approvals, and cost overruns have increased by £22 million since 1998.",
+    "In the absence of someone on the board who understood construction, it overran its costs by well over three times.",
+    "The rebels on the other hand had few problems in replenishing and expanding their military stock by abducting young men in the territories they overran.",
+    "In other words, it will be the taxpayer who shoulders the financial risk of cost overruns."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "overrate",
+    "overreact",
+    "overreaction",
+    "overrule",
+    "overrun",
+    "overseas",
+    "oversee",
+    "overseer",
+    "overshadow"
+  ]
+}

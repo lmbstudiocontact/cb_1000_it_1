@@ -1,0 +1,145 @@
+{
+  "english": "north",
+  "phat_am": "noːθ",
+  "list_english": [
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "hướng bắc",
+          "definition": "the direction to the left of a person facing the rising sun, or any part of the earth lying in that direction",
+          "world_new": [
+            "direction",
+            "left",
+            "person",
+            "facing",
+            "rising",
+            "sun",
+            "part",
+            "earth",
+            "direction"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He faced towards the north"
+            },
+            {
+              "ex_of_definition": "The wind is blowing from the north",
+              "world_new": [
+                "wind"
+              ]
+            },
+            {
+              "ex_of_definition": "I used to live in the north of England.",
+              "world_new": [
+                "I",
+                "live"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "hướng bắc trên la bàn",
+          "definition": "(also N) one of the four main points of the compass",
+          "world_new": [
+            "main",
+            "points",
+            "compass"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The needle is pointing to the north.",
+              "world_new": [
+                "needle"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "thuộc về hướng bắc",
+          "definition": "in the north",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "on the north bank of the river.",
+              "world_new": [
+                "bank",
+                "river"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "từ phương bắc",
+          "definition": "from the direction of the north",
+          "world_new": [
+            "direction"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a north wind.",
+              "world_new": [
+                "wind"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "adverb",
+      "list_definition": [
+        {
+          "mean_english": "về phía bắc",
+          "definition": "towards the north",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The stream flows north.",
+              "world_new": [
+                "stream"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "Assuming a discontinuous transition layer at the reconnection point the layer thickness to the north grows in the direction of the outer flow.",
+    "In the first place, there were other types of sciences and scientists involved in exploring the north.",
+    "This terminology is referred to when the process takes place either north or south of the reconnection point.",
+    "Smoke tests and measurements of air velocity indicated that a mild north-easterly wind (0.5 1.5m/s) generated very effective cross ventilation (see section).",
+    "These results represent strong evidence of increased seed mass in the vegetation of north-facing grasslands, when compared to their south-facing counterparts.",
+    "The plots were oriented perpendicular to the drainage channel so that one half of each plot faced north and the other faced south.",
+    "Some of these ' were removed altered backward to the north ', again to enlarge an alley.",
+    "The north-south migration of the water near the surface is likely to take place via the atmosphere rather than by horizontal motion within the soil."
+  ],
+  "list_see_also": [
+    "northerly",
+    "northern",
+    "northerner",
+    "northernmost",
+    "northward",
+    "northward",
+    "northbound",
+    "north-east / north-west",
+    "north-easterly / north-westerly",
+    "north-eastern / north-western",
+    ""
+  ],
+  "list_browse": [
+    "nor",
+    "normal",
+    "normality",
+    "normally",
+    "north",
+    "north-east / north-west",
+    "north-easterly / north-westerly",
+    "north-eastern / north-western",
+    "northbound"
+  ]
+}

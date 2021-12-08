@@ -1,0 +1,164 @@
+{
+  "english": "sure",
+  "phat_am": "ʃuə",
+  "list_english": [
+    {
+      "type_word": "adjective",
+      "list_definition": [
+        {
+          "mean_english": "chắc chắn, có thể tin được",
+          "definition": "(opposite unsure) having no doubt; certain",
+          "world_new": [
+            "certain"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "I’m sure that I gave him the book",
+              "world_new": [
+                "I",
+                "book"
+              ]
+            },
+            {
+              "ex_of_definition": "I’m not sure where she lives / what her address is",
+              "world_new": [
+                "address"
+              ]
+            },
+            {
+              "ex_of_definition": "‘There’s a bus at two o’clock.’ ‘Are you quite sure?’",
+              "world_new": [
+                "bus",
+                "o’clock",
+                "quite"
+              ]
+            },
+            {
+              "ex_of_definition": "I thought the idea was good, but now I’m not so sure",
+              "world_new": [
+                "I",
+                "thought",
+                "idea"
+              ]
+            },
+            {
+              "ex_of_definition": "I’ll help you – you can be sure of that!",
+              "world_new": [
+                "help"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "chắc, chắc chắn",
+          "definition": "unlikely to fail (to do or get something)",
+          "world_new": [
+            "unlikely",
+            "fail"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He’s sure to win",
+              "world_new": [
+                "win"
+              ]
+            },
+            {
+              "ex_of_definition": "You’re sure of a good dinner if you stay at that hotel.",
+              "world_new": [
+                "dinner",
+                "stay",
+                "hotel"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "đáng tin cậy",
+          "definition": "reliable or trustworthy",
+          "world_new": [
+            "reliable",
+            "trustworthy"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "a sure way to cure hiccups",
+              "world_new": [
+                "cure"
+              ]
+            },
+            {
+              "ex_of_definition": "a safe, sure method",
+              "world_new": [
+                "safe",
+                "method"
+              ]
+            },
+            {
+              "ex_of_definition": "a sure aim with a rifle.",
+              "world_new": [
+                "aim",
+                "rifle"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "adverb",
+      "list_definition": [
+        {
+          "mean_english": "chắc chắn",
+          "definition": "certainly; of course",
+          "world_new": [
+            "course"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Sure I’ll help you!",
+              "world_new": [
+                "help"
+              ]
+            },
+            {
+              "ex_of_definition": "‘Would you like to come?’ ‘Sure!’"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "To be sure, virtually any work of history or social science invokes some species of causal argument.",
+    "There are, to be sure, fewer inscriptions and no very lengthy ones, but that too reflects the relative poverty of public culture.",
+    "To be sure, artistic practice itself was not seen to be demeaning or unbecoming of a virtuoso.",
+    "It seems quite probable that at least some of these are increasing in frequency, though it is difficult to be sure of this.",
+    "To be sure, the eighteenth-century concept of progress should not be reduced to that ideology.",
+    "To be sure, meanings, messages and values are often materialized in objects that carry their force more compellingly and unobtrusively than words.",
+    "To be sure, the conference tried to clarify things into four strands, each with three sessions of three papers.",
+    "I'm sure that many of you have made great adaptations and gained great wisdom."
+  ],
+  "list_see_also": [
+    "surely",
+    "sureness",
+    "sure-footed",
+    "as sure as",
+    "be sure to",
+    "be/feel sure of oneself",
+    "for sure",
+    "make sure",
+    "sure enough"
+  ],
+  "list_browse": [
+    "supremacy",
+    "supreme",
+    "supremely",
+    "surcharge",
+    "sure",
+    "sure enough",
+    "sure-footed",
+    "surely",
+    "sureness"
+  ]
+}

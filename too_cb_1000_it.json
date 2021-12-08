@@ -1,0 +1,70 @@
+{
+  "english": "too",
+  "phat_am": "tuː",
+  "list_english": [
+    {
+      "type_word": "adverb",
+      "list_definition": [
+        {
+          "mean_english": "rất",
+          "definition": "to a greater extent, or more, than is required, desirable or suitable",
+          "world_new": [
+            "extent",
+            "desirable",
+            "suitable"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "He’s too fat for his clothes",
+              "world_new": [
+                "fat",
+                "clothes"
+              ]
+            },
+            {
+              "ex_of_definition": "I’m not feeling too well.",
+              "world_new": [
+                "feeling"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "cũng",
+          "definition": "in addition; also; as well",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "My husband likes cycling, and I do, too.",
+              "world_new": [
+                "husband",
+                "I"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "In addition, 5 participants died, 5 participants reported being too ill to participate, and 3 were lost due to relocation or other reasons.",
+    "I think he is too pessimistic about what the surviving sermons themselves tell us.",
+    "These may be due to extrinsic constraints that are too restrictive or assembly designs that are physically impossible.",
+    "If the mirroring is too accurate, the perception itself can become a source of fear, and it loses its symbolic potential.",
+    "If you need a written programme to undertake the intellectual 'decoding', the thing is surely already too far removed.",
+    "This too was in marked contrast to the conduct of planning before the devaluation.",
+    "Regrettably, the term \"model\" is used in far too many ways in both scientific and philosophical parlance.",
+    "All the others were competent, though too often telling us what we have long known already."
+  ],
+  "list_see_also": [],
+  "list_browse": [
+    "tonnage",
+    "tons",
+    "tonsil",
+    "tonsillitis",
+    "too",
+    "too bad",
+    "tool",
+    "toolbar",
+    "toot"
+  ]
+}

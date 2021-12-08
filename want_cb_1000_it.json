@@ -1,0 +1,147 @@
+{
+  "english": "want",
+  "phat_am": "wont",
+  "list_english": [
+    {
+      "type_word": "verb",
+      "list_definition": [
+        {
+          "mean_english": "muốn",
+          "definition": "to be interested in having or doing, or to wish to have or do (something); to desire",
+          "world_new": [
+            "interested",
+            "wish",
+            "desire"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "Do you want a biscuit?",
+              "world_new": [
+                "biscuit"
+              ]
+            },
+            {
+              "ex_of_definition": "She wants to know where he is",
+              "world_new": [
+                "know"
+              ]
+            },
+            {
+              "ex_of_definition": "She wants to go home.",
+              "world_new": [
+                "home"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "cần",
+          "definition": "to need",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "This wall wants a coat of paint.",
+              "world_new": [
+                "wall",
+                "coat",
+                "paint"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "thiếu",
+          "definition": "to lack",
+          "world_new": [
+            "lack"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "This house wants none of the usual modern features, but I do not like it",
+              "world_new": [
+                "house",
+                "usual",
+                "modern",
+                "I"
+              ]
+            },
+            {
+              "ex_of_definition": "The people will want (= be poor) no longer.",
+              "world_new": [
+                "people"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type_word": "noun",
+      "list_definition": [
+        {
+          "mean_english": "nhu cầu",
+          "definition": "something desired",
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "The child has a long list of wants.",
+              "world_new": [
+                "child",
+                "long",
+                "list"
+              ]
+            }
+          ]
+        },
+        {
+          "mean_english": "nghèo đói",
+          "definition": "poverty",
+          "world_new": [
+            "poverty"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "They have lived in want for many years."
+            }
+          ]
+        },
+        {
+          "mean_english": "thiếu",
+          "definition": "a lack",
+          "world_new": [
+            "lack"
+          ],
+          "list_ex_of_definition": [
+            {
+              "ex_of_definition": "There’s no want of opportunities these days."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "list_ex_of_english": [
+    "She too wants to participate in the creation of a person.",
+    "Studying resources can therefore be helpful if one wants to understand the evolution of business-government relations over time.",
+    "The women still wanted to address local conflict, but in addition the group turned more and more into a social, mutual support network.",
+    "We wanted to be finished one way or the other.",
+    "Another of the detainees was wanted for an assassination attempt on a local employer.",
+    "We were deeply touched that you cared enough to ask us about what we wanted and why we wanted it.",
+    "At the outset of the 1990s, there was remarkable consensus within the business community as to what kind of political economy it wanted.",
+    "They just wanted to make money on us, nothing else."
+  ],
+  "list_see_also": [
+    "wanted",
+    "want ad",
+    "want for"
+  ],
+  "list_browse": [
+    "wane",
+    "wangle",
+    "wanly",
+    "wanness",
+    "want",
+    "want ad",
+    "want for",
+    "wanted",
+    "wanton"
+  ]
+}
